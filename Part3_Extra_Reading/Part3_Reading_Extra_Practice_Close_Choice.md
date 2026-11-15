@@ -8,133 +8,133 @@ Grade 12 General | Grade 11 Advanced • EoT1 2026–2027
 
 ### The Price That Ends in Nine
 
-*B2.1 • 327 words • 3 marks per question*
+*B2.1 • 320 words • 3 marks per question*
 
-**[1]** Look at the shelf labels in any hypermarket in Sharjah or Al Ain and a pattern appears almost at once. A bottle of shampoo costs AED 19.95, a kettle AED 99, a television AED 2,499. Prices ending in nine are everywhere, and almost none end in a zero. The habit is so common that most shoppers no longer notice it, which is why it keeps working.
+**[1]** Examine the shelf labels in any hypermarket in Sharjah or Al Ain and a pattern emerges almost immediately. A bottle of shampoo costs AED 19.95, a kettle AED 99 and a television AED 2,499. Prices ending in nine are everywhere, whereas prices ending in zero are remarkably rare. The practice is so widespread that most customers have stopped noticing it, which is precisely why retailers continue to depend on it.
 
-**[2]** Psychologists call the effect left-digit bias. When we read a number, the brain gives most of its attention to the first digit and treats the rest as detail. AED 19.95 is only five fils cheaper than AED 20, but because the price begins with a one, it is filed mentally as 'nineteen and something'. In experiments, cutting a price from 20 to 19.99 increased sales far more than cutting it from 19.99 to 19.50, even though the second cut saves the customer ten times as much.
+**[2]** Psychologists refer to this effect as left-digit bias. When we read a number, the brain devotes most of its attention to the first digit and treats the remainder as minor detail. In experiments, reducing a price from 20 to 19.99 increased sales considerably more than reducing it from 19.99 to 19.50, although the second reduction saves the customer far more money.
 
-**[3]** The trick is not new. Shops in Europe and America were ending prices in nine more than a century ago, partly to force cashiers to open the till and give change, which made it harder to pocket the money. The psychological benefit was discovered later, almost by accident, and has been exploited ever since.
+**[3]** The technique is considerably older than the science that explains it. More than a century ago, shopkeepers ended prices in nine for a practical reason: a customer paying with a round banknote required change, which obliged the cashier to open the till and record the sale instead of quietly pocketing the money. The psychological advantage was discovered afterwards, largely by accident.
 
-**[4]** Interestingly, the effect weakens when a nine appears too often. Luxury brands avoid it altogether, because a round price such as AED 5,000 signals quality and confidence, while AED 4,999 whispers 'bargain'. The same brain that rounds down also reads a round number as a sign that the seller has nothing to hide.
+**[4]** Curiously, some sellers avoid the technique entirely. Luxury brands generally prefer round figures, because a price such as AED 5,000 communicates quality and confidence, whereas AED 4,999 suggests a bargain. The same brain that rounds a price downwards also interprets a round number as evidence that the seller has nothing to hide.
 
-**[5]** For the shopper, the defence is simple arithmetic. Round every price up to the nearest whole number, and compare the price per kilogram or per litre rather than the figure on the label. Shops will not abandon the nine, because it costs almost nothing and earns a great deal. Customers who refuse to be led by the first digit soon find that the nine stops talking to them.
+**[5]** For the shopper, the defence is straightforward arithmetic. Round every price up to the nearest whole number before deciding, and compare the cost per kilogram or per litre instead of the figure printed on the label. Retailers are unlikely to abandon the nine, since it costs them almost nothing and earns them a great deal. Customers who refuse to be guided by the first digit, however, soon discover that it has lost its influence over them.
 
 **Questions (3 marks each)**
 
-1. According to paragraph 1, why do most shoppers fail to notice prices ending in nine?  
+1. According to paragraph 1, why do retailers continue to rely on prices ending in nine?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** because the practice is so widespread that it seems honest
-   - **B** because the labels are so detailed that they go unread
-   - **C** because the practice is so widespread that it goes unseen
+   - **A** because customers have largely learned to distrust them
+   - **B** because prices that end in zero have become rare
+   - **C** because customers have largely ceased to notice them
 
-2. In the experiments described in paragraph 2, which price change had the biggest effect on sales?  
+2. According to paragraph 2, which price reduction increased sales the most?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** a small reduction that changed the leading digit of the price
-   - **B** a large reduction that changed the leading digit of the price
-   - **C** a small reduction that changed the closing digit of the price
+   - **A** the smaller one, which altered the first digit
+   - **B** the larger one, which saved customers more money
+   - **C** the larger one, which altered the first digit
 
-3. Why did shops originally start ending prices in nine, according to paragraph 3?  
+3. According to paragraph 3, what was the original purpose of ending prices in nine?  
    *DETAILS ◆ SYNONYM*  
-   - **A** to make cashiers record each sale and hand over receipts
-   - **B** to make cashiers open the till and hand over coins
-   - **C** to make customers open their purses and hand over coins
+   - **A** to persuade customers that the goods cost less
+   - **B** to stop cashiers from keeping payments for themselves
+   - **C** to stop customers from paying with round banknotes
 
-4. According to paragraph 4, what does a round price communicate to the brain?  
+4. According to paragraph 4, what does a round figure suggest to the customer?  
    *DETAILS ◆ SYNONYM*  
-   - **A** that the seller is sure of the product's quality
-   - **B** that the seller is eager to clear old stock
-   - **C** that the seller is sure of the product's popularity
+   - **A** that the seller is being open about the product
+   - **B** that the seller is rounding the product's price downwards
+   - **C** that the seller is offering the product more cheaply
 
 5. What is the main point of paragraph 2?  
    *MAIN POINTS ◆ CRITICAL THINKING*  
-   - **A** Our attention goes to a price's total value.
-   - **B** Our attention goes to a price's opening digit.
-   - **C** Our attention goes to a price's closing digits.
+   - **A** We judge a price chiefly by the detail that follows.
+   - **B** We judge a price chiefly by the digit we read first.
+   - **C** We judge a price chiefly by the money it saves us.
 
-6. What can be inferred about a luxury brand that prices a watch at AED 24,999?  
+6. Based on paragraph 4, what can be inferred about a luxury watch priced at AED 24,999?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** It may unintentionally suggest a limited-stock item.
-   - **B** It may unintentionally suggest a premium-quality item.
-   - **C** It may unintentionally suggest a reduced-price item.
+   - **A** It may appear to have nothing to conceal.
+   - **B** It may appear to be a sign of confidence.
+   - **C** It may appear to be offered at a discount.
 
-7. Why does the writer advise comparing the price per kilogram or litre?  
+7. What can be inferred from paragraph 5 about the cost per kilogram?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** Unit prices repeat the value the label is designed to show.
-   - **B** Unit prices reveal the value the label is designed to blur.
-   - **C** Unit prices are lower than the value shown on the label.
+   - **A** It gives a higher figure than the label price does.
+   - **B** It gives a truer comparison than the label price does.
+   - **C** It costs retailers almost nothing and earns them plenty.
 
 8. What is the overall message of the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** A pricing trick works on how we trust sellers, yet a round price exposes it.
-   - **B** A pricing trick works on how we read numbers, yet shops rarely rely on it.
-   - **C** A pricing trick works on how we read numbers, yet a simple habit defeats it.
+   - **A** A common pricing habit began as a check on cashiers and has since lost its influence.
+   - **B** A common pricing habit exploits how we read numbers, so luxury brands have abandoned it.
+   - **C** A common pricing habit exploits how we read numbers, but simple arithmetic can defeat it.
 
 ## Part 3A • Practice 2 | Money Talks | Consumerism and the human brain
 
 ### The First Number You Hear
 
-*B2.1 • 330 words • 3 marks per question*
+*B2.1 • 324 words • 3 marks per question*
 
-**[1]** In the Gold Souq in Deira, a bargain begins before a single word is spoken. The seller lays a bracelet on the counter and names a price. Whatever happens next, that first figure shapes the whole conversation. The buyer offers less, the seller comes down a little, and both feel they have won. Few buyers notice that the final price was decided largely by the number they heard first.
+**[1]** In the Gold Souq in Deira, a negotiation begins before the customer has said a word. The trader places a bracelet on the counter and announces a price. The customer offers less, the trader reduces the figure slightly, and both leave believing they have succeeded. Few customers realise that the final amount was determined largely by the first figure they heard, not by their own bargaining skill.
 
-**[2]** Behavioural economists call this anchoring. The brain does not judge a price in isolation; it judges it against whatever reference point is nearest. In a famous experiment, people were asked to write down the last two digits of their phone number and then to bid for a bottle of wine. Those with higher digits bid noticeably more. The number was completely irrelevant, and the participants knew it, yet it still pulled their bids upwards.
+**[2]** Behavioural economists call this anchoring. The brain rarely judges a price in isolation; instead, it measures it against the nearest available reference point. In one well-known experiment, participants wrote down the last two digits of their telephone number and then bid for a bottle of wine. Those with higher digits offered noticeably more. The number was entirely irrelevant, and the participants were aware of this, yet it still raised their bids.
 
-**[3]** Retailers use anchors everywhere. A 'was AED 899, now AED 599' label makes the second figure feel like a gift, even if the item never actually sold at the first. Restaurants place one very expensive dish at the top of the menu so that everything below it looks reasonable. Online stores show the premium model first, so the standard one suddenly appears modest.
+**[3]** Retailers supply anchors constantly. A label reading 'was AED 899, now AED 599' makes the second figure resemble a gift, even if the item was never actually sold at the first. Restaurants place one extremely expensive dish at the top of the menu so that everything beneath it appears reasonable. Online stores display the premium model first, with the result that the standard version suddenly seems modest.
 
-**[4]** Anchors work because comparison is quick and effortless, while calculating true value is slow and tiring. A shopper who has just seen AED 899 does not ask what a jacket should cost; the brain has already been handed a starting point, and it adjusts from there instead of beginning again.
+**[4]** Anchors are effective because comparison is rapid and effortless, whereas calculating genuine value is slow and demanding. A shopper who has just seen AED 899 does not ask what a jacket ought to cost. The brain has already been given a starting point, and it simply adjusts from there, usually by too little.
 
-**[5]** The defence is to arrive with your own anchor. Decide what the item is worth to you before you see any label, and write the figure down. Check the price of the same product elsewhere, and treat a crossed-out 'was' price as information about the seller's tactics rather than about the item. The seller will speak first if you let them. The shopper who has already chosen a number is much harder to move.
+**[5]** The defence is to arrive with an anchor of your own. Decide what the item is worth to you before looking at any label, and write the figure down. Treat a crossed-out 'was' price as information about the seller's tactics, not about the product. Sellers will speak first whenever they are permitted to. A shopper who has already chosen a number is considerably harder to move.
 
 **Questions (3 marks each)**
 
-1. According to paragraph 1, what largely decides the final price in the Gold Souq?  
+1. According to paragraph 1, what largely determines the final amount paid in the Gold Souq?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** the sum the buyer mentions at the start
-   - **B** the sum the seller mentions at the start
-   - **C** the sum the seller accepts at the end
+   - **A** the lower figure the customer offers in reply
+   - **B** the figure the trader announces at the outset
+   - **C** the skill with which the customer has bargained
 
-2. In the wine experiment, what was true of the phone-number digits?  
+2. According to paragraph 2, what was true of the participants in the wine experiment?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** They were meaningful for the wine and therefore lifted the bids.
-   - **B** They were meaningless for the wine and so lowered the bids.
-   - **C** They were meaningless for the wine but still lifted the bids.
+   - **A** They judged the wine's price without any reference point.
+   - **B** They believed the digits had some bearing on the wine.
+   - **C** They knew the digits had no bearing on the wine.
 
-3. Why do some restaurants put a very costly dish at the top of the menu?  
+3. According to paragraph 3, why do restaurants place an extremely expensive dish at the top of the menu?  
    *DETAILS ◆ SYNONYM*  
-   - **A** so that the remaining dishes appear generously sized
-   - **B** so that the remaining dishes appear sensibly priced
-   - **C** so that the featured dish gets ordered more
+   - **A** to make the dish listed first seem like a gift
+   - **B** to make the dishes listed below it seem fairly priced
+   - **C** to make the standard dishes seem like the premium choice
 
-4. According to paragraph 4, why are anchors so effective?  
+4. According to paragraph 4, what does the brain do once it has been given a starting point?  
    *DETAILS ◆ SYNONYM*  
-   - **A** Judging by comparison is tiring, but judging true worth is effortless.
-   - **B** Judging by comparison is accurate, but judging true worth is unreliable.
-   - **C** Judging by comparison is effortless, but judging true worth is tiring.
+   - **A** It moves away from that figure, but excessively.
+   - **B** It calculates the genuine value from the beginning.
+   - **C** It moves away from that figure, but insufficiently.
 
 5. What is the main point of paragraph 3?  
    *MAIN POINTS ◆ CRITICAL THINKING*  
-   - **A** Sellers in many fields purposely provide the opening figure.
-   - **B** Sellers in many fields purposely reduce the opening figure.
-   - **C** Sellers in many fields purposely conceal the opening figure.
+   - **A** Sellers of many kinds deliberately provide a figure for comparison.
+   - **B** Sellers of many kinds deliberately display their modest products first.
+   - **C** Sellers of many kinds deliberately reduce prices they once charged.
 
-6. What can be inferred about a 'was AED 899' label?  
+6. What can be inferred from paragraph 3 about a 'was AED 899' label?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** The item will soon be offered again at that figure.
-   - **B** The item may not have been offered at that figure.
-   - **C** The item must once have been offered at that figure.
+   - **A** It may be the price of the premium model.
+   - **B** It may not be a price that anyone actually paid.
+   - **C** It must be a price that somebody once paid.
 
-7. Why does the writer suggest writing your own figure down before shopping?  
+7. Based on paragraph 5, why should a shopper write a figure down before looking at any label?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** so your reference point is visible when the seller's appears
-   - **B** so your reference point is set before the seller's appears
-   - **C** so your reference point is revised once the seller's appears
+   - **A** so that it is compared with a seller's crossed-out figure
+   - **B** so that it is fixed before a seller's figure is seen
+   - **C** so that it is adjusted once a seller's figure is seen
 
 8. What is the main idea of the whole text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** The first figure we meet shapes our judgement, so bring your own reference point.
-   - **B** The last figure we meet shapes our judgement, so wait patiently for the final offer.
-   - **C** The first figure we meet shapes our judgement, so avoid shops where bargaining happens.
+   - **A** The first price we encounter guides our judgement, so shoppers should prepare their own reference figure.
+   - **B** The first price we encounter is usually invented, so shoppers should avoid shops that display reductions.
+   - **C** The first price we encounter guides our judgement, so shoppers should allow the seller to speak first.
 
 ## Part 3A • Practice 3 | Money Talks | Consumerism and the human brain
 
@@ -142,527 +142,527 @@ Grade 12 General | Grade 11 Advanced • EoT1 2026–2027
 
 *B2.1 • 330 words • 3 marks per question*
 
-**[1]** Almost every wallet in the UAE now holds a loyalty card, or a phone app that replaces one. Supermarkets, petrol stations, coffee chains and airlines all promise the same thing: spend with us, collect points, be rewarded. The schemes are costly to run, yet companies keep expanding them. That alone suggests the real reward flows mostly in one direction.
+**[1]** Almost every wallet in the UAE contains a loyalty card, or a phone application that replaces one. Supermarkets, coffee chains and airlines all make the same promise: spend with us, collect points and receive a reward. These schemes are expensive to operate, yet companies continue to expand them, which strongly suggests that the greater benefit lies with the business.
 
-**[2]** The psychology behind the schemes is well understood. The brain enjoys progress towards a goal, and it enjoys it more as the goal gets closer. In one study, customers given a coffee card with ten boxes, two of them already stamped, completed it faster than customers given a card with eight empty boxes, although both groups needed exactly eight coffees. The head start was an illusion, but the sense of progress was real.
+**[2]** The psychology is well established. People enjoy progress towards a goal, and their motivation increases as the goal approaches. In one study, some customers received a coffee card with ten boxes, two of which were already stamped, while others received a card with eight empty boxes. Both groups needed exactly eight purchases, yet the first group completed their cards considerably faster. The advantage was imaginary, but the feeling of progress was real.
 
-**[3]** Points also change how spending feels. A purchase that earns 200 points seems partly like saving, so the usual small pain of paying is softened. Shoppers in several studies spent more per visit at stores where they collected points, and chose those stores even when a nearby competitor was cheaper. The points were worth less than the difference in price, but the price difference was invisible and the points were not.
+**[3]** Points also alter the experience of spending. A purchase that earns points feels partly like saving, which softens the discomfort of paying. In several studies, shoppers kept choosing stores where they collected points even when a nearby competitor was cheaper. The points were worth less than the difference in price, but the difference was invisible, whereas the points were displayed on every receipt.
 
-**[4]** Companies gain something else too. Every scan of a card records what was bought, when, and with what. The data allows offers to be aimed at individuals with remarkable precision: a discount on baby food sent to a household that has just started buying nappies, for example. The customer sees a helpful coupon; the company sees a predictable shopper.
+**[4]** Companies gain something further. Each scan of a card records what was purchased, when, and in combination with what. This allows offers to be directed at individuals with remarkable accuracy: a discount on baby food, for instance, sent to a household that has recently begun buying nappies. The customer sees a convenient coupon, while the company sees a shopper whose future behaviour can be predicted.
 
-**[5]** None of this makes loyalty schemes a trap. Used deliberately, they return real value on spending that would happen anyway. The risk lies in letting the points decide where and how much you spend. A useful test is to ask whether you would choose this shop if the card did not exist. If the honest answer is no, the card is not rewarding loyalty. It is buying it.
+**[5]** None of this means that loyalty schemes are a trap. Used deliberately, they return genuine value on spending that would occur anyway. The danger lies in allowing the points to determine where, and how much, a person spends. A useful test is to ask whether you would choose the shop if no card existed. If the honest answer is no, the card is not rewarding your loyalty; it is purchasing it.
 
 **Questions (3 marks each)**
 
-1. According to paragraph 1, what does the growth of loyalty schemes suggest?  
+1. According to paragraph 1, what suggests that businesses benefit more than customers?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** that firms benefit from the schemes more than shoppers
-   - **B** that the schemes are becoming less expensive to operate
-   - **C** that shoppers benefit from the schemes more than firms
+   - **A** They keep enlarging schemes that are costly to run.
+   - **B** They keep replacing loyalty cards with phone applications.
+   - **C** They keep enlarging schemes that are cheap to run.
 
-2. In the coffee-card study, what did both groups of customers have in common?  
+2. According to paragraph 2, how did the two groups of coffee customers differ?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** the number of days they took to finish
-   - **B** the number of boxes already stamped for them
-   - **C** the number of drinks they had to buy
+   - **A** One group lost motivation as its goal came closer.
+   - **B** One group in fact needed to buy fewer coffees.
+   - **C** One group felt that it had already made a start.
 
-3. According to paragraph 3, why did shoppers choose a points store over a cheaper rival?  
+3. According to paragraph 3, why did shoppers stay with points stores although a rival was cheaper?  
    *DETAILS ◆ SYNONYM*  
-   - **A** The rival's lower prices were visible, but the points were unseen.
-   - **B** The rival's lower prices were unseen, but the points were visible.
-   - **C** The rival's lower prices were smaller than the points were worth.
+   - **A** They could see the saving elsewhere but not the points.
+   - **B** They could see the points but not the saving elsewhere.
+   - **C** They found the points were worth more than the saving.
 
-4. What do companies gain from each scan of a loyalty card, according to paragraph 4?  
+4. According to paragraph 4, why might a household receive a discount on baby food?  
    *DETAILS ◆ SYNONYM*  
-   - **A** a precise picture of what each shopper earns
-   - **B** a precise picture of what each shopper buys
-   - **C** a precise picture of what each rival charges
+   - **A** Its recent purchases indicated what it had stopped buying.
+   - **B** Its recent purchases indicated what it would need next.
+   - **C** Its members requested coupons that they found convenient.
 
-5. What is the main point of paragraph 2?  
+5. What is the main point of paragraph 4?  
    *MAIN POINTS ◆ CRITICAL THINKING*  
-   - **A** A sense of having failed makes people push on towards a target.
-   - **B** A sense of having started makes people push on towards a target.
-   - **C** A sense of having started makes people slow down towards a target.
+   - **A** Loyalty cards give households discounts on products for babies.
+   - **B** Loyalty cards give companies information for targeting customers.
+   - **C** Loyalty cards give customers information for comparing companies.
 
-6. What can be inferred about the baby-food coupon in paragraph 4?  
+6. What can be inferred from paragraph 3 about a purchase that earns points?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** Past purchases allowed the firm to confirm a past need.
-   - **B** Past complaints allowed the firm to forecast a coming need.
-   - **C** Past purchases allowed the firm to forecast a coming need.
+   - **A** It seems more costly than it really is.
+   - **B** It costs less than at a nearby competitor.
+   - **C** It seems less costly than it really is.
 
-7. What does the final sentence imply about a shopper who would leave if the card vanished?  
+7. Based on paragraph 5, what can be inferred about a shopper who answers 'no' to the writer's test?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** Such a customer's loyalty is being bought, not deserved.
-   - **B** Such a customer's loyalty is being tested, not rewarded.
-   - **C** Such a customer's loyalty is being deserved, not bought.
+   - **A** The points, not the shop itself, are attracting them.
+   - **B** The spending would have occurred there in any case.
+   - **C** The shop itself, not the points, is attracting them.
 
 8. What is the overall message of the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** Loyalty schemes reward our love of progress, so joining several of them at once is the wisest approach.
-   - **B** Loyalty schemes play on our love of progress, so the sensible shopper should decline to join them.
-   - **C** Loyalty schemes play on our love of progress, so enjoy them without letting them direct your spending.
+   - **A** Loyalty schemes cost companies heavily, so customers gain more from them than the businesses do.
+   - **B** Loyalty schemes exploit our enjoyment of progress, so sensible shoppers should refuse to join any scheme.
+   - **C** Loyalty schemes exploit our enjoyment of progress, so use them without letting them direct your spending.
 
 ## Part 3A • Practice 4 | Money Talks | Does money talk?
 
 ### Does a Bigger Salary Make You Happier?
 
-*B2.1 • 328 words • 3 marks per question*
+*B2.1 • 318 words • 3 marks per question*
 
-**[1]** Ask university students in Abu Dhabi what salary would make them content, and most name a figure a little higher than whatever they expect to earn. Ask the same question of people already earning that figure, and they will name a higher one again. Money clearly matters to happiness. The puzzle is why the amount that seems to be enough keeps moving.
+**[1]** Ask university students in Abu Dhabi what salary would make them content, and most suggest a figure slightly above whatever they expect to earn. Put the same question to people who already earn that figure, and they propose a higher one still. Money clearly contributes to happiness. The puzzle is why the amount that appears sufficient keeps moving further away.
 
-**[2]** Economists have studied the link for decades, and the findings are consistent. Below a certain level, extra income raises wellbeing sharply, because it removes real worries: rent, bills, medical costs, debt. Above that level the effect continues but weakens with each step. Doubling a modest salary changes a life; doubling a very large one changes a car.
+**[2]** Economists have examined this relationship for decades, and their findings are broadly consistent. Below a certain level, additional income improves wellbeing sharply, because it removes genuine anxieties such as rent, medical expenses and debt. Above that level the effect continues but diminishes with each increase. Doubling a modest salary transforms a life, whereas doubling a very large one merely changes a car.
 
-**[3]** Part of the explanation is adaptation. A new apartment or a larger pay cheque delivers a burst of pleasure, but within months it becomes the normal background of life and stops being noticed. Psychologists describe this as a treadmill: we run faster, the scenery stays the same. The brain is built to notice change, not level, so a raise is felt mainly in the week it arrives.
+**[3]** Part of the explanation is adaptation. A new apartment or a larger salary produces a burst of pleasure, but within months it becomes the ordinary background of life and is no longer noticed. Psychologists compare this to a treadmill: we run faster while the scenery stays the same. The brain is designed to register change, not stable conditions.
 
-**[4]** A second factor is comparison. Research in several countries shows that people judge their income less by what it buys than by how it compares with that of colleagues and neighbours. A salary that felt generous becomes disappointing the day a friend reveals a bigger one. Social media, which displays other people's purchases constantly, has turned a monthly comparison into an hourly one.
+**[4]** A second factor is comparison. Research in several countries indicates that people evaluate their income less by what it purchases than by how it compares with the earnings of colleagues and neighbours. A salary that once felt generous becomes disappointing the moment a friend mentions a larger one. Social media, which displays other people's purchases continuously, has converted an occasional comparison into an hourly one.
 
-**[5]** None of this means money does not talk. It speaks loudly about security, choice and freedom from fear. What the evidence suggests is that it says less and less about joy once the basics are covered, and that how income is spent, on time, on experiences, on other people, often matters more than the figure on the payslip. The students in Abu Dhabi are right that money matters. They are probably wrong about how much of it they need.
+**[5]** None of this means that money has nothing to say. It speaks clearly about security, choice and freedom from fear. What the evidence suggests is that it says progressively less about joy once basic needs are met, and that how income is spent, on time, experiences and other people, frequently matters more than the figure on the payslip. The students are right that money matters; they have probably misjudged how much they need.
 
 **Questions (3 marks each)**
 
-1. According to paragraph 1, what happens when people reach the salary they once wanted?  
+1. According to paragraph 1, what do people who already earn the students' figure say?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** They settle on a higher figure as the one they need.
-   - **B** They accept the figure they earn as the one they need.
-   - **C** They settle on a lower figure as the one they need.
+   - **A** that an amount larger than theirs is required
+   - **B** that money contributes rather little to their happiness
+   - **C** that the amount they now earn is sufficient
 
-2. According to paragraph 2, when does extra income have the strongest effect on wellbeing?  
+2. According to paragraph 2, why does additional income improve wellbeing sharply at lower levels?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** once a person's income has recently doubled
-   - **B** while a person's income remains fairly generous
-   - **C** while a person's income remains fairly modest
+   - **A** It takes away the wish for a car.
+   - **B** It takes away worries that are imagined.
+   - **C** It takes away worries that are real.
 
-3. Why is a pay rise felt mainly in the week it arrives, according to paragraph 3?  
+3. According to paragraph 3, what happens to the pleasure of a larger salary within months?  
    *DETAILS ◆ SYNONYM*  
-   - **A** The mind registers losses, not comparable gains.
-   - **B** The mind registers shifts, not stable conditions.
-   - **C** The mind registers stable conditions, not shifts.
+   - **A** It stays, like the scenery beside a treadmill.
+   - **B** It fades as the salary comes to seem normal.
+   - **C** It grows as the salary comes to seem normal.
 
-4. According to paragraph 4, how has social media altered income comparison?  
+4. According to paragraph 4, how do people mainly evaluate their income?  
    *DETAILS ◆ SYNONYM*  
-   - **A** It has made people compare incomes far less openly.
-   - **B** It has made people compare incomes far more frequently.
-   - **C** It has made people compare incomes far more accurately.
+   - **A** by measuring it against what it allows them to buy
+   - **B** by measuring it against what people around them earn
+   - **C** by measuring it against what people around them buy
 
-5. What is the main point of paragraph 4?  
+5. What is the main point of paragraph 3?  
    *MAIN POINTS ◆ CRITICAL THINKING*  
-   - **A** Contentment with pay rests largely on other people's earnings.
-   - **B** Contentment with pay rests largely on one's own purchases.
-   - **C** Contentment with pay rests largely on other people's spending.
+   - **A** People soon get used to improvements in their circumstances.
+   - **B** People notice stable circumstances more than sudden changes.
+   - **C** People soon lose the improvements in their circumstances.
 
-6. What does the sentence 'doubling a very large one changes a car' imply?  
+6. What can be inferred from paragraph 4 about the effect of social media?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** At high incomes extra money goes mostly on cars.
-   - **B** At high incomes extra money brings merely small gains.
-   - **C** At high incomes extra money brings mostly practical gains.
+   - **A** It gives people fewer occasions to compare their purchases.
+   - **B** It gives people more frequent reasons to feel dissatisfied.
+   - **C** It gives people more accurate knowledge of friends' salaries.
 
-7. What can be inferred about the writer's view of the Abu Dhabi students?  
+7. Based on paragraph 5, what can be inferred about someone whose basic needs are met?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** They are right in full, about both the role and amount of money.
-   - **B** They are right in part, but they understate the amount they need.
-   - **C** They are right in part, but they overstate the amount they need.
+   - **A** How secure they feel has little to do with their income.
+   - **B** How large their income is may matter more than its use.
+   - **C** How they use their income may matter more than its size.
 
 8. Which statement best sums up the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** Income lifts wellbeing sharply at first, but past the basics its power weakens.
-   - **B** Income barely affects wellbeing at any level once the monthly rent is covered.
-   - **C** Income lifts wellbeing sharply at first, and past the basics its power doubles.
+   - **A** Money raises wellbeing sharply at first, but its effect weakens once basic needs are covered.
+   - **B** Money matters mainly because people compare salaries, so its effect depends on social media.
+   - **C** Money raises wellbeing sharply at first, and its effect strengthens once basic needs are covered.
 
 ## Part 3A • Practice 5 | Money Talks | Consumerism and the human brain
 
 ### Too Many Jars of Jam
 
-*B2.1 • 328 words • 3 marks per question*
+*B2.1 • 322 words • 3 marks per question*
 
-**[1]** A hypermarket on the edge of Dubai stocks more than forty kinds of olive oil and nearly a hundred varieties of breakfast cereal. Shoppers say they want this choice, and surveys confirm it. Yet watch the aisle for ten minutes and something strange happens. People pick up bottles, read labels, compare prices, and then quite often walk away with nothing at all.
+**[1]** A hypermarket on the outskirts of Dubai stocks more than forty kinds of olive oil and nearly a hundred varieties of breakfast cereal. Customers say they want this variety, and surveys confirm it. Observe the aisle for ten minutes, however, and something unexpected occurs. People pick up bottles, read labels and compare prices, and then, surprisingly often, leave without buying anything.
 
-**[2]** The pattern was first measured in a well-known study of jam. Researchers set up a tasting table in a shop, offering twenty-four flavours on some days and only six on others. The large display attracted more visitors, which seemed to prove that choice sells. But of those who stopped at it, only three per cent bought a jar. At the small table, thirty per cent did. More options brought more interest and far fewer sales.
+**[2]** This pattern was first measured in a well-known study involving jam. Researchers set up a tasting table in a shop, offering twenty-four flavours on some days and only six on others. The larger display attracted more visitors, which appeared to prove that variety sells. Yet only three per cent of those who stopped there bought a jar, compared with thirty per cent at the smaller table.
 
-**[3]** Psychologists explain this as choice overload. Every added option adds a comparison, and comparisons cost mental energy. Beyond a certain point, the brain judges the task not worth the effort and postpones it. When a purchase is finally made, the buyer often feels less satisfied, because every alternative not chosen remains in the mind as a possible better deal.
+**[3]** Psychologists describe this as choice overload. Every additional option requires another comparison, and comparisons consume mental energy. Beyond a certain point, the brain concludes that the task is not worth the effort and postpones it. When a purchase is eventually made, the buyer often feels less satisfied, because every rejected alternative remains in the mind as a possibly better decision.
 
-**[4]** Retailers have learned the lesson in two opposite ways. Some have cut their ranges sharply, and a few supermarket chains built their success on offering one good version of each product. Others keep the huge range for its advertising value and quietly guide shoppers towards two or three 'recommended' items with shelf position, colour and lighting. The customer feels free; the decision has largely been made.
+**[4]** Retailers have responded in two opposite ways. Some have reduced their ranges sharply, and a few supermarket chains have built their success on offering a single good version of each product. Others retain the enormous range for its advertising value and then quietly direct shoppers towards two or three 'recommended' items through shelf position, colour and lighting. The customer feels free, although the decision has largely been made already.
 
-**[5]** For the individual, the solution is to decide in advance which features matter and ignore the rest. A person who wants an oil for cooking, not salad, at under AED 30 is choosing from four bottles rather than forty. Choice is valuable, but only up to a point. Past that point, it stops being a pleasure and becomes work the shopper did not agree to do.
+**[5]** For the individual, the solution is to decide in advance which features matter and to disregard the rest. Someone who wants an oil for cooking, not for salad, at under AED 30 is choosing among four bottles instead of forty. Variety is valuable, but only up to a point. Beyond it, choosing stops being a pleasure and becomes work that the shopper never agreed to do.
 
 **Questions (3 marks each)**
 
-1. According to paragraph 1, what do shoppers frequently do after examining many olive oils?  
+1. According to paragraph 1, what unexpected behaviour can be observed in the aisle?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** They depart after purchasing a single bottle.
-   - **B** They request advice from a nearby assistant.
-   - **C** They depart without purchasing a single bottle.
+   - **A** Customers examine products and then purchase several.
+   - **B** Customers tell surveys that they dislike variety.
+   - **C** Customers examine products and then purchase none.
 
-2. What did the larger jam display achieve, according to paragraph 2?  
+2. According to paragraph 2, what did the larger display of jam achieve?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** It attracted more visitors and produced more sales.
-   - **B** It attracted fewer visitors but produced more sales.
-   - **C** It attracted more visitors but produced fewer sales.
+   - **A** It attracted more people and sold to a larger share.
+   - **B** It attracted fewer people but sold to a larger share.
+   - **C** It attracted more people but sold to a smaller share.
 
-3. According to paragraph 3, why do buyers often feel less content after choosing from many options?  
+3. According to paragraph 3, why do buyers often feel less satisfied after choosing?  
    *DETAILS ◆ SYNONYM*  
-   - **A** The rejected alternatives vanish from memory after the purchase.
-   - **B** The rejected alternatives linger as a possibly superior choice.
-   - **C** The rejected alternatives linger as a possibly inferior choice.
+   - **A** They resent the energy that comparing consumed.
+   - **B** They suspect an option they rejected was better.
+   - **C** They forget which options they had rejected.
 
-4. How do some retailers steer customers while keeping a huge range, according to paragraph 4?  
+4. According to paragraph 4, why do some retailers keep an enormous range?  
    *DETAILS ◆ SYNONYM*  
-   - **A** by means of shelf labels and pricing
-   - **B** by means of shelf position and lighting
-   - **C** by means of staff advice and sampling
+   - **A** because a wide selection lets shoppers decide for themselves
+   - **B** because a wide selection helps to promote the store
+   - **C** because a single version of each product sells poorly
 
 5. What is the main point of paragraph 3?  
    *MAIN POINTS ◆ CRITICAL THINKING*  
-   - **A** Every added option makes a decision harder and less satisfying.
-   - **B** Every added option makes a decision easier and more satisfying.
-   - **C** Every added option makes a decision slower but more satisfying.
+   - **A** Too many options make choosing tiring and less rewarding.
+   - **B** Too many options make buyers purchase without comparing.
+   - **C** Too many options make choosing slower but more rewarding.
 
-6. What can be inferred about supermarket chains that offer one version of each product?  
+6. What can be inferred from paragraph 4 about shoppers in stores that keep a huge range?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** A narrow range became a weakness they later corrected.
-   - **B** A narrow range became the basis of their success.
-   - **C** A narrow range was imposed on them by cost.
+   - **A** Their choices are freer than they realise.
+   - **B** Their choices are guided more than they realise.
+   - **C** Their choices are reduced to one version each.
 
-7. Why does the writer describe the shopper's extra effort as work 'the shopper did not agree to do'?  
+7. In paragraph 5, why does the writer mention four bottles instead of forty?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** The effort of sorting has been passed to the retailer.
-   - **B** The effort of sorting has been requested by the shopper.
-   - **C** The effort of sorting has been passed to the shopper.
+   - **A** to show that low prices shrink a decision
+   - **B** to show that variety has stopped being valuable
+   - **C** to show that clear requirements shrink a decision
 
 8. What is the overall message of the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** Past a certain point, extra choice lowers both purchases and satisfaction.
-   - **B** Shops ought to be required to limit each product to six varieties.
-   - **C** Past a certain point, extra choice raises both purchases and satisfaction.
+   - **A** Beyond a certain point, additional choice reduces both sales and customers' satisfaction.
+   - **B** Because customers dislike variety, retailers everywhere are now reducing their ranges sharply.
+   - **C** Beyond a certain point, additional choice reduces sales but increases customers' satisfaction.
 
 ## Part 3B • Practice 1 | Nail That Job! | A Man’s or a Woman’s Job?
 
 ### The Pink Roof
 
-*B2.2 • 329 words • 2 marks per question*
+*B2.2 • 320 words • 2 marks per question*
 
-**[1]** In 2007, a small number of taxis with pink roofs appeared on the streets of Dubai. They were driven by women, and they were intended mainly for female passengers and families. At the time, the idea attracted curiosity and a certain amount of doubt. Driving a taxi was regarded, almost everywhere in the world, as a man's job: long hours, unpredictable passengers, and nights spent alone in a vehicle.
+**[1]** In 2007, a small fleet of taxis with pink roofs appeared on the streets of Dubai. They were driven by women and were intended primarily for female passengers and families. The initiative attracted considerable curiosity and a degree of scepticism, since taxi driving was regarded almost universally as a masculine occupation, characterised by long shifts, unpredictable passengers and nights spent alone in a vehicle.
 
-**[2]** The service did not disappear, as some predicted. It grew, and it was later copied in other emirates and in several other countries. The women who drove the cars reported the same difficulties as their male colleagues, traffic, heat, difficult customers, and one extra challenge that the men did not face: being asked, repeatedly, why they were doing it at all.
+**[2]** Contrary to some predictions, the service did not disappear. It expanded, and was subsequently imitated in other emirates and in several other countries. The drivers reported the same difficulties as their male colleagues, including congestion, heat and demanding customers, together with one additional burden that the men were spared: being asked repeatedly to explain why they had chosen the work at all.
 
-**[3]** That question is worth examining, because it reveals how the label 'a man's job' actually works. Nothing about steering a car, reading a map or handling cash requires a particular set of muscles. What the label describes is not the task but the history of who has done it. Once a job has been performed by men for long enough, the arrangement starts to look like a law of nature rather than a habit.
+**[3]** That question deserves examination, because it reveals how the label 'a man's job' actually functions. Nothing involved in steering a vehicle, reading a map or handling payments depends on physical strength. What the label describes is not the task itself but the history of who has performed it. Once an occupation has been dominated by men for long enough, the arrangement begins to resemble a law of nature instead of a habit.
 
-**[4]** The pink taxis also exposed a less comfortable truth. A separate service was needed partly because some passengers were not yet ready to accept a woman behind the wheel of an ordinary cab. The solution respected local preferences and opened a door, but it also drew a line around the women's work. Progress and limitation arrived in the same vehicle.
+**[4]** The scheme also exposed a less comfortable reality. A separate service was necessary partly because some passengers were not yet prepared to accept a woman at the wheel of an ordinary cab. The solution respected local preferences and created an opportunity, yet it simultaneously drew a boundary around women's work. Progress and limitation arrived in the same vehicle.
 
-**[5]** Nearly two decades on, the sight of a woman driving professionally in the UAE causes little comment. Women now drive buses, school transport and delivery vans, and increasingly they manage the fleets as well. The pink roof has become a piece of history, which is perhaps the best outcome a symbol can hope for. It mattered because it was unusual; it succeeded by becoming ordinary.
+**[5]** Almost two decades later, the sight of a woman driving professionally in the UAE provokes little comment. Women now operate buses, school transport and delivery vehicles, and increasingly manage the fleets as well. The pink roof has become a historical curiosity, which is arguably the most satisfying outcome a symbol can achieve: it mattered because it was unusual, and it succeeded by becoming ordinary.
 
 **Questions (2 marks each)**
 
-1. According to paragraph 1, who were the pink taxis chiefly meant to serve?  
+1. According to paragraph 1, why was the initiative met with scepticism?  
    *DETAILS ◆ SYNONYM*  
-   - **A** foreign visitors and those travelling at night
-   - **B** female passengers and those travelling to work
-   - **C** female passengers and those travelling with family
+   - **A** Driving taxis was largely restricted to night shifts.
+   - **B** Driving taxis was widely considered unsuitable for families.
+   - **C** Driving taxis was widely considered work for men.
 
-2. What extra difficulty did the female drivers report, according to paragraph 2?  
+2. According to paragraph 2, which difficulty affected only the female drivers?  
    *DETAILS ◆ SYNONYM*  
-   - **A** being repeatedly required to explain why they did the job
-   - **B** being repeatedly offered a lower wage for doing the job
-   - **C** being repeatedly required to explain how they did the job
+   - **A** being questioned about their reasons for driving
+   - **B** being imitated by services in other emirates
+   - **C** being questioned by customers who were demanding
 
-3. According to paragraph 3, what does the phrase 'a man's job' really describe?  
+3. According to paragraph 3, what does the label 'a man's job' actually describe?  
    *DETAILS ◆ SYNONYM*  
-   - **A** the history of who has carried out the work
-   - **B** the history of who has paid for the work
-   - **C** the physical effort that carrying out the work demands
+   - **A** who has customarily carried out the work
+   - **B** which tasks the work has customarily involved
+   - **C** how much physical strength the work requires
 
 4. In paragraph 4, 'exposed' is closest in meaning to  
    *INFERENCE ◆ SYNONYM*  
-   - **A** brought to light
-   - **B** called to mind
-   - **C** kept from sight
+   - **A** revealed
+   - **B** created
+   - **C** respected
 
 5. What can be inferred from 'Progress and limitation arrived in the same vehicle'?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** The scheme first extended and later confined women's options over time.
-   - **B** The scheme both extended and confined women's options at the same time.
-   - **C** The scheme confined women's options more than it extended them overall.
+   - **A** The scheme opened a door after first marking a limit.
+   - **B** The scheme opened a door while also marking a limit.
+   - **C** The scheme respected preferences that passengers had already abandoned.
 
-6. How would you describe the writer's tone in the final paragraph?  
+6. How would you describe the writer's tone in paragraph 5?  
    *MOOD AND TONE ◆ CRITICAL THINKING*  
-   - **A** mildly critical
-   - **B** warmly nostalgic
-   - **C** calmly approving
+   - **A** deeply surprised
+   - **B** mildly curious
+   - **C** quietly satisfied
 
 7. Which situation best matches the idea that a symbol 'succeeded by becoming ordinary'?  
    *CONNECTIONS ◆ CRITICAL THINKING*  
-   - **A** A hospital's first female surgeon retires and the hospital decides against appointing a replacement.
-   - **B** A hospital's first female surgeon retires and her farewell speech focuses mainly on her gender.
-   - **C** A hospital's first female surgeon retires and her farewell speech says nothing about her gender.
+   - **A** A female pilot's airline advertises her flights as something quite unusual.
+   - **B** A female pilot's announcement draws warm applause from her surprised passengers.
+   - **C** A female pilot's announcement draws no reaction at all from her passengers.
 
 8. What is the main idea of the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** A women-only service had its limits and therefore left female professional drivers unaccepted.
-   - **B** A women-only service had its limits but helped make female professional drivers unremarkable.
-   - **C** A women-only service was unneeded because passengers had already accepted female professional drivers.
+   - **A** A separate service for women had limits, so it left female professional drivers largely unaccepted.
+   - **B** A separate service for women had limits, yet it helped make female professional drivers ordinary.
+   - **C** A separate service for women proved unnecessary, since passengers had already accepted female drivers.
 
 ## Part 3B • Practice 2 | Nail That Job! | A Man’s or a Woman’s Job?
 
 ### Who Cooks the Dinner?
 
-*B2.2 • 328 words • 2 marks per question*
+*B2.2 • 321 words • 2 marks per question*
 
-**[1]** Ask who does most of the cooking in homes across the Gulf, and the answer, overwhelmingly, is women. Ask who runs the kitchens of the region's most celebrated restaurants and hotels, and the answer, overwhelmingly, is men. The same activity, preparing food, is treated as women's work when it is unpaid and as men's work when it is paid and praised. Few contradictions reveal the logic of gendered labour so clearly.
+**[1]** Ask who prepares most meals in households across the Gulf, and the answer is overwhelmingly women. Ask who directs the kitchens of the region's most celebrated restaurants and hotels, and the answer is overwhelmingly men. The identical activity is classified as women's work when it is unpaid and as men's work when it is salaried and admired. Few contradictions expose the logic of gendered labour so clearly.
 
-**[2]** The professional kitchen developed its culture in nineteenth-century Europe, where it was organised like an army, with ranks, orders shouted down a line and sixteen-hour shifts. That model was exported around the world, including to the hotel kitchens of Dubai and Abu Dhabi. It rewards physical endurance and tolerates aggression, and for generations it quietly assumed that the person at the top would be a man.
+**[2]** The professional kitchen acquired its culture in nineteenth-century Europe, where it was organised along military lines, with strict ranks, shouted orders and shifts of up to sixteen hours. This model was exported worldwide, including to the hotel kitchens of Dubai and Abu Dhabi. It rewards physical endurance, tolerates aggression and, for generations, silently assumed that the person in charge would be a man.
 
-**[3]** The assumption is now being tested. Culinary schools in the UAE report rising numbers of female students, and women have opened some of the most talked-about restaurants in the country, several of them built around Emirati home cooking. Their argument is pointed: the dishes the hotels now serve as 'heritage cuisine' were developed by generations of women who were never called chefs.
+**[3]** That assumption is now being challenged. Culinary schools in the UAE report increasing numbers of female students, and women have opened some of the country's most discussed restaurants, several of them devoted to Emirati home cooking. Their argument is pointed: the dishes that hotels now market as 'heritage cuisine' were developed by generations of women who were never given the title of chef.
 
-**[4]** Obstacles remain, and they are practical rather than mysterious. Split shifts that end after midnight are hard to combine with family responsibilities, which still fall mainly on women. Kitchens with few women can feel unwelcoming, and investors, who are mostly men, tend to back people who remind them of themselves. None of these barriers is about skill with a knife.
+**[4]** Obstacles remain, and they are practical, not mysterious. Split shifts ending after midnight are difficult to reconcile with family responsibilities, which still fall predominantly on women. Kitchens with few women can feel unwelcoming, and investors, most of whom are men, tend to support applicants who resemble themselves. None of these barriers concerns ability with a knife.
 
-**[5]** What the kitchen shows is that 'a man's job' and 'a woman's job' are often the same job wearing different clothes. Status, pay and recognition decide the label, not the task. When that is understood, the question changes. It is no longer whether women can run a kitchen, which they have always done, but why the title and the salary took so long to follow them through the door.
+**[5]** What the kitchen demonstrates is that 'a man's job' and 'a woman's job' are frequently the same job wearing different clothes. Status, pay and recognition determine the label; the task does not. Once this is understood, the question changes. It is no longer whether women are capable of running a kitchen, which they have always done, but why the title and the salary took so long to follow them through the door.
 
 **Questions (2 marks each)**
 
-1. According to paragraph 1, what decides whether cooking is seen as men's or women's work?  
+1. According to paragraph 1, when is cooking classified as men's work?  
    *DETAILS ◆ SYNONYM*  
-   - **A** whether the work is done at home or elsewhere
-   - **B** whether the work is skilled and praised or unskilled
-   - **C** whether the work is paid and praised or unpaid
+   - **A** when it is carried out within the household
+   - **B** when it brings payment but little public respect
+   - **C** when it brings both payment and public respect
 
-2. How does paragraph 2 describe the traditional professional kitchen?  
+2. According to paragraph 2, what does the traditional kitchen model reward?  
    *DETAILS ◆ SYNONYM*  
-   - **A** as rigidly ordered and socially welcoming
-   - **B** as loosely ordered and physically punishing
-   - **C** as rigidly ordered and physically punishing
+   - **A** the capacity to behave aggressively towards others
+   - **B** the capacity to give orders to senior ranks
+   - **C** the capacity to endure physically hard conditions
 
-3. What claim do the female restaurant owners make, according to paragraph 3?  
+3. According to paragraph 3, what argument do the women restaurant owners make?  
    *DETAILS ◆ SYNONYM*  
-   - **A** Women perfected the dishes hotels now sell as heritage.
-   - **B** Women originated the dishes hotels now sell as heritage.
-   - **C** Women abandoned the dishes hotels now sell as heritage.
+   - **A** Women created dishes and now receive hotels' professional recognition.
+   - **B** Women created dishes without receiving any professional recognition.
+   - **C** Women students created dishes that culinary schools now teach.
 
-4. In paragraph 4, 'practical rather than mysterious' suggests the obstacles are  
+4. In paragraph 4, 'reconcile with' is closest in meaning to  
    *INFERENCE ◆ SYNONYM*  
-   - **A** real and identifiable
-   - **B** hidden and puzzling
-   - **C** small and removable
+   - **A** fit together with
+   - **B** take priority over
+   - **C** keep apart from
 
-5. What can be inferred about the investors mentioned in paragraph 4?  
+5. What can be inferred from paragraph 4 about the barriers women chefs face?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** They lean towards founders who present the best dishes.
-   - **B** They lean towards founders who are similar to themselves.
-   - **C** They lean towards founders who are confident like themselves.
+   - **A** They arise from investors who doubt that women can cook.
+   - **B** They arise from working conditions, not from lack of skill.
+   - **C** They arise from lack of skill, not from working conditions.
 
-6. Which word best describes the tone of the final sentence?  
+6. Which phrase best describes the tone of the final sentence of the text?  
    *MOOD AND TONE ◆ CRITICAL THINKING*  
-   - **A** sharply questioning
-   - **B** openly celebrating
-   - **C** gently questioning
+   - **A** pointedly critical
+   - **B** openly amused
+   - **C** politely uncertain
 
 7. Which situation best illustrates 'the same job wearing different clothes'?  
    *CONNECTIONS ◆ CRITICAL THINKING*  
-   - **A** Stitching at home is called a pastime, while stitching for a fashion house is called design.
-   - **B** Stitching at home is done slowly, while stitching for a fashion house is done with machines.
-   - **C** Stitching at home is called a pastime, and stitching for a fashion house is called one too.
+   - **A** Caring for relatives is called duty, but in a hospital it is called nursing.
+   - **B** Caring for relatives is tiring work, but in a hospital it is shared in shifts.
+   - **C** Caring for relatives is called duty, and in a hospital it is called duty too.
 
 8. What is the main idea of the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** Cooking shows that women now outnumber men in the kitchens of the Gulf's leading hotels.
-   - **B** Cooking shows that a job's label follows the work itself rather than its pay and status.
-   - **C** Cooking shows that a job's label follows its pay and status rather than the work itself.
+   - **A** Cooking shows that women lack the physical endurance which professional kitchens have long demanded.
+   - **B** Cooking shows that the task, not pay and status, decides whose job it is called.
+   - **C** Cooking shows that pay and status, not the task, decide whose job it is called.
 
 ## Part 3B • Practice 3 | Nail That Job! | A Man’s or a Woman’s Job?
 
 ### The Uniform Fits
 
-*B2.2 • 307 words • 2 marks per question*
+*B2.2 • 301 words • 2 marks per question*
 
-**[1]** When the Khawla bint Al Azwar Military School opened in Abu Dhabi in 1991, it was the first institution of its kind in the region: a training college for women soldiers. The school was named after a seventh-century warrior, a choice that made a quiet point. Women in arms were not a modern import. They were a tradition that had been forgotten rather than one that had never existed.
+**[1]** When the Khawla bint Al Azwar Military School opened in Abu Dhabi in 1991, it was the first institution of its kind in the region: a training college for female soldiers. It was named after a seventh-century warrior, a decision that made a deliberate point. Women bearing arms were not a foreign innovation; they belonged to a tradition that had been forgotten, not one that had never existed.
 
-**[2]** Policing had taken a similar path a little earlier, with women officers appearing in UAE forces from the late 1970s. For years their roles were narrow: dealing with female suspects, working at airports, handling cases involving children. These duties were real, but they were also a boundary. A woman in uniform was acceptable so long as the uniform stayed within certain rooms.
+**[2]** Policing had followed a similar course somewhat earlier, with female officers joining UAE forces from the late 1970s. For years their responsibilities were narrow: searching female suspects, working at airports and handling cases involving children. These duties were genuine, but they also functioned as a boundary. A woman in uniform was acceptable provided that the uniform remained within certain rooms.
 
-**[3]** The boundary has moved steadily since. Emirati women now serve as pilots, investigators, bomb-disposal specialists and commanders, and they have taken part in overseas missions. Each new role tends to follow the same pattern: an announcement, a brief period of public surprise, and then, within a few years, silence, because the extraordinary has become routine.
+**[3]** That boundary has shifted steadily. Emirati women now serve as pilots, investigators, bomb-disposal specialists and commanders, and have participated in overseas missions. Each new role tends to follow an identical sequence: an announcement, a brief period of public surprise and then, within a few years, silence, because what was once extraordinary has become routine.
 
-**[4]** It would be dishonest to pretend that every argument has been settled. Debates continue, here and in every country, about physical standards, about front-line combat, and about how far a profession should adapt to the people entering it rather than the reverse. These are serious questions, and reasonable people answer them differently.
+**[4]** It would be dishonest to pretend that every argument has been settled. Debates continue, here and in every other country, about physical standards, about front-line combat and about how far a profession should adapt to those entering it, as opposed to the reverse. These are serious questions, and reasonable people answer them differently.
 
-**[5]** What is no longer seriously argued is the older claim that women lack the discipline or the nerve for uniformed service. The record of three decades has answered it. The lesson extends well beyond the armed forces. A profession that has never had women in it is not evidence that women cannot do it, only evidence that they have not yet been let in. Absence proves nothing except absence.
+**[5]** What is no longer seriously disputed is the older claim that women lack the discipline or the courage required for uniformed service. Three decades of evidence have answered it. The lesson extends far beyond the armed forces. A profession that has never included women does not demonstrate that women are incapable of it, merely that they have not yet been admitted. Absence proves nothing except absence.
 
 **Questions (2 marks each)**
 
-1. According to paragraph 1, what point was made by naming the school after a seventh-century warrior?  
+1. According to paragraph 1, what point was made by the school's name?  
    *DETAILS ◆ SYNONYM*  
-   - **A** Women fighters belonged to a recent import rather than a forgotten past.
-   - **B** Women fighters belonged to a forgotten past rather than a recent import.
-   - **C** Women fighters had been openly honoured across the region's whole past.
+   - **A** that female soldiers represented a new, foreign innovation
+   - **B** that female soldiers continued an older, forgotten tradition
+   - **C** that female soldiers had first been trained in 1991
 
-2. How does paragraph 2 describe the early duties of women police officers?  
+2. How does paragraph 2 characterise the early responsibilities of female officers?  
    *DETAILS ◆ SYNONYM*  
-   - **A** as symbolic rather than carrying genuine responsibility
-   - **B** as real and extended across a broad field
-   - **C** as real but restricted to a narrow field
+   - **A** as symbolic work involving airports and children
+   - **B** as genuine work spread across many departments
+   - **C** as genuine work kept within narrow limits
 
-3. According to paragraph 3, what usually follows the public surprise at a new role for women?  
+3. According to paragraph 3, what follows the period of public surprise at a new role?  
    *DETAILS ◆ SYNONYM*  
-   - **A** It builds up as the role becomes accepted as ordinary.
-   - **B** It dies away because the role is quietly removed again.
-   - **C** It dies away as the role becomes accepted as ordinary.
+   - **A** a further announcement, as the role becomes normal
+   - **B** an overseas mission, as the role becomes routine
+   - **C** a lack of comment, as the role becomes normal
 
 4. In paragraph 4, 'settled' is closest in meaning to  
    *INFERENCE ◆ SYNONYM*  
-   - **A** avoided
-   - **B** resolved
-   - **C** raised
+   - **A** treated as dishonest
+   - **B** brought to an end
+   - **C** kept under discussion
 
-5. What can be inferred about the writer's view of the debates in paragraph 4?  
+5. What can be inferred from paragraph 4 about the writer's view of these debates?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** They are serious but allow just a single reasonable answer.
-   - **B** They are serious and allow more than one reasonable answer.
-   - **C** They are outdated and deserve little further serious discussion.
+   - **A** The writer believes that a single position can be defended.
+   - **B** The writer accepts that several positions can be defended.
+   - **C** The writer believes the debates are confined to the UAE.
 
 6. How would you describe the writer's tone in paragraph 4?  
    *MOOD AND TONE ◆ CRITICAL THINKING*  
-   - **A** balanced and candid
-   - **B** irritated and dismissive
+   - **A** frank and even-handed
+   - **B** doubtful and anxious
    - **C** proud and confident
 
 7. Which situation best matches the idea that 'absence proves nothing except absence'?  
    *CONNECTIONS ◆ CRITICAL THINKING*  
-   - **A** A firm with no female engineers concludes that it has simply not recruited any.
-   - **B** A firm with no female engineers concludes that its hiring process works well.
-   - **C** A firm with no female engineers concludes that women prefer other kinds of work.
+   - **A** A firm without female engineers concludes that it has simply not hired any.
+   - **B** A firm without female engineers concludes that its recruitment is working well.
+   - **C** A firm without female engineers concludes that women are not suited to it.
 
 8. What is the main idea of the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** Women's record in uniform is still too brief to judge the old doubts.
-   - **B** Women's record in uniform has answered old doubts, so no questions stay open.
-   - **C** Women's record in uniform has answered old doubts, while some questions stay open.
+   - **A** Women's record in uniform remains too recent for the old doubts to be answered yet.
+   - **B** Women's record in uniform has answered old doubts, so that few debates now remain unresolved.
+   - **C** Women's record in uniform has answered old doubts, although certain debates still remain unresolved.
 
 ## Part 3B • Practice 4 | Nail That Job! | A Man’s or a Woman’s Job?
 
 ### The Machine That Learned to Prefer Men
 
-*B2.2 • 323 words • 2 marks per question*
+*B2.2 • 320 words • 2 marks per question*
 
-**[1]** In 2018, a large technology company quietly abandoned a recruitment tool it had spent years building. The software had been designed to read thousands of CVs and rank the strongest candidates automatically. It worked, in the sense that it produced a confident list. The problem was what the list contained. For technical roles, the system had taught itself to mark down any CV that included the word 'women's', as in 'women's chess club captain'.
+**[1]** In 2018, a major technology company quietly abandoned a recruitment tool that had taken years to develop. The software was designed to read thousands of applications and rank the strongest candidates automatically. It functioned, in the sense that it produced a confident list. The difficulty lay in the list's contents: for technical positions, the system had taught itself to downgrade any application containing the word 'women's', as in 'women's chess club captain'.
 
-**[2]** Nobody had programmed that rule. The tool had been trained on ten years of the company's own hiring decisions, and most of the people hired for those jobs had been men. The machine drew the obvious conclusion: whatever resembled past successful applicants was good, and whatever did not was not. It had not invented a bias. It had inherited one and made it faster.
+**[2]** Nobody had programmed that rule. The tool had been trained on a decade of the company's own recruitment decisions, and the majority of those appointed to such positions had been men. The system drew the predictable conclusion: whatever resembled previous successful applicants was desirable, and whatever did not was inferior. It had not invented a prejudice; it had inherited one and accelerated it.
 
-**[3]** Employers in the UAE and across the region are now adopting similar systems, often with the best of intentions. Software does not get tired, does not have a bad morning, and does not know a candidate's uncle. In theory, that should make hiring fairer. In practice, every system learns from somebody's history, and history is not neutral.
+**[3]** Employers in the UAE and throughout the region are now adopting comparable systems, frequently with excellent intentions. Software does not become tired, does not have a difficult morning and is not acquainted with a candidate's uncle. In theory, this should make recruitment fairer. In practice, every system learns from somebody's history, and history is not neutral.
 
-**[4]** The danger is not that algorithms are more prejudiced than people. It is that their decisions look objective. A manager who rejects a candidate can be questioned; a ranking produced by software arrives with the authority of mathematics, and few people feel qualified to argue with it. Bias that is visible can be challenged. Bias wearing a lab coat is much harder to see.
+**[4]** The danger is not that algorithms are more prejudiced than people; it is that their decisions appear objective. A manager who rejects a candidate can be questioned, whereas a ranking generated by software arrives with the authority of mathematics, and few people feel qualified to dispute it. Prejudice that is visible can be challenged. Prejudice wearing a laboratory coat is considerably harder to detect.
 
-**[5]** The solution is not to abandon the tools but to audit them: test whether equally qualified men and women receive equal scores, and treat any difference as a fault to be fixed, not a finding to be trusted. The company in 2018 did at least notice the problem and switch its system off. The real risk lies with those who never think to look.
+**[5]** The solution is not to abandon such tools but to audit them: to test whether equally qualified men and women receive equal scores, and to treat any difference as a fault to be corrected, not a finding to be trusted. The company in 2018 did at least notice the problem and withdraw its system. The greater risk lies with organisations that never think to check.
 
 **Questions (2 marks each)**
 
-1. According to paragraph 1, what did the software do with CVs containing the word 'women's'?  
+1. According to paragraph 1, what was the difficulty with the recruitment tool?  
    *DETAILS ◆ SYNONYM*  
-   - **A** It deleted them from the ranking before any rating.
-   - **B** It gave them a poorer rating than they deserved.
-   - **C** It gave them a better rating than they deserved.
+   - **A** It produced rankings that lacked any real confidence.
+   - **B** It penalised applications that mentioned women's activities.
+   - **C** It rejected applications that mentioned technical activities.
 
-2. Why did the tool develop its preference, according to paragraph 2?  
+2. According to paragraph 2, where did the system's preference come from?  
    *DETAILS ◆ SYNONYM*  
-   - **A** It learned from a decade of the industry's own choices.
-   - **B** It followed a rule entered by one of the programmers.
-   - **C** It learned from a decade of the firm's own choices.
+   - **A** from rules that the company's programmers supplied
+   - **B** from applicants who had been judged inferior
+   - **C** from patterns in the company's earlier appointments
 
-3. According to paragraph 3, why do employers expect software to make hiring fairer?  
+3. According to paragraph 3, why might software be expected to recruit more fairly?  
    *DETAILS ◆ SYNONYM*  
-   - **A** It is cheaper than a team of trained recruiters.
-   - **B** It is immune to fatigue, moods and past decisions.
-   - **C** It is immune to fatigue, moods and personal contacts.
+   - **A** It is adopted by employers who have excellent intentions.
+   - **B** It is unaffected by fatigue, mood or earlier decisions.
+   - **C** It is unaffected by fatigue, mood or personal connections.
 
-4. In paragraph 4, 'bias wearing a lab coat' refers to prejudice that  
+4. In paragraph 4, 'dispute' is closest in meaning to  
    *INFERENCE ◆ SYNONYM*  
-   - **A** looks outdated
-   - **B** looks scientific
-   - **C** looks accidental
+   - **A** detect
+   - **B** challenge
+   - **C** generate
 
-5. What can be inferred about the writer's attitude to the company that switched its tool off?  
+5. What can be inferred from paragraph 4?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** It earns generous credit for spotting the problem.
-   - **B** It earns no credit because it caused the problem.
-   - **C** It earns limited credit for spotting the problem.
+   - **A** People are more likely to question software than a manager.
+   - **B** People regard software as more prejudiced than a manager.
+   - **C** People are less likely to question software than a manager.
 
 6. Which phrase best describes the writer's tone in paragraph 4?  
    *MOOD AND TONE ◆ CRITICAL THINKING*  
-   - **A** light and amused
+   - **A** amused and detached
    - **B** alarmed and hostile
-   - **C** cautionary yet calm
+   - **C** concerned but reasoned
 
-7. Which situation best matches 'It had not invented a bias. It had inherited one'?  
+7. Which situation best matches 'It had not invented a prejudice; it had inherited one'?  
    *CONNECTIONS ◆ CRITICAL THINKING*  
-   - **A** A map app sends drivers down a narrow lane because old data shows most drivers chose it.
-   - **B** A map app sends drivers down a narrow lane because the main road was just closed.
-   - **C** A map app sends drivers down a narrow lane because its designers happened to prefer it.
+   - **A** A map application recommends a poor route because earlier drivers mostly took it.
+   - **B** A map application recommends a poor route because the usual road has closed.
+   - **C** A map application recommends a poor route because its own designers preferred it.
 
 8. What is the main idea of the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** Hiring software can quietly repeat old bias, so it needs checking rather than blind trust.
-   - **B** Hiring software is fairer than human recruiters, since it holds no prejudices of its own.
-   - **C** Hiring software can quietly repeat old bias, so it needs replacing rather than any checking.
+   - **A** Recruitment software can reproduce past bias unnoticed, so it should be tested, not simply trusted.
+   - **B** Recruitment software is fairer than managers, because it holds no personal prejudices of its own.
+   - **C** Recruitment software can reproduce past bias unnoticed, so it should be abandoned, not merely tested.
 
 ## Part 3B • Practice 5 | Nail That Job! | A Man’s or a Woman’s Job?
 
 ### Who Gets the Money to Start?
 
-*B2.2 • 324 words • 2 marks per question*
+*B2.2 • 312 words • 2 marks per question*
 
-**[1]** Walk into any start-up event in Dubai and the energy is striking: young founders, slide decks, promises to change an industry. Look more closely at who walks out with a cheque, however, and a pattern appears that is repeated worldwide. Teams founded entirely by women receive, in most years, around two per cent of venture capital investment. Teams founded entirely by men receive the great majority of the rest.
+**[1]** Attend any start-up event in Dubai and the atmosphere is striking: young founders, polished presentations and promises to transform an industry. Examine who leaves with an investment, however, and a pattern emerges that is repeated worldwide. Companies founded exclusively by women receive, in most years, approximately two per cent of venture capital. Companies founded exclusively by men receive the overwhelming majority of the remainder.
 
-**[2]** The gap is not explained by results. Several studies that followed start-ups over time found that companies founded by women generated more revenue for every dirham invested than those founded by men. If investors were purely chasing returns, the money would flow the other way. Something besides performance is shaping the decision.
+**[2]** The gap cannot be explained by results. Several studies that tracked start-ups over time found that companies founded by women generated more revenue for every dirham invested than those founded by men. If investors were pursuing profit alone, the money would flow in the opposite direction. Something other than performance is evidently influencing their decisions.
 
-**[3]** Part of the answer lies in the questions asked. Researchers who recorded investor meetings found that men were more often asked about potential, how big could this become, while women were more often asked about risk, how will you avoid losing our money. The two kinds of question lead to two kinds of answer, and a founder who spends the meeting defending is remembered differently from one who spends it dreaming.
+**[3]** Part of the explanation lies in the questions that are asked. Researchers who recorded investor meetings found that men were more frequently asked about potential, such as how large the business might become, whereas women were more frequently asked about risk, such as how they would avoid losing the investment. A founder who spends a meeting defending is remembered differently from one who spends it describing ambitions.
 
-**[4]** Another part lies in networks. Investment decisions are made quickly and on limited information, so investors rely on introductions from people they already trust. Those people tend to resemble them, and the investors themselves are overwhelmingly male. Nobody in the chain needs to hold a prejudice for the outcome to be unequal; the structure produces it on its own.
+**[4]** A further explanation lies in networks. Investment decisions are made rapidly and on limited information, so investors depend on introductions from people they already trust. Those people tend to resemble them, and investors themselves are overwhelmingly male. Nobody in the chain needs to hold a prejudice for the outcome to be unequal; the structure generates it unaided.
 
-**[5]** The UAE has moved earlier than many countries to address this, with funds and programmes directed specifically at women-led businesses. Such schemes are a start, but they treat the symptom. The underlying question is who sits on the other side of the table. When the people writing the cheques are as varied as the people asking for them, the two per cent figure will no longer need a special programme to correct it.
+**[5]** The UAE has acted earlier than many countries, establishing funds and programmes directed specifically at businesses led by women. Such measures are a beginning, but they address the symptom. The underlying issue is who sits on the other side of the table. When those signing the cheques are as varied as those requesting them, the two per cent figure will no longer require a special programme to correct it.
 
 **Questions (2 marks each)**
 
-1. According to paragraph 1, what happens to most venture capital funding?  
+1. According to paragraph 1, what pattern is repeated worldwide?  
    *DETAILS ◆ SYNONYM*  
-   - **A** to teams consisting of both sexes
-   - **B** to teams consisting solely of men
-   - **C** to teams consisting solely of women
+   - **A** Mixed founding teams obtain roughly two per cent.
+   - **B** All-male founding teams obtain most of the investment.
+   - **C** All-female founding teams obtain most of the remainder.
 
-2. What did the long-term studies in paragraph 2 reveal about women-founded companies?  
+2. According to paragraph 2, what did the studies of start-ups find?  
    *DETAILS ◆ SYNONYM*  
-   - **A** They generated more revenue for each dirham invested.
-   - **B** They survived longer than firms founded by men.
-   - **C** They secured more funding for each dirham earned.
+   - **A** Women's companies earned more from each dirham they received.
+   - **B** Men's companies earned more from each dirham they received.
+   - **C** Women's companies received more dirhams for the revenue they earned.
 
-3. According to paragraph 3, what kind of question were women founders asked more often?  
+3. According to paragraph 3, what were women founders more frequently asked about?  
    *DETAILS ◆ SYNONYM*  
-   - **A** questions about building towards growth
-   - **B** questions about guarding against losses
-   - **C** questions about assembling their team
+   - **A** how they intended to enlarge the business invested in
+   - **B** how they intended to protect the money invested
+   - **C** how they wished to be remembered after the meeting
 
-4. In paragraph 4, 'the structure produces it on its own' means the inequality is  
+4. In paragraph 4, 'the structure generates it unaided' means that the inequality is  
    *INFERENCE ◆ SYNONYM*  
-   - **A** a matter of simple chance
-   - **B** part of the system itself
-   - **C** the fault of certain individuals
+   - **A** produced by limited information alone
+   - **B** produced by the system itself
+   - **C** produced by individuals' prejudice
 
-5. What can be inferred from the sentence 'the money would flow the other way'?  
+5. What can be inferred from 'the money would flow in the opposite direction'?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** Chasing returns alone would send more money to men.
-   - **B** Chasing returns alone would send money away from start-ups.
-   - **C** Chasing returns alone would send more money to women.
+   - **A** Profit-seeking alone would favour companies founded by men.
+   - **B** Profit-seeking alone explains how investors currently decide.
+   - **C** Profit-seeking alone would favour companies founded by women.
 
-6. How would you describe the writer's attitude to the UAE's special funds in paragraph 5?  
+6. How would you describe the writer's attitude to the UAE's measures in paragraph 5?  
    *MOOD AND TONE ◆ CRITICAL THINKING*  
-   - **A** approving and now fully convinced
-   - **B** sceptical and openly dismissive
-   - **C** approving yet not fully convinced
+   - **A** supportive, without reservations
+   - **B** dismissive, without explanation
+   - **C** supportive, with reservations
 
 7. Which situation best matches the point made about questions in paragraph 3?  
    *CONNECTIONS ◆ CRITICAL THINKING*  
-   - **A** Two students give the same talk, and each one is asked about its promise and then about its risks.
-   - **B** Two students give the same talk, but one is asked about its promise and the other about its risks.
-   - **C** Two students give different talks, and the weaker speaker is then asked the far tougher questions by the examiner.
+   - **A** Two candidates present equally well, and both are asked about strengths and then about weaknesses.
+   - **B** Two candidates present equally well, but one is asked about strengths and the other about weaknesses.
+   - **C** Two candidates present unequally, and the weaker one is then asked the more difficult questions.
 
 8. What is the main idea of the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** Women founders receive far less funding for reasons unconnected to results, and real change needs more varied investors.
-   - **B** Women founders now receive equal funding in the UAE thanks to the new programmes aimed at women-led businesses.
-   - **C** Women founders receive far less funding for reasons connected to results, and real change needs more special programmes.
+   - **A** Women founders receive little funding for reasons unrelated to performance, and lasting change requires more varied investors.
+   - **B** Women founders receive equal funding in the UAE, because programmes for businesses led by women have succeeded.
+   - **C** Women founders receive little funding for reasons related to performance, and lasting change requires more special programmes.
 
 ## Answer Key
 
@@ -672,8 +672,8 @@ Grade 12 General | Grade 11 Advanced • EoT1 2026–2027
 |---|---|---|---|---|---|---|---|---|---|
 | Practice 1 | The Price That Ends in Nine | C (P1) | A (P2) | B (P3) | A (P4) | B (P2) | C (P4) | B (P5) | C (whole) |
 | Practice 2 | The First Number You Hear | B (P1) | C (P2) | B (P3) | C (P4) | A (P3) | B (P3) | B (P5) | A (whole) |
-| Practice 3 | Points, Stamps and Stars | A (P1) | C (P2) | B (P3) | B (P4) | B (P2) | C (P4) | A (P5) | C (whole) |
-| Practice 4 | Does a Bigger Salary Make You Happier? | A (P1) | C (P2) | B (P3) | B (P4) | A (P4) | B (P2) | C (P5) | A (whole) |
+| Practice 3 | Points, Stamps and Stars | A (P1) | C (P2) | B (P3) | B (P4) | B (P4) | C (P3) | A (P5) | C (whole) |
+| Practice 4 | Does a Bigger Salary Make You Happier? | A (P1) | C (P2) | B (P3) | B (P4) | A (P3) | B (P4) | C (P5) | A (whole) |
 | Practice 5 | Too Many Jars of Jam | C (P1) | C (P2) | B (P3) | B (P4) | A (P3) | B (P4) | C (P5) | A (whole) |
 
 ### Part 3B
@@ -683,137 +683,137 @@ Grade 12 General | Grade 11 Advanced • EoT1 2026–2027
 | Practice 1 | The Pink Roof | C (P1) | A (P2) | A (P3) | A (P4) | B (P4) | C (P5) | C (P5) | B (whole) |
 | Practice 2 | Who Cooks the Dinner? | C (P1) | C (P2) | B (P3) | A (P4) | B (P4) | A (P5) | A (P5) | C (whole) |
 | Practice 3 | The Uniform Fits | B (P1) | C (P2) | C (P3) | B (P4) | B (P4) | A (P4) | A (P5) | C (whole) |
-| Practice 4 | The Machine That Learned to Prefer Men | B (P1) | C (P2) | C (P3) | B (P4) | C (P5) | C (P4) | A (P2) | A (whole) |
+| Practice 4 | The Machine That Learned to Prefer Men | B (P1) | C (P2) | C (P3) | B (P4) | C (P4) | C (P4) | A (P2) | A (whole) |
 | Practice 5 | Who Gets the Money to Start? | B (P1) | A (P2) | B (P3) | B (P4) | C (P2) | C (P5) | B (P3) | A (whole) |
 
 ## Why? The twin option explained
 
 ### Part 3A • Practice 1 • The Price That Ends in Nine
 
-| Q | Key | Evidence | Why the twin is wrong |
+| Q | Key | Evidence | Why the other options are wrong |
 |---|---|---|---|
-| 1 | C | P1 | Text: 'so common that most shoppers no longer notice it'. Widespread = common. The text never says the habit seems honest. |
-| 2 | A | P2 | 20 to 19.99 changes the LEADING digit (2 to 1) and is a small cut. The closing-digit cut (19.99 to 19.50) sold less. |
-| 3 | B | P3 | 'force cashiers to open the till and give change'. It is the cashier who opens the till, not the customer her purse. |
-| 4 | A | P4 | 'signals quality and confidence'. Popularity is not mentioned. |
-| 5 | B | P2 | 'the brain gives most of its attention to the first digit and treats the rest as detail'. |
-| 6 | C | P4 | A nine 'whispers bargain', so the watch looks reduced, not premium. |
-| 7 | B | P5 | The advice is a defence against the label, so unit prices must show what the label hides, not repeat it. |
-| 8 | C | whole | P5 gives a simple defence. The text says shops 'will not abandon the nine', so they DO rely on it. |
+| 1 | C | P1 | 'most customers have stopped noticing it, which is precisely why retailers continue to depend on it'. The rarity of zero is a fact in the paragraph, but it is not the reason. |
+| 2 | A | P2 | 20 to 19.99 is the SMALLER cut and the one that changes the first digit. The larger cut (19.99 to 19.50) saved more but sold less. |
+| 3 | B | P3 | 'obliged the cashier to open the till and record the sale instead of quietly pocketing the money'. The psychological effect was found 'afterwards'. |
+| 4 | A | P4 | 'evidence that the seller has nothing to hide' = being open. A bargain is what AED 4,999 suggests, and it is the brain, not the seller, that rounds down. |
+| 5 | B | P2 | 'most of its attention to the first digit'. The experiment shows that the bigger saving mattered LESS. |
+| 6 | C | P4 | A price ending in nine 'suggests a bargain'. Confidence and nothing to hide belong to ROUND figures. |
+| 7 | B | P5 | It is recommended 'instead of the figure printed on the label', so it must be the more reliable guide. It is the nine, not the unit price, that costs retailers almost nothing. |
+| 8 | C | whole | Covers P1-P2 (the habit and the bias) and P5 (the defence). Luxury brands are one detail (P4); the habit has NOT lost its influence in general. |
 
 ### Part 3A • Practice 2 • The First Number You Hear
 
-| Q | Key | Evidence | Why the twin is wrong |
+| Q | Key | Evidence | Why the other options are wrong |
 |---|---|---|---|
-| 1 | B | P1 | 'The seller ... names a price' and 'the number they heard first' decides. The buyer speaks second. |
-| 2 | C | P2 | 'completely irrelevant ... yet it still pulled their bids upwards'. Up, not down. |
-| 3 | B | P3 | 'so that everything below it looks reasonable' is about price, not portion size. |
-| 4 | C | P4 | 'comparison is quick and effortless, while calculating true value is slow and tiring'. The twin swaps the two. |
-| 5 | A | P3 | Retailers 'use anchors everywhere': they supply the first number, they do not hide it. |
-| 6 | B | P3 | 'even if the item never actually sold at the first'. So it may not have been, and 'must' is too strong. |
-| 7 | B | P5 | 'Decide ... before you see any label'. Set before, not revised afterwards. |
-| 8 | A | whole | The advice is to 'arrive with your own anchor', not to avoid bargaining. |
+| 1 | B | P1 | 'determined largely by the first figure they heard, not by their own bargaining skill'. The first figure is the trader's. |
+| 2 | C | P2 | 'entirely irrelevant, and the participants were aware of this'. The digits acted AS their reference point. |
+| 3 | B | P3 | 'so that everything beneath it appears reasonable'. The 'gift' belongs to the was/now label, and 'premium' to online stores. |
+| 4 | C | P4 | 'adjusts from there, usually by too little'. Calculating genuine value is what the brain avoids, because it is 'slow and demanding'. |
+| 5 | A | P3 | Three examples of supplied anchors. The reduction may be fictional, and online stores show the PREMIUM model first. |
+| 6 | B | P3 | 'even if the item was never actually sold at the first' shows the higher figure can be invented. |
+| 7 | B | P5 | The purpose of a personal anchor is to exist BEFORE the seller's. A shopper with a number is 'harder to move', not ready to adjust. |
+| 8 | A | whole | P1-P4 explain anchoring; P5 gives the defence. Letting the seller speak first is exactly what the text warns against. |
 
 ### Part 3A • Practice 3 • Points, Stamps and Stars
 
-| Q | Key | Evidence | Why the twin is wrong |
+| Q | Key | Evidence | Why the other options are wrong |
 |---|---|---|---|
-| 1 | A | P1 | Schemes are costly yet firms expand them, and 'the real reward flows mostly in one direction': to the firms. |
-| 2 | C | P2 | 'both groups needed exactly eight coffees'. The stamped boxes differed (two versus none). |
-| 3 | B | P3 | 'the price difference was invisible and the points were not'. The twin swaps visible and unseen. |
-| 4 | B | P4 | 'records what was bought, when, and with what' = purchases, not income. |
-| 5 | B | P2 | The pre-stamped card was finished FASTER, so starting speeds people up, not down. |
-| 6 | C | P4 | Nappies predicted a FUTURE need for baby food. The firm was forecasting, not confirming something past. |
-| 7 | A | P5 | 'the card is not rewarding loyalty. It is buying it.' The twin reverses bought and deserved. |
-| 8 | C | whole | 'None of this makes loyalty schemes a trap': use them deliberately. The text does not say decline them. |
+| 1 | A | P1 | 'expensive to operate, yet companies continue to expand them'. Costly, not cheap. |
+| 2 | C | P2 | Both 'needed exactly eight purchases'; only the FEELING of progress differed. Motivation rises, not falls, near a goal. |
+| 3 | B | P3 | 'the difference was invisible, whereas the points were displayed'. The points were worth LESS than the saving. |
+| 4 | B | P4 | Nappies signalled a coming need. The household had 'begun' buying, not stopped, and nobody requested the coupon. |
+| 5 | B | P4 | Every sentence is about data and prediction. The baby-food coupon is one example, not the point. |
+| 6 | C | P3 | It 'feels partly like saving' and 'softens the discomfort of paying', so it seems cheaper. The competitor was the cheaper one. |
+| 7 | A | P5 | Without the card they would leave, so the points are the attraction: the card 'is purchasing' their loyalty. |
+| 8 | C | whole | P5: 'None of this means that loyalty schemes are a trap', but do not let points decide. P1 says the greater benefit lies with the business. |
 
 ### Part 3A • Practice 4 • Does a Bigger Salary Make You Happier?
 
-| Q | Key | Evidence | Why the twin is wrong |
+| Q | Key | Evidence | Why the other options are wrong |
 |---|---|---|---|
-| 1 | A | P1 | 'they will name a higher one again'. |
-| 2 | C | P2 | 'Below a certain level, extra income raises wellbeing sharply'. Modest, not generous. |
-| 3 | B | P3 | 'built to notice change, not level'. The twin swaps the two. |
-| 4 | B | P4 | 'a monthly comparison into an hourly one' is about frequency. Accuracy is never mentioned. |
-| 5 | A | P4 | People judge income by 'how it compares with that of colleagues and neighbours': their EARNINGS. Spending appears only in the social media example. |
-| 6 | B | P2 | Contrast with 'changes a life': the gain is small. 'Practical' is not the point of the contrast. |
-| 7 | C | P5 | 'right that money matters ... probably wrong about how much of it they need': they name too much, so they overstate. |
-| 8 | A | whole | The effect 'continues but weakens'. It does not double. |
+| 1 | A | P1 | 'they propose a higher one still'. The paragraph says money 'clearly contributes to happiness'. |
+| 2 | C | P2 | 'removes genuine anxieties'. Genuine = real. The car belongs to very large salaries. |
+| 3 | B | P3 | 'becomes the ordinary background of life and is no longer noticed'. The unchanging scenery is an image of pleasure NOT increasing. |
+| 4 | B | P4 | 'less by what it purchases than by how it compares with the earnings of colleagues and neighbours'. Others' purchases appear only in the social media sentence. |
+| 5 | A | P3 | Adaptation: the improvement remains but stops being noticed. The brain registers 'change, not stable conditions'. |
+| 6 | B | P4 | Comparison disappoints, and it now happens hourly. Social media shows purchases, not accurate salaries. |
+| 7 | C | P5 | 'how income is spent ... frequently matters more than the figure on the payslip'. Money still 'speaks clearly about security'. |
+| 8 | A | whole | The effect 'continues but diminishes'. Comparison is one factor (P4), not the whole explanation. |
 
 ### Part 3A • Practice 5 • Too Many Jars of Jam
 
-| Q | Key | Evidence | Why the twin is wrong |
+| Q | Key | Evidence | Why the other options are wrong |
 |---|---|---|---|
-| 1 | C | P1 | 'walk away with nothing at all'. Without, not after. |
-| 2 | C | P2 | 'More options brought more interest and far fewer sales'. The twin swaps more and fewer. |
-| 3 | B | P3 | 'remains in the mind as a possible better deal'. Superior, not inferior. |
-| 4 | B | P4 | 'shelf position, colour and lighting'. Labels and pricing are not listed. |
-| 5 | A | P3 | The brain postpones the task and the buyer 'feels less satisfied'. Less, not more. |
-| 6 | B | P4 | 'built their success on offering one good version'. Nothing was later corrected. |
-| 7 | C | P5 | The shopper does the comparing. P1 says shoppers asked for choice, not for the effort. |
-| 8 | A | whole | 3% versus 30% bought, and buyers feel less satisfied: both fall. |
+| 1 | C | P1 | 'leave without buying anything'. Surveys confirm that customers WANT variety. |
+| 2 | C | P2 | More visitors, but 3% bought against 30% at the small table. |
+| 3 | B | P3 | 'every rejected alternative remains in the mind as a possibly better decision'. It remains; it is not forgotten. Energy explains postponing, not dissatisfaction. |
+| 4 | B | P4 | 'for its advertising value'. Shoppers only FEEL free, and single-version chains 'built their success' on it. |
+| 5 | A | P3 | Comparisons 'consume mental energy' and the buyer 'feels less satisfied'. |
+| 6 | B | P4 | 'The customer feels free, although the decision has largely been made already.' |
+| 7 | C | P5 | Three requirements together (cooking, not salad, under AED 30) cut the choice. The text says variety IS valuable 'up to a point'. |
+| 8 | A | whole | P2 shows fewer sales; P3 shows lower satisfaction. Customers say they want variety, and only SOME retailers cut ranges. |
 
 ### Part 3B • Practice 1 • The Pink Roof
 
-| Q | Key | Evidence | Why the twin is wrong |
+| Q | Key | Evidence | Why the other options are wrong |
 |---|---|---|---|
-| 1 | C | P1 | 'intended mainly for female passengers and families'. Travel to work is not mentioned. |
-| 2 | A | P2 | 'being asked, repeatedly, why they were doing it at all'. Why, not how. |
-| 3 | A | P3 | 'not the task but the history of who has done it'. The text says no particular muscles are needed. |
-| 4 | A | P4 | To expose a truth is to bring it to light. 'Kept from sight' is the opposite. |
-| 5 | B | P4 | 'arrived in the same vehicle' = at the same time, not one after the other. |
-| 6 | C | P5 | 'perhaps the best outcome a symbol can hope for' is approval of the present, not longing for the past. |
-| 7 | C | P5 | Becoming ordinary = gender no longer attracts comment. |
-| 8 | B | whole | P5: a woman driving professionally now 'causes little comment'. The service did lead to acceptance. |
+| 1 | C | P1 | 'regarded almost universally as a masculine occupation'. Families were the intended passengers; nights are one feature of the job. |
+| 2 | A | P2 | 'one additional burden that the men were spared: being asked repeatedly to explain why'. Demanding customers troubled the men too. |
+| 3 | A | P3 | 'not the task itself but the history of who has performed it'. The paragraph says nothing in the work depends on strength. |
+| 4 | A | P4 | To expose a reality is to reveal it. 'Respected' and 'created' are verbs used later in the same paragraph for different things. |
+| 5 | B | P4 | 'simultaneously' = at the same time, not one after the other. Some passengers still held those preferences. |
+| 6 | C | P5 | 'the most satisfying outcome a symbol can achieve'. 'Curiosity' describes the pink roof, not the writer. |
+| 7 | C | P5 | Success = it 'provokes little comment'. Applause and advertising both treat the woman as unusual. |
+| 8 | B | whole | P4 gives the limits; P5 shows acceptance followed. P4 also shows passengers were NOT all ready in 2007. |
 
 ### Part 3B • Practice 2 • Who Cooks the Dinner?
 
-| Q | Key | Evidence | Why the twin is wrong |
+| Q | Key | Evidence | Why the other options are wrong |
 |---|---|---|---|
-| 1 | C | P1 | 'women's work when it is unpaid ... men's work when it is paid and praised'. Skill is the same in both cases; location is only the surface difference. |
-| 2 | C | P2 | 'organised like an army ... sixteen-hour shifts ... tolerates aggression'. Not welcoming. |
-| 3 | B | P3 | 'developed by generations of women' = originated. Perfected would mean someone else created them. |
-| 4 | A | P4 | Practical = concrete and nameable. The text does not say the obstacles are small. |
-| 5 | B | P4 | 'back people who remind them of themselves' = similar. Confidence is not mentioned. |
-| 6 | A | P5 | 'why the title and the salary took so long' is a sharp challenge, not a gentle query. |
-| 7 | A | P5 | Same task, different label depending on status. In the twin the label does not change. |
-| 8 | C | whole | 'Status, pay and recognition decide the label, not the task'. The twin reverses this. |
+| 1 | C | P1 | 'men's work when it is salaried and admired'. Both conditions: paid AND respected. |
+| 2 | C | P2 | 'rewards physical endurance, tolerates aggression'. Aggression is only tolerated, not rewarded. |
+| 3 | B | P3 | 'developed by generations of women who were never given the title of chef'. Hotels market the dishes; they did not recognise the women. |
+| 4 | A | P4 | Shifts that are hard to reconcile with family duties are hard to combine with them. |
+| 5 | B | P4 | 'None of these barriers concerns ability with a knife.' Investors favour similarity; the text does not say they doubt women's cooking. |
+| 6 | A | P5 | 'why the title and the salary took so long' is a sharp criticism framed as a question. The writer is not uncertain. |
+| 7 | A | P5 | Same task, different label depending on pay and status. In the twin the label does not change. |
+| 8 | C | whole | P5: 'Status, pay and recognition determine the label; the task does not.' The twin reverses it. |
 
 ### Part 3B • Practice 3 • The Uniform Fits
 
-| Q | Key | Evidence | Why the twin is wrong |
+| Q | Key | Evidence | Why the other options are wrong |
 |---|---|---|---|
-| 1 | B | P1 | 'a tradition that had been forgotten rather than one that had never existed' and 'not a modern import'. The twin swaps the two. |
-| 2 | C | P2 | 'These duties were real, but they were also a boundary'. Narrow, not broad. |
-| 3 | C | P3 | 'then ... silence, because the extraordinary has become routine'. The surprise dies away. |
-| 4 | B | P4 | A settled argument is a resolved one. 'Raised' is the opposite stage. |
-| 5 | B | P4 | 'reasonable people answer them differently' = more than one answer. |
-| 6 | A | P4 | 'It would be dishonest to pretend' = candid; 'reasonable people' = balanced. Pride belongs to P5, not P4. |
-| 7 | A | P5 | Absence shows only that women 'have not yet been let in'. It proves nothing about what women prefer. |
-| 8 | C | whole | P4: debates continue. P5: the old claim is answered. So some questions do stay open. |
+| 1 | B | P1 | 'not a foreign innovation; they belonged to a tradition that had been forgotten'. The twin states what the name was chosen to deny. |
+| 2 | C | P2 | 'These duties were genuine, but they also functioned as a boundary.' Genuine, so not symbolic; narrow, so not widely spread. |
+| 3 | C | P3 | 'then, within a few years, silence, because what was once extraordinary has become routine'. The announcement comes FIRST in the sequence. |
+| 4 | B | P4 | A settled argument is finished. 'Debates continue' in the next sentence describes the opposite situation. |
+| 5 | B | P4 | 'reasonable people answer them differently'. The debates continue 'here and in every other country'. |
+| 6 | A | P4 | 'It would be dishonest to pretend' = frank; 'reasonable people' = even-handed. The confident tone belongs to paragraph 5. |
+| 7 | A | P5 | Absence shows only that women 'have not yet been admitted'. It says nothing about ability. |
+| 8 | C | whole | P5: the old claim is answered by 'three decades of evidence'. P4: several debates continue. |
 
 ### Part 3B • Practice 4 • The Machine That Learned to Prefer Men
 
-| Q | Key | Evidence | Why the twin is wrong |
+| Q | Key | Evidence | Why the other options are wrong |
 |---|---|---|---|
-| 1 | B | P1 | 'mark down' = give a lower rating. |
-| 2 | C | P2 | 'trained on ten years of the company's own hiring decisions'. The firm's, not the industry's. |
-| 3 | C | P3 | 'does not get tired, does not have a bad morning, and does not know a candidate's uncle'. It is NOT immune to past decisions: it learns from them. |
-| 4 | B | P4 | A lab coat suggests science and objectivity. |
-| 5 | C | P5 | 'did at least notice the problem': 'at least' signals limited, not generous, credit. |
-| 6 | C | P4 | The writer warns about hidden bias in a reasoned way. There is no alarm or hostility. |
-| 7 | A | P2 | The app repeats a pattern in old behaviour, as the tool repeated old hiring. The designers' preference would be an invented bias. |
-| 8 | A | whole | 'not to abandon the tools but to audit them'. Check, do not replace. |
+| 1 | B | P1 | 'downgrade any application containing the word women's'. The list itself was 'confident'. |
+| 2 | C | P2 | 'trained on a decade of the company's own recruitment decisions'. 'Nobody had programmed that rule.' |
+| 3 | C | P3 | Tired, difficult morning, candidate's uncle. It IS affected by earlier decisions: 'every system learns from somebody's history'. |
+| 4 | B | P4 | To dispute a ranking is to challenge it. 'Generated' and 'detect' appear in the same paragraph with different meanings. |
+| 5 | C | P4 | A manager 'can be questioned', whereas 'few people feel qualified to dispute' software. The first sentence rules out the third option. |
+| 6 | C | P4 | The writer warns of a 'danger' in a measured way, and begins by saying algorithms are NOT worse than people. |
+| 7 | A | P2 | The pattern comes from past behaviour in the data, not from the designers and not from a new event. |
+| 8 | A | whole | P5: 'not to abandon such tools but to audit them'. |
 
 ### Part 3B • Practice 5 • Who Gets the Money to Start?
 
-| Q | Key | Evidence | Why the twin is wrong |
+| Q | Key | Evidence | Why the other options are wrong |
 |---|---|---|---|
-| 1 | B | P1 | 'Teams founded entirely by men receive the great majority of the rest'. |
-| 2 | A | P2 | 'more revenue for every dirham invested'. They received far LESS funding. The twin swaps revenue and funding. |
-| 3 | B | P3 | 'how will you avoid losing our money' = guarding against losses. Growth questions went to men. |
-| 4 | B | P4 | 'Nobody in the chain needs to hold a prejudice': the cause is the system, not individuals. |
-| 5 | C | P2 | Women's firms returned more per dirham, so pure return-chasing would favour women. |
-| 6 | C | P5 | 'a start, but they treat the symptom': approval with a clear reservation. |
-| 7 | B | P3 | Same performance, different kind of question for each person. In the twin both get the same questions. |
-| 8 | A | whole | P2: 'not explained by results'. P5: programmes 'treat the symptom'; the root is who invests. |
+| 1 | B | P1 | Women-only teams get about 2%; men-only teams get 'the overwhelming majority of the remainder'. |
+| 2 | A | P2 | 'more revenue for every dirham invested'. The twin swaps revenue and investment. |
+| 3 | B | P3 | 'how they would avoid losing the investment'. Questions about how large the business might become went to men. |
+| 4 | B | P4 | 'Nobody in the chain needs to hold a prejudice'. Limited information is one link, but the cause is the whole chain of trust and resemblance. |
+| 5 | C | P2 | Women's firms returned more per dirham. 'Something other than performance' is influencing decisions. |
+| 6 | C | P5 | 'a beginning, but they address the symptom': approval with a clear reservation. |
+| 7 | B | P3 | Equal performance, different kind of question for each. In the twin both receive the same questions. |
+| 8 | A | whole | P2: 'cannot be explained by results'. P5: programmes 'address the symptom'; the issue is who invests. |
