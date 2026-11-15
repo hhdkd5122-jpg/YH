@@ -24,51 +24,51 @@ Grade 12 General | Grade 11 Advanced • EoT1 2026–2027
 
 1. According to paragraph 1, why do most shoppers fail to notice prices ending in nine?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** because the pattern has become too unusual to see
-   - **B** because the labels are placed too high to read
-   - **C** because the pattern has become too familiar to see
+   - **A** because the practice is so widespread that it seems honest
+   - **B** because the labels are so detailed that they go unread
+   - **C** because the practice is so widespread that it goes unseen
 
 2. In the experiments described in paragraph 2, which price change had the biggest effect on sales?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** a tiny cut that altered the first digit of the price
-   - **B** a large cut that halved the final digit of the price
-   - **C** a tiny cut that altered the final digit of the price
+   - **A** a small reduction that changed the leading digit of the price
+   - **B** a large reduction that changed the leading digit of the price
+   - **C** a small reduction that changed the closing digit of the price
 
 3. Why did shops originally start ending prices in nine, according to paragraph 3?  
    *DETAILS ◆ SYNONYM*  
-   - **A** so that customers had to count their change after every sale
-   - **B** so that staff had to open the cash drawer for every sale
-   - **C** so that staff could close the cash drawer after every sale
+   - **A** to make cashiers record each sale and hand over receipts
+   - **B** to make cashiers open the till and hand over coins
+   - **C** to make customers open their purses and hand over coins
 
 4. According to paragraph 4, what does a round price communicate to the brain?  
    *DETAILS ◆ SYNONYM*  
-   - **A** that the seller is confident and has nothing to hide
-   - **B** that the seller is offering a discount for a short time
-   - **C** that the seller is cautious and has something to hide
+   - **A** that the seller is sure of the product's quality
+   - **B** that the seller is eager to clear old stock
+   - **C** that the seller is sure of the product's popularity
 
 5. What is the main point of paragraph 2?  
    *MAIN POINTS ◆ CRITICAL THINKING*  
-   - **A** The brain judges a price mainly by its total length.
-   - **B** The brain judges a price mainly by its first digit.
-   - **C** The brain judges a price mainly by its final digit.
+   - **A** Our attention goes to a price's total value.
+   - **B** Our attention goes to a price's opening digit.
+   - **C** Our attention goes to a price's closing digits.
 
 6. What can be inferred about a luxury brand that prices a watch at AED 24,999?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** It risks making its product seem newer than intended.
-   - **B** It risks making its product seem dearer than intended.
-   - **C** It risks making its product seem cheaper than intended.
+   - **A** It may unintentionally suggest a limited-stock item.
+   - **B** It may unintentionally suggest a premium-quality item.
+   - **C** It may unintentionally suggest a reduced-price item.
 
 7. Why does the writer advise comparing the price per kilogram or litre?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** because unit prices are easier for a shop to disguise
-   - **B** because unit prices are harder for a shop to disguise
-   - **C** because unit prices are always lower than shelf prices
+   - **A** Unit prices repeat the value the label is designed to show.
+   - **B** Unit prices reveal the value the label is designed to blur.
+   - **C** Unit prices are lower than the value shown on the label.
 
 8. What is the overall message of the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** A small pricing habit is dishonest, so shops should be made to stop it.
-   - **B** A small pricing habit exploits how we read numbers, and it cannot be resisted.
-   - **C** A small pricing habit exploits how we read numbers, but it can be resisted.
+   - **A** A pricing trick works on how we trust sellers, yet a round price exposes it.
+   - **B** A pricing trick works on how we read numbers, yet shops rarely rely on it.
+   - **C** A pricing trick works on how we read numbers, yet a simple habit defeats it.
 
 ## Part 3A • Practice 2 | Money Talks | Consumerism and the human brain
 
@@ -90,51 +90,51 @@ Grade 12 General | Grade 11 Advanced • EoT1 2026–2027
 
 1. According to paragraph 1, what largely decides the final price in the Gold Souq?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** the closing figure stated by the seller
-   - **B** the opening figure stated by the seller
-   - **C** the lowest figure offered by the buyer
+   - **A** the sum the buyer mentions at the start
+   - **B** the sum the seller mentions at the start
+   - **C** the sum the seller accepts at the end
 
 2. In the wine experiment, what was true of the phone-number digits?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** They had a close connection to the wine, so they raised the bids.
-   - **B** They had no connection to the wine, so they lowered the bids.
-   - **C** They had no connection to the wine, yet they raised the bids.
+   - **A** They were meaningful for the wine and therefore lifted the bids.
+   - **B** They were meaningless for the wine and so lowered the bids.
+   - **C** They were meaningless for the wine but still lifted the bids.
 
 3. Why do some restaurants put a very costly dish at the top of the menu?  
    *DETAILS ◆ SYNONYM*  
-   - **A** to make the other dishes seem poorly priced by comparison
-   - **B** to make the other dishes seem fairly priced by comparison
-   - **C** to make the costly dish the one most customers order
+   - **A** so that the remaining dishes appear generously sized
+   - **B** so that the remaining dishes appear sensibly priced
+   - **C** so that the featured dish gets ordered more
 
 4. According to paragraph 4, why are anchors so effective?  
    *DETAILS ◆ SYNONYM*  
-   - **A** Comparing is slow and demanding, while working out real value is fast and easy.
-   - **B** Comparing is fast and easy, and working out real value is just as quick.
-   - **C** Comparing is fast and easy, while working out real value is slow and demanding.
+   - **A** Judging by comparison is tiring, but judging true worth is effortless.
+   - **B** Judging by comparison is accurate, but judging true worth is unreliable.
+   - **C** Judging by comparison is effortless, but judging true worth is tiring.
 
 5. What is the main point of paragraph 3?  
    *MAIN POINTS ◆ CRITICAL THINKING*  
-   - **A** Sellers in many settings deliberately supply the first number.
-   - **B** Sellers in many settings refuse to supply the first number.
-   - **C** Sellers in many settings accidentally supply the first number.
+   - **A** Sellers in many fields purposely provide the opening figure.
+   - **B** Sellers in many fields purposely reduce the opening figure.
+   - **C** Sellers in many fields purposely conceal the opening figure.
 
 6. What can be inferred about a 'was AED 899' label?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** It must describe a price the item will return to.
-   - **B** It may not describe a price the item was ever sold at.
-   - **C** It must describe a price the item was once sold at.
+   - **A** The item will soon be offered again at that figure.
+   - **B** The item may not have been offered at that figure.
+   - **C** The item must once have been offered at that figure.
 
 7. Why does the writer suggest writing your own figure down before shopping?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** so that your estimate is shared with the seller before you bargain
-   - **B** so that your estimate is fixed before the seller's number appears
-   - **C** so that your estimate is changed after the seller's number appears
+   - **A** so your reference point is visible when the seller's appears
+   - **B** so your reference point is set before the seller's appears
+   - **C** so your reference point is revised once the seller's appears
 
 8. What is the main idea of the whole text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** The first price we meet steers our judgement, so shoppers should set their own reference point.
-   - **B** The last price we meet steers our judgement, so shoppers should always wait for the final offer.
-   - **C** The first price we meet steers our judgement, so shoppers should avoid shops that bargain.
+   - **A** The first figure we meet shapes our judgement, so bring your own reference point.
+   - **B** The last figure we meet shapes our judgement, so wait patiently for the final offer.
+   - **C** The first figure we meet shapes our judgement, so avoid shops where bargaining happens.
 
 ## Part 3A • Practice 3 | Money Talks | Consumerism and the human brain
 
@@ -156,51 +156,51 @@ Grade 12 General | Grade 11 Advanced • EoT1 2026–2027
 
 1. According to paragraph 1, what does the growth of loyalty schemes suggest?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** that the companies profit from them more than customers do
-   - **B** that the schemes are becoming cheaper for companies to run
-   - **C** that the customers profit from them more than companies do
+   - **A** that firms benefit from the schemes more than shoppers
+   - **B** that the schemes are becoming less expensive to operate
+   - **C** that shoppers benefit from the schemes more than firms
 
 2. In the coffee-card study, what did both groups of customers have in common?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** Each group completed the card in the same length of time.
-   - **B** Each group received the same number of stamped boxes.
-   - **C** Each group needed to purchase the same number of drinks.
+   - **A** the number of days they took to finish
+   - **B** the number of boxes already stamped for them
+   - **C** the number of drinks they had to buy
 
 3. According to paragraph 3, why did shoppers choose a points store over a cheaper rival?  
    *DETAILS ◆ SYNONYM*  
-   - **A** The saving at the rival was visible, while the points were hidden.
-   - **B** The saving at the rival was hidden, while the points were visible.
-   - **C** The saving at the rival was smaller than the value of the points.
+   - **A** The rival's lower prices were visible, but the points were unseen.
+   - **B** The rival's lower prices were unseen, but the points were visible.
+   - **C** The rival's lower prices were smaller than the points were worth.
 
 4. What do companies gain from each scan of a loyalty card, according to paragraph 4?  
    *DETAILS ◆ SYNONYM*  
-   - **A** a detailed record of a shopper's complaints
-   - **B** a detailed record of a shopper's purchases
-   - **C** a detailed record of a competitor's prices
+   - **A** a precise picture of what each shopper earns
+   - **B** a precise picture of what each shopper buys
+   - **C** a precise picture of what each rival charges
 
 5. What is the main point of paragraph 2?  
    *MAIN POINTS ◆ CRITICAL THINKING*  
-   - **A** People work harder towards a target when the target is clearly impossible.
-   - **B** People work harder towards a target when they feel they have already begun.
-   - **C** People work harder towards a target when they feel they have almost failed.
+   - **A** A sense of having failed makes people push on towards a target.
+   - **B** A sense of having started makes people push on towards a target.
+   - **C** A sense of having started makes people slow down towards a target.
 
 6. What can be inferred about the baby-food coupon in paragraph 4?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** It was sent because earlier purchases revealed a past complaint.
-   - **B** It was sent because the household had requested such offers.
-   - **C** It was sent because earlier purchases predicted a future need.
+   - **A** Past purchases allowed the firm to confirm a past need.
+   - **B** Past complaints allowed the firm to forecast a coming need.
+   - **C** Past purchases allowed the firm to forecast a coming need.
 
 7. What does the final sentence imply about a shopper who would leave if the card vanished?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** Their custom is being purchased rather than genuinely earned.
-   - **B** Their custom is being lost to a competitor without their noticing.
-   - **C** Their custom is being genuinely earned rather than purchased.
+   - **A** Such a customer's loyalty is being bought, not deserved.
+   - **B** Such a customer's loyalty is being tested, not rewarded.
+   - **C** Such a customer's loyalty is being deserved, not bought.
 
 8. What is the overall message of the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** Loyalty schemes reward our love of progress, so joining as many as possible is the best strategy.
-   - **B** Loyalty schemes exploit our love of progress, so the wise shopper should refuse to join any of them.
-   - **C** Loyalty schemes exploit our love of progress, so use them without letting them steer your spending.
+   - **A** Loyalty schemes reward our love of progress, so joining several of them at once is the wisest approach.
+   - **B** Loyalty schemes play on our love of progress, so the sensible shopper should decline to join them.
+   - **C** Loyalty schemes play on our love of progress, so enjoy them without letting them direct your spending.
 
 ## Part 3A • Practice 4 | Money Talks | Does money talk?
 
@@ -222,51 +222,51 @@ Grade 12 General | Grade 11 Advanced • EoT1 2026–2027
 
 1. According to paragraph 1, what happens when people reach the salary they once wanted?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** They decide that a larger sum is needed to be content.
-   - **B** They decide that the sum they earn is enough to be content.
-   - **C** They decide that a smaller sum is needed to be content.
+   - **A** They settle on a higher figure as the one they need.
+   - **B** They accept the figure they earn as the one they need.
+   - **C** They settle on a lower figure as the one they need.
 
 2. According to paragraph 2, when does extra income have the strongest effect on wellbeing?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** when a person's earnings have recently been doubled
-   - **B** when a person's earnings are already relatively high
-   - **C** when a person's earnings are still relatively low
+   - **A** once a person's income has recently doubled
+   - **B** while a person's income remains fairly generous
+   - **C** while a person's income remains fairly modest
 
 3. Why is a pay rise felt mainly in the week it arrives, according to paragraph 3?  
    *DETAILS ◆ SYNONYM*  
-   - **A** The brain responds to losses rather than to any kind of gain.
-   - **B** The brain responds to changes rather than to steady levels.
-   - **C** The brain responds to steady levels rather than to changes.
+   - **A** The mind registers losses, not comparable gains.
+   - **B** The mind registers shifts, not stable conditions.
+   - **C** The mind registers stable conditions, not shifts.
 
 4. According to paragraph 4, how has social media altered income comparison?  
    *DETAILS ◆ SYNONYM*  
-   - **A** It has made the comparison far more accurate.
-   - **B** It has made the comparison happen far more often.
-   - **C** It has made the comparison happen far less often.
+   - **A** It has made people compare incomes far less openly.
+   - **B** It has made people compare incomes far more frequently.
+   - **C** It has made people compare incomes far more accurately.
 
 5. What is the main point of paragraph 4?  
    *MAIN POINTS ◆ CRITICAL THINKING*  
-   - **A** Satisfaction with pay depends heavily on what others earn.
-   - **B** Satisfaction with pay depends heavily on how often it rises.
-   - **C** Satisfaction with pay depends heavily on what money buys.
+   - **A** Contentment with pay rests largely on other people's earnings.
+   - **B** Contentment with pay rests largely on one's own purchases.
+   - **C** Contentment with pay rests largely on other people's spending.
 
 6. What does the sentence 'doubling a very large one changes a car' imply?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** Extra money at high incomes is usually spent on transport.
-   - **B** Extra money at high incomes buys only minor improvements.
-   - **C** Extra money at high incomes buys only major improvements.
+   - **A** At high incomes extra money goes mostly on cars.
+   - **B** At high incomes extra money brings merely small gains.
+   - **C** At high incomes extra money brings mostly practical gains.
 
 7. What can be inferred about the writer's view of the Abu Dhabi students?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** They are entirely correct about both the role and the sum of money.
-   - **B** They are partly correct, but they underestimate the sum they require.
-   - **C** They are partly correct, but they overestimate the sum they require.
+   - **A** They are right in full, about both the role and amount of money.
+   - **B** They are right in part, but they understate the amount they need.
+   - **C** They are right in part, but they overstate the amount they need.
 
 8. Which statement best sums up the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** Money improves wellbeing strongly at first, but beyond the basics its effect fades.
-   - **B** Money has little effect on wellbeing at any income level once rent is paid.
-   - **C** Money improves wellbeing strongly at first, and beyond the basics its effect grows.
+   - **A** Income lifts wellbeing sharply at first, but past the basics its power weakens.
+   - **B** Income barely affects wellbeing at any level once the monthly rent is covered.
+   - **C** Income lifts wellbeing sharply at first, and past the basics its power doubles.
 
 ## Part 3A • Practice 5 | Money Talks | Consumerism and the human brain
 
@@ -288,51 +288,51 @@ Grade 12 General | Grade 11 Advanced • EoT1 2026–2027
 
 1. According to paragraph 1, what do shoppers frequently do after examining many olive oils?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** They leave after buying several of them.
-   - **B** They ask a member of staff to recommend one.
-   - **C** They leave without buying any of them.
+   - **A** They depart after purchasing a single bottle.
+   - **B** They request advice from a nearby assistant.
+   - **C** They depart without purchasing a single bottle.
 
 2. What did the larger jam display achieve, according to paragraph 2?  
    *SPECIFIC INFORMATION ◆ SYNONYM*  
-   - **A** It drew more people and led to more purchases.
-   - **B** It drew fewer people but led to more purchases.
-   - **C** It drew more people but led to fewer purchases.
+   - **A** It attracted more visitors and produced more sales.
+   - **B** It attracted fewer visitors but produced more sales.
+   - **C** It attracted more visitors but produced fewer sales.
 
 3. According to paragraph 3, why do buyers often feel less content after choosing from many options?  
    *DETAILS ◆ SYNONYM*  
-   - **A** The options they rejected are quickly forgotten after paying.
-   - **B** The options they rejected keep suggesting a better outcome.
-   - **C** The options they rejected keep suggesting a worse outcome.
+   - **A** The rejected alternatives vanish from memory after the purchase.
+   - **B** The rejected alternatives linger as a possibly superior choice.
+   - **C** The rejected alternatives linger as a possibly inferior choice.
 
 4. How do some retailers steer customers while keeping a huge range, according to paragraph 4?  
    *DETAILS ◆ SYNONYM*  
-   - **A** through what items cost and how they are packaged
-   - **B** through where items are placed and how they are lit
-   - **C** through staff who approach shoppers and suggest items
+   - **A** by means of shelf labels and pricing
+   - **B** by means of shelf position and lighting
+   - **C** by means of staff advice and sampling
 
 5. What is the main point of paragraph 3?  
    *MAIN POINTS ◆ CRITICAL THINKING*  
-   - **A** Each extra option makes deciding harder and less rewarding.
-   - **B** Each extra option makes deciding slower but more rewarding.
-   - **C** Each extra option makes deciding easier and more rewarding.
+   - **A** Every added option makes a decision harder and less satisfying.
+   - **B** Every added option makes a decision easier and more satisfying.
+   - **C** Every added option makes a decision slower but more satisfying.
 
 6. What can be inferred about supermarket chains that offer one version of each product?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** They turned a limited range into a weakness.
-   - **B** They turned a limited range into a strength.
-   - **C** They were forced to limit their range by cost.
+   - **A** A narrow range became a weakness they later corrected.
+   - **B** A narrow range became the basis of their success.
+   - **C** A narrow range was imposed on them by cost.
 
 7. Why does the writer describe the shopper's extra effort as work 'the shopper did not agree to do'?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** because the burden of choosing has been shifted onto the retailer
-   - **B** because the customer asked for fewer options and was ignored
-   - **C** because the burden of choosing has been shifted onto the customer
+   - **A** The effort of sorting has been passed to the retailer.
+   - **B** The effort of sorting has been requested by the shopper.
+   - **C** The effort of sorting has been passed to the shopper.
 
 8. What is the overall message of the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** Beyond a certain point, more choice reduces both buying and satisfaction.
-   - **B** Shops should be required to limit every product to six varieties.
-   - **C** Beyond a certain point, more choice increases both buying and satisfaction.
+   - **A** Past a certain point, extra choice lowers both purchases and satisfaction.
+   - **B** Shops ought to be required to limit each product to six varieties.
+   - **C** Past a certain point, extra choice raises both purchases and satisfaction.
 
 ## Part 3B • Practice 1 | Nail That Job! | A Man’s or a Woman’s Job?
 
@@ -354,51 +354,51 @@ Grade 12 General | Grade 11 Advanced • EoT1 2026–2027
 
 1. According to paragraph 1, who were the pink taxis chiefly meant to serve?  
    *DETAILS ◆ SYNONYM*  
-   - **A** tourists visiting Dubai and people travelling to the airport
-   - **B** women travelling to work and people travelling at night
-   - **C** women travelling alone and people travelling with children
+   - **A** foreign visitors and those travelling at night
+   - **B** female passengers and those travelling to work
+   - **C** female passengers and those travelling with family
 
 2. What extra difficulty did the female drivers report, according to paragraph 2?  
    *DETAILS ◆ SYNONYM*  
-   - **A** being asked constantly to justify their choice of work
-   - **B** being paid less than male drivers for the same work
-   - **C** being asked constantly to change their choice of work
+   - **A** being repeatedly required to explain why they did the job
+   - **B** being repeatedly offered a lower wage for doing the job
+   - **C** being repeatedly required to explain how they did the job
 
 3. According to paragraph 3, what does the phrase 'a man's job' really describe?  
    *DETAILS ◆ SYNONYM*  
-   - **A** the record of who has traditionally performed the work
-   - **B** the record of who has traditionally paid for the work
-   - **C** the physical strength that performing the work requires
+   - **A** the history of who has carried out the work
+   - **B** the history of who has paid for the work
+   - **C** the physical effort that carrying out the work demands
 
 4. In paragraph 4, 'exposed' is closest in meaning to  
    *INFERENCE ◆ SYNONYM*  
-   - **A** revealed
-   - **B** repeated
-   - **C** concealed
+   - **A** brought to light
+   - **B** called to mind
+   - **C** kept from sight
 
 5. What can be inferred from 'Progress and limitation arrived in the same vehicle'?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** The scheme first widened and then restricted women's opportunities.
-   - **B** The scheme both widened and restricted women's opportunities at once.
-   - **C** The scheme restricted women's opportunities more than it widened them.
+   - **A** The scheme first extended and later confined women's options over time.
+   - **B** The scheme both extended and confined women's options at the same time.
+   - **C** The scheme confined women's options more than it extended them overall.
 
 6. How would you describe the writer's tone in the final paragraph?  
    *MOOD AND TONE ◆ CRITICAL THINKING*  
-   - **A** deeply anxious
-   - **B** openly critical
-   - **C** quietly approving
+   - **A** mildly critical
+   - **B** warmly nostalgic
+   - **C** calmly approving
 
 7. Which situation best matches the idea that a symbol 'succeeded by becoming ordinary'?  
    *CONNECTIONS ◆ CRITICAL THINKING*  
-   - **A** A hospital's first female surgeon retires and the hospital decides not to appoint another.
-   - **B** A hospital's first female surgeon retires and the farewell speech focuses entirely on her gender.
-   - **C** A hospital's first female surgeon retires and nobody mentions her gender in the farewell speech.
+   - **A** A hospital's first female surgeon retires and the hospital decides against appointing a replacement.
+   - **B** A hospital's first female surgeon retires and her farewell speech focuses mainly on her gender.
+   - **C** A hospital's first female surgeon retires and her farewell speech says nothing about her gender.
 
 8. What is the main idea of the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** A separate service for women drivers had limits and so failed to make women driving professionally normal.
-   - **B** A separate service for women drivers had limits but helped to make women driving professionally normal.
-   - **C** A separate service for women drivers was unnecessary because passengers had already accepted women drivers.
+   - **A** A women-only service had its limits and therefore left female professional drivers unaccepted.
+   - **B** A women-only service had its limits but helped make female professional drivers unremarkable.
+   - **C** A women-only service was unneeded because passengers had already accepted female professional drivers.
 
 ## Part 3B • Practice 2 | Nail That Job! | A Man’s or a Woman’s Job?
 
@@ -420,51 +420,51 @@ Grade 12 General | Grade 11 Advanced • EoT1 2026–2027
 
 1. According to paragraph 1, what decides whether cooking is seen as men's or women's work?  
    *DETAILS ◆ SYNONYM*  
-   - **A** whether the cooking is done at home or in a hotel
-   - **B** whether the cooking is simple and quick or elaborate
-   - **C** whether the cooking is paid and admired or unpaid
+   - **A** whether the work is done at home or elsewhere
+   - **B** whether the work is skilled and praised or unskilled
+   - **C** whether the work is paid and praised or unpaid
 
 2. How does paragraph 2 describe the traditional professional kitchen?  
    *DETAILS ◆ SYNONYM*  
-   - **A** as loosely ranked and extremely relaxed
-   - **B** as strictly ranked and surprisingly relaxed
-   - **C** as strictly ranked and extremely demanding
+   - **A** as rigidly ordered and socially welcoming
+   - **B** as loosely ordered and physically punishing
+   - **C** as rigidly ordered and physically punishing
 
 3. What claim do the female restaurant owners make, according to paragraph 3?  
    *DETAILS ◆ SYNONYM*  
-   - **A** Women copied the dishes that hotels now present as heritage.
-   - **B** Women created the dishes that hotels now present as heritage.
-   - **C** Women improved the dishes that hotels first presented as heritage.
+   - **A** Women perfected the dishes hotels now sell as heritage.
+   - **B** Women originated the dishes hotels now sell as heritage.
+   - **C** Women abandoned the dishes hotels now sell as heritage.
 
 4. In paragraph 4, 'practical rather than mysterious' suggests the obstacles are  
    *INFERENCE ◆ SYNONYM*  
-   - **A** concrete and explainable
-   - **B** minor and easily removed
-   - **C** hidden and unexplainable
+   - **A** real and identifiable
+   - **B** hidden and puzzling
+   - **C** small and removable
 
 5. What can be inferred about the investors mentioned in paragraph 4?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** They tend to favour applicants with the best recipes.
-   - **B** They tend to favour applicants who resemble them.
-   - **C** They tend to favour applicants who challenge them.
+   - **A** They lean towards founders who present the best dishes.
+   - **B** They lean towards founders who are similar to themselves.
+   - **C** They lean towards founders who are confident like themselves.
 
 6. Which word best describes the tone of the final sentence?  
    *MOOD AND TONE ◆ CRITICAL THINKING*  
-   - **A** pointed
-   - **B** cheerful
-   - **C** neutral
+   - **A** sharply questioning
+   - **B** openly celebrating
+   - **C** gently questioning
 
 7. Which situation best illustrates 'the same job wearing different clothes'?  
    *CONNECTIONS ◆ CRITICAL THINKING*  
-   - **A** Sewing at home is called a hobby, while sewing in a fashion house is called design.
-   - **B** Sewing at home is called slow work, while sewing in a fashion house is called fast work.
-   - **C** Sewing at home is called a hobby, while sewing in a factory is called a hobby too.
+   - **A** Stitching at home is called a pastime, while stitching for a fashion house is called design.
+   - **B** Stitching at home is done slowly, while stitching for a fashion house is done with machines.
+   - **C** Stitching at home is called a pastime, and stitching for a fashion house is called one too.
 
 8. What is the main idea of the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** Cooking shows that women are now the majority of chefs in the Gulf's hotels.
-   - **B** Cooking shows that job labels follow the nature of the task, not status and pay.
-   - **C** Cooking shows that job labels follow status and pay, not the nature of the task.
+   - **A** Cooking shows that women now outnumber men in the kitchens of the Gulf's leading hotels.
+   - **B** Cooking shows that a job's label follows the work itself rather than its pay and status.
+   - **C** Cooking shows that a job's label follows its pay and status rather than the work itself.
 
 ## Part 3B • Practice 3 | Nail That Job! | A Man’s or a Woman’s Job?
 
@@ -486,51 +486,51 @@ Grade 12 General | Grade 11 Advanced • EoT1 2026–2027
 
 1. According to paragraph 1, what point was made by naming the school after a seventh-century warrior?  
    *DETAILS ◆ SYNONYM*  
-   - **A** Women in combat were part of a recent import, not a forgotten heritage.
-   - **B** Women in combat were part of a forgotten heritage, not a recent import.
-   - **C** Women in combat had always been honoured throughout the region's past.
+   - **A** Women fighters belonged to a recent import rather than a forgotten past.
+   - **B** Women fighters belonged to a forgotten past rather than a recent import.
+   - **C** Women fighters had been openly honoured across the region's whole past.
 
 2. How does paragraph 2 describe the early duties of women police officers?  
    *DETAILS ◆ SYNONYM*  
-   - **A** as symbolic and without any real duties
-   - **B** as genuine and covering a very wide area
-   - **C** as genuine but confined to a limited area
+   - **A** as symbolic rather than carrying genuine responsibility
+   - **B** as real and extended across a broad field
+   - **C** as real but restricted to a narrow field
 
 3. According to paragraph 3, what usually follows the public surprise at a new role for women?  
    *DETAILS ◆ SYNONYM*  
-   - **A** It grows as the role comes to be seen as normal.
-   - **B** It fades because the role is quietly taken away again.
-   - **C** It fades as the role comes to be seen as normal.
+   - **A** It builds up as the role becomes accepted as ordinary.
+   - **B** It dies away because the role is quietly removed again.
+   - **C** It dies away as the role becomes accepted as ordinary.
 
 4. In paragraph 4, 'settled' is closest in meaning to  
    *INFERENCE ◆ SYNONYM*  
    - **A** avoided
    - **B** resolved
-   - **C** ignored
+   - **C** raised
 
 5. What can be inferred about the writer's view of the debates in paragraph 4?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** They are legitimate but admit only one correct answer.
-   - **B** They are legitimate and admit more than one answer.
-   - **C** They are outdated and should no longer be discussed.
+   - **A** They are serious but allow just a single reasonable answer.
+   - **B** They are serious and allow more than one reasonable answer.
+   - **C** They are outdated and deserve little further serious discussion.
 
 6. How would you describe the writer's tone in paragraph 4?  
    *MOOD AND TONE ◆ CRITICAL THINKING*  
-   - **A** fair and measured
-   - **B** angry and dismissive
-   - **C** proud and triumphant
+   - **A** balanced and candid
+   - **B** irritated and dismissive
+   - **C** proud and confident
 
 7. Which situation best matches the idea that 'absence proves nothing except absence'?  
    *CONNECTIONS ◆ CRITICAL THINKING*  
-   - **A** A company with no female engineers concludes that it has simply never hired any.
-   - **B** A company with no female engineers concludes that its recruitment must be working.
-   - **C** A company with no female engineers concludes that women must avoid engineering.
+   - **A** A firm with no female engineers concludes that it has simply not recruited any.
+   - **B** A firm with no female engineers concludes that its hiring process works well.
+   - **C** A firm with no female engineers concludes that women prefer other kinds of work.
 
 8. What is the main idea of the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** Women's record in uniform is too short to say whether old doubts were justified.
-   - **B** Women's record in uniform has disproved old doubts, and no questions now remain open.
-   - **C** Women's record in uniform has disproved old doubts, though some questions remain open.
+   - **A** Women's record in uniform is still too brief to judge the old doubts.
+   - **B** Women's record in uniform has answered old doubts, so no questions stay open.
+   - **C** Women's record in uniform has answered old doubts, while some questions stay open.
 
 ## Part 3B • Practice 4 | Nail That Job! | A Man’s or a Woman’s Job?
 
@@ -552,51 +552,51 @@ Grade 12 General | Grade 11 Advanced • EoT1 2026–2027
 
 1. According to paragraph 1, what did the software do with CVs containing the word 'women's'?  
    *DETAILS ◆ SYNONYM*  
-   - **A** It removed them from the list completely.
-   - **B** It ranked them lower than it should have.
-   - **C** It ranked them higher than it should have.
+   - **A** It deleted them from the ranking before any rating.
+   - **B** It gave them a poorer rating than they deserved.
+   - **C** It gave them a better rating than they deserved.
 
 2. Why did the tool develop its preference, according to paragraph 2?  
    *DETAILS ◆ SYNONYM*  
-   - **A** It ignored patterns from a decade of earlier hiring.
-   - **B** It followed a rule written by one of its programmers.
-   - **C** It copied patterns from a decade of earlier hiring.
+   - **A** It learned from a decade of the industry's own choices.
+   - **B** It followed a rule entered by one of the programmers.
+   - **C** It learned from a decade of the firm's own choices.
 
 3. According to paragraph 3, why do employers expect software to make hiring fairer?  
    *DETAILS ◆ SYNONYM*  
-   - **A** It is cheaper than a team of experienced recruiters.
-   - **B** It is free from tiredness, moods and company history.
-   - **C** It is free from tiredness, moods and personal connections.
+   - **A** It is cheaper than a team of trained recruiters.
+   - **B** It is immune to fatigue, moods and past decisions.
+   - **C** It is immune to fatigue, moods and personal contacts.
 
 4. In paragraph 4, 'bias wearing a lab coat' refers to prejudice that  
    *INFERENCE ◆ SYNONYM*  
-   - **A** appears old-fashioned
-   - **B** appears scientific
-   - **C** appears accidental
+   - **A** looks outdated
+   - **B** looks scientific
+   - **C** looks accidental
 
 5. What can be inferred about the writer's attitude to the company that switched its tool off?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** It deserves no credit because it created the fault.
-   - **B** It deserves praise for being the first to use such tools.
-   - **C** It deserves some credit for having noticed the fault.
+   - **A** It earns generous credit for spotting the problem.
+   - **B** It earns no credit because it caused the problem.
+   - **C** It earns limited credit for spotting the problem.
 
 6. Which phrase best describes the writer's tone in paragraph 4?  
    *MOOD AND TONE ◆ CRITICAL THINKING*  
-   - **A** amused and relaxed
-   - **B** hostile and alarmed
-   - **C** warning but reasoned
+   - **A** light and amused
+   - **B** alarmed and hostile
+   - **C** cautionary yet calm
 
 7. Which situation best matches 'It had not invented a bias. It had inherited one'?  
    *CONNECTIONS ◆ CRITICAL THINKING*  
-   - **A** A navigation app sends drivers down a narrow road because old data shows most drivers used it.
-   - **B** A navigation app sends drivers down a narrow road because the main road has just been closed.
-   - **C** A navigation app sends drivers down a narrow road because its designers preferred that road.
+   - **A** A map app sends drivers down a narrow lane because old data shows most drivers chose it.
+   - **B** A map app sends drivers down a narrow lane because the main road was just closed.
+   - **C** A map app sends drivers down a narrow lane because its designers happened to prefer it.
 
 8. What is the main idea of the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** Hiring software can repeat past bias invisibly, so it must be checked rather than trusted blindly.
-   - **B** Hiring software is fairer than human recruiters, because it cannot hold any personal prejudices at all.
-   - **C** Hiring software can repeat past bias invisibly, so it must be banned rather than checked.
+   - **A** Hiring software can quietly repeat old bias, so it needs checking rather than blind trust.
+   - **B** Hiring software is fairer than human recruiters, since it holds no prejudices of its own.
+   - **C** Hiring software can quietly repeat old bias, so it needs replacing rather than any checking.
 
 ## Part 3B • Practice 5 | Nail That Job! | A Man’s or a Woman’s Job?
 
@@ -618,51 +618,51 @@ Grade 12 General | Grade 11 Advanced • EoT1 2026–2027
 
 1. According to paragraph 1, what happens to most venture capital funding?  
    *DETAILS ◆ SYNONYM*  
-   - **A** It goes to teams made up of men and women.
-   - **B** It goes to teams made up only of men.
-   - **C** It goes to teams made up only of women.
+   - **A** to teams consisting of both sexes
+   - **B** to teams consisting solely of men
+   - **C** to teams consisting solely of women
 
 2. What did the long-term studies in paragraph 2 reveal about women-founded companies?  
    *DETAILS ◆ SYNONYM*  
-   - **A** They earned more per unit of money invested.
-   - **B** They raised more money than men-founded companies.
-   - **C** They earned less per unit of money invested.
+   - **A** They generated more revenue for each dirham invested.
+   - **B** They survived longer than firms founded by men.
+   - **C** They secured more funding for each dirham earned.
 
 3. According to paragraph 3, what kind of question were women founders asked more often?  
    *DETAILS ◆ SYNONYM*  
-   - **A** questions about how they would achieve growth
-   - **B** questions about how they would prevent losses
-   - **C** questions about how they had built their team
+   - **A** questions about building towards growth
+   - **B** questions about guarding against losses
+   - **C** questions about assembling their team
 
 4. In paragraph 4, 'the structure produces it on its own' means the inequality is  
    *INFERENCE ◆ SYNONYM*  
-   - **A** a matter of pure chance
-   - **B** built into the system
-   - **C** caused by a few individuals
+   - **A** a matter of simple chance
+   - **B** part of the system itself
+   - **C** the fault of certain individuals
 
 5. What can be inferred from the sentence 'the money would flow the other way'?  
    *INFERENCE ◆ CRITICAL THINKING*  
-   - **A** Pure profit-seeking would direct more funding towards men.
-   - **B** Pure profit-seeking would direct funding away from start-ups.
-   - **C** Pure profit-seeking would direct more funding towards women.
+   - **A** Chasing returns alone would send more money to men.
+   - **B** Chasing returns alone would send money away from start-ups.
+   - **C** Chasing returns alone would send more money to women.
 
 6. How would you describe the writer's attitude to the UAE's special funds in paragraph 5?  
    *MOOD AND TONE ◆ CRITICAL THINKING*  
-   - **A** supportive and completely satisfied
-   - **B** dismissive and openly critical
-   - **C** supportive but not fully satisfied
+   - **A** approving and now fully convinced
+   - **B** sceptical and openly dismissive
+   - **C** approving yet not fully convinced
 
 7. Which situation best matches the point made about questions in paragraph 3?  
    *CONNECTIONS ◆ CRITICAL THINKING*  
-   - **A** Two students give the same talk, and both are asked about its strengths and then about its flaws.
-   - **B** Two students give the same talk, but one is asked about its strengths and the other about its flaws.
-   - **C** Two students give different talks, and the weaker talk is given the harder questions by the same examiner.
+   - **A** Two students give the same talk, and each one is asked about its promise and then about its risks.
+   - **B** Two students give the same talk, but one is asked about its promise and the other about its risks.
+   - **C** Two students give different talks, and the weaker speaker is then asked the far tougher questions by the examiner.
 
 8. What is the main idea of the text?  
    *OVERALL MEANING ◆ CRITICAL THINKING*  
-   - **A** Women founders get far less funding for reasons unrelated to performance, and lasting change needs more diverse investors.
-   - **B** Women founders now get equal funding in the UAE because of programmes aimed at women-led businesses.
-   - **C** Women founders get far less funding for reasons related to performance, and lasting change needs more special programmes.
+   - **A** Women founders receive far less funding for reasons unconnected to results, and real change needs more varied investors.
+   - **B** Women founders now receive equal funding in the UAE thanks to the new programmes aimed at women-led businesses.
+   - **C** Women founders receive far less funding for reasons connected to results, and real change needs more special programmes.
 
 ## Answer Key
 
