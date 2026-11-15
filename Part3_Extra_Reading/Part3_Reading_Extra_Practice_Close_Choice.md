@@ -692,128 +692,128 @@ Grade 12 General | Grade 11 Advanced • EoT1 2026–2027
 
 | Q | Key | Evidence | Why the twin is wrong |
 |---|---|---|---|
-| 1 | C | P1 | Text: 'so common that most shoppers no longer notice it'. Common = familiar, the opposite of unusual. |
-| 2 | A | P2 | The cut from 20 to 19.99 changes the FIRST digit (2 to 1). The 19.99 to 19.50 cut changes later digits and had less effect. |
-| 3 | B | P3 | Text: 'to force cashiers to open the till and give change'. Open, not close. |
-| 4 | A | P4 | 'signals quality and confidence ... nothing to hide'. The twin reverses both ideas. |
-| 5 | B | P2 | All sentences support the idea that the FIRST digit dominates attention. |
-| 6 | C | P4 | P4: a nine 'whispers bargain', so the item seems cheaper, not dearer (more expensive). |
-| 7 | B | P5 | The advice is a defence against being 'led by the first digit', so unit prices must be harder, not easier, to manipulate. |
-| 8 | C | whole | P5 gives a 'simple' defence, so the effect CAN be resisted. The text never calls for a ban. |
+| 1 | C | P1 | Text: 'so common that most shoppers no longer notice it'. Widespread = common. The text never says the habit seems honest. |
+| 2 | A | P2 | 20 to 19.99 changes the LEADING digit (2 to 1) and is a small cut. The closing-digit cut (19.99 to 19.50) sold less. |
+| 3 | B | P3 | 'force cashiers to open the till and give change'. It is the cashier who opens the till, not the customer her purse. |
+| 4 | A | P4 | 'signals quality and confidence'. Popularity is not mentioned. |
+| 5 | B | P2 | 'the brain gives most of its attention to the first digit and treats the rest as detail'. |
+| 6 | C | P4 | A nine 'whispers bargain', so the watch looks reduced, not premium. |
+| 7 | B | P5 | The advice is a defence against the label, so unit prices must show what the label hides, not repeat it. |
+| 8 | C | whole | P5 gives a simple defence. The text says shops 'will not abandon the nine', so they DO rely on it. |
 
 ### Part 3A • Practice 2 • The First Number You Hear
 
 | Q | Key | Evidence | Why the twin is wrong |
 |---|---|---|---|
-| 1 | B | P1 | 'decided largely by the number they heard first' = the seller's opening figure, not the closing one. |
-| 2 | C | P2 | 'completely irrelevant ... yet it still pulled their bids upwards'. |
-| 3 | B | P3 | 'so that everything below it looks reasonable' = fairly priced. |
-| 4 | C | P4 | The text contrasts quick comparison with slow calculation. The twin swaps them. |
-| 5 | A | P3 | Retailers 'use anchors everywhere': the placement is deliberate, not accidental. |
-| 6 | B | P3 | 'even if the item never actually sold at the first' shows the 'was' price may be fictional. |
-| 7 | B | P5 | The point of a personal anchor is to fix it BEFORE exposure to the seller's figure. |
-| 8 | A | whole | The text is about the FIRST number and recommends a personal anchor, not avoiding bargaining. |
+| 1 | B | P1 | 'The seller ... names a price' and 'the number they heard first' decides. The buyer speaks second. |
+| 2 | C | P2 | 'completely irrelevant ... yet it still pulled their bids upwards'. Up, not down. |
+| 3 | B | P3 | 'so that everything below it looks reasonable' is about price, not portion size. |
+| 4 | C | P4 | 'comparison is quick and effortless, while calculating true value is slow and tiring'. The twin swaps the two. |
+| 5 | A | P3 | Retailers 'use anchors everywhere': they supply the first number, they do not hide it. |
+| 6 | B | P3 | 'even if the item never actually sold at the first'. So it may not have been, and 'must' is too strong. |
+| 7 | B | P5 | 'Decide ... before you see any label'. Set before, not revised afterwards. |
+| 8 | A | whole | The advice is to 'arrive with your own anchor', not to avoid bargaining. |
 
 ### Part 3A • Practice 3 • Points, Stamps and Stars
 
 | Q | Key | Evidence | Why the twin is wrong |
 |---|---|---|---|
-| 1 | A | P1 | 'the real reward flows mostly in one direction' = towards the companies, who keep expanding costly schemes. |
-| 2 | C | P2 | 'both groups needed exactly eight coffees'. The stamps and completion times differed. |
-| 3 | B | P3 | 'the price difference was invisible and the points were not'. Points were worth LESS than the saving. |
-| 4 | B | P4 | 'records what was bought, when, and with what' = purchases. |
-| 5 | B | P2 | The head start made customers finish faster: a sense of having begun drives effort. |
-| 6 | C | P4 | Buying nappies signalled a new baby, so the company predicted baby-food purchases. |
-| 7 | A | P5 | 'the card is not rewarding loyalty. It is buying it.' |
-| 8 | C | whole | P5: 'None of this makes loyalty schemes a trap' but do not let 'the points decide'. Not refusal, not maximum joining. |
+| 1 | A | P1 | Schemes are costly yet firms expand them, and 'the real reward flows mostly in one direction': to the firms. |
+| 2 | C | P2 | 'both groups needed exactly eight coffees'. The stamped boxes differed (two versus none). |
+| 3 | B | P3 | 'the price difference was invisible and the points were not'. The twin swaps visible and unseen. |
+| 4 | B | P4 | 'records what was bought, when, and with what' = purchases, not income. |
+| 5 | B | P2 | The pre-stamped card was finished FASTER, so starting speeds people up, not down. |
+| 6 | C | P4 | Nappies predicted a FUTURE need for baby food. The firm was forecasting, not confirming something past. |
+| 7 | A | P5 | 'the card is not rewarding loyalty. It is buying it.' The twin reverses bought and deserved. |
+| 8 | C | whole | 'None of this makes loyalty schemes a trap': use them deliberately. The text does not say decline them. |
 
 ### Part 3A • Practice 4 • Does a Bigger Salary Make You Happier?
 
 | Q | Key | Evidence | Why the twin is wrong |
 |---|---|---|---|
-| 1 | A | P1 | 'they will name a higher one again' = a larger sum. |
-| 2 | C | P2 | 'Below a certain level, extra income raises wellbeing sharply'. Above it the effect weakens. |
-| 3 | B | P3 | 'built to notice change, not level'. |
-| 4 | B | P4 | 'turned a monthly comparison into an hourly one' = more frequent, not more accurate. |
-| 5 | A | P4 | 'less by what it buys than by how it compares'. |
-| 6 | B | P2 | The contrast with 'changes a life' shows that the improvement is minor. |
-| 7 | C | P5 | 'right that money matters ... probably wrong about how much' = they overestimate the amount. |
-| 8 | A | whole | The effect 'continues but weakens'. It does not grow, and it is not 'little' at low incomes. |
+| 1 | A | P1 | 'they will name a higher one again'. |
+| 2 | C | P2 | 'Below a certain level, extra income raises wellbeing sharply'. Modest, not generous. |
+| 3 | B | P3 | 'built to notice change, not level'. The twin swaps the two. |
+| 4 | B | P4 | 'a monthly comparison into an hourly one' is about frequency. Accuracy is never mentioned. |
+| 5 | A | P4 | People judge income by 'how it compares with that of colleagues and neighbours': their EARNINGS. Spending appears only in the social media example. |
+| 6 | B | P2 | Contrast with 'changes a life': the gain is small. 'Practical' is not the point of the contrast. |
+| 7 | C | P5 | 'right that money matters ... probably wrong about how much of it they need': they name too much, so they overstate. |
+| 8 | A | whole | The effect 'continues but weakens'. It does not double. |
 
 ### Part 3A • Practice 5 • Too Many Jars of Jam
 
 | Q | Key | Evidence | Why the twin is wrong |
 |---|---|---|---|
-| 1 | C | P1 | 'walk away with nothing at all'. |
-| 2 | C | P2 | 'More options brought more interest and far fewer sales'. |
-| 3 | B | P3 | 'remains in the mind as a possible better deal'. |
-| 4 | B | P4 | 'shelf position, colour and lighting'. |
-| 5 | A | P3 | Comparisons cost energy, decisions are postponed, and satisfaction falls. |
-| 6 | B | P4 | 'built their success on offering one good version' = the small range was a strength. |
-| 7 | C | P5 | Excess choice makes the customer do the sorting work; shoppers actually SAID they wanted choice (P1). |
-| 8 | A | whole | The jam study and P3 show less buying and lower satisfaction. No rule is proposed. |
+| 1 | C | P1 | 'walk away with nothing at all'. Without, not after. |
+| 2 | C | P2 | 'More options brought more interest and far fewer sales'. The twin swaps more and fewer. |
+| 3 | B | P3 | 'remains in the mind as a possible better deal'. Superior, not inferior. |
+| 4 | B | P4 | 'shelf position, colour and lighting'. Labels and pricing are not listed. |
+| 5 | A | P3 | The brain postpones the task and the buyer 'feels less satisfied'. Less, not more. |
+| 6 | B | P4 | 'built their success on offering one good version'. Nothing was later corrected. |
+| 7 | C | P5 | The shopper does the comparing. P1 says shoppers asked for choice, not for the effort. |
+| 8 | A | whole | 3% versus 30% bought, and buyers feel less satisfied: both fall. |
 
 ### Part 3B • Practice 1 • The Pink Roof
 
 | Q | Key | Evidence | Why the twin is wrong |
 |---|---|---|---|
-| 1 | C | P1 | 'female passengers and families'. |
-| 2 | A | P2 | 'being asked, repeatedly, why they were doing it at all' = to justify. Pay is never mentioned. |
-| 3 | A | P3 | 'not the task but the history of who has done it'. |
-| 4 | A | P4 | Exposed a truth = revealed it. Concealed is the opposite. |
-| 5 | B | P4 | 'In the same vehicle' = simultaneously, not one after the other, and no claim that limits outweighed gains. |
-| 6 | C | P5 | 'perhaps the best outcome a symbol can hope for' is calm approval, not criticism. |
-| 7 | C | P5 | Success = the once-remarkable fact no longer attracts comment. |
-| 8 | B | whole | P5 shows the normalisation happened; P4 shows passengers were NOT all ready. |
+| 1 | C | P1 | 'intended mainly for female passengers and families'. Travel to work is not mentioned. |
+| 2 | A | P2 | 'being asked, repeatedly, why they were doing it at all'. Why, not how. |
+| 3 | A | P3 | 'not the task but the history of who has done it'. The text says no particular muscles are needed. |
+| 4 | A | P4 | To expose a truth is to bring it to light. 'Kept from sight' is the opposite. |
+| 5 | B | P4 | 'arrived in the same vehicle' = at the same time, not one after the other. |
+| 6 | C | P5 | 'perhaps the best outcome a symbol can hope for' is approval of the present, not longing for the past. |
+| 7 | C | P5 | Becoming ordinary = gender no longer attracts comment. |
+| 8 | B | whole | P5: a woman driving professionally now 'causes little comment'. The service did lead to acceptance. |
 
 ### Part 3B • Practice 2 • Who Cooks the Dinner?
 
 | Q | Key | Evidence | Why the twin is wrong |
 |---|---|---|---|
-| 1 | C | P1 | 'women's work when it is unpaid and men's work when it is paid and praised'. Location is the surface, pay and praise are the stated logic. |
-| 2 | C | P2 | 'organised like an army, with ranks ... sixteen-hour shifts'. |
-| 3 | B | P3 | 'developed by generations of women' = created. |
-| 4 | A | P4 | Practical = real and identifiable. The text does not say they are easily removed. |
-| 5 | B | P4 | 'back people who remind them of themselves'. |
-| 6 | A | P5 | 'why the title and the salary took so long' is a sharp, pointed question, not neutral reporting. |
-| 7 | A | P5 | Same task, different status and label depending on setting and pay. |
-| 8 | C | whole | P5 states it directly. The majority claim is never made. |
+| 1 | C | P1 | 'women's work when it is unpaid ... men's work when it is paid and praised'. Skill is the same in both cases; location is only the surface difference. |
+| 2 | C | P2 | 'organised like an army ... sixteen-hour shifts ... tolerates aggression'. Not welcoming. |
+| 3 | B | P3 | 'developed by generations of women' = originated. Perfected would mean someone else created them. |
+| 4 | A | P4 | Practical = concrete and nameable. The text does not say the obstacles are small. |
+| 5 | B | P4 | 'back people who remind them of themselves' = similar. Confidence is not mentioned. |
+| 6 | A | P5 | 'why the title and the salary took so long' is a sharp challenge, not a gentle query. |
+| 7 | A | P5 | Same task, different label depending on status. In the twin the label does not change. |
+| 8 | C | whole | 'Status, pay and recognition decide the label, not the task'. The twin reverses this. |
 
 ### Part 3B • Practice 3 • The Uniform Fits
 
 | Q | Key | Evidence | Why the twin is wrong |
 |---|---|---|---|
-| 1 | B | P1 | 'a tradition that had been forgotten rather than one that had never existed'. |
-| 2 | C | P2 | 'These duties were real, but they were also a boundary'. |
-| 3 | C | P3 | 'then ... silence, because the extraordinary has become routine'. |
-| 4 | B | P4 | Settled argument = resolved. The writer says debates continue, so NOT resolved. |
-| 5 | B | P4 | 'serious questions, and reasonable people answer them differently'. |
-| 6 | A | P4 | 'It would be dishonest to pretend' and 'reasonable people' signal balance. |
-| 7 | A | P5 | Absence shows only that women 'have not yet been let in', not anything about their ability or choices. |
-| 8 | C | whole | P4 keeps some debates open; P5 says the old claim is answered. |
+| 1 | B | P1 | 'a tradition that had been forgotten rather than one that had never existed' and 'not a modern import'. The twin swaps the two. |
+| 2 | C | P2 | 'These duties were real, but they were also a boundary'. Narrow, not broad. |
+| 3 | C | P3 | 'then ... silence, because the extraordinary has become routine'. The surprise dies away. |
+| 4 | B | P4 | A settled argument is a resolved one. 'Raised' is the opposite stage. |
+| 5 | B | P4 | 'reasonable people answer them differently' = more than one answer. |
+| 6 | A | P4 | 'It would be dishonest to pretend' = candid; 'reasonable people' = balanced. Pride belongs to P5, not P4. |
+| 7 | A | P5 | Absence shows only that women 'have not yet been let in'. It proves nothing about what women prefer. |
+| 8 | C | whole | P4: debates continue. P5: the old claim is answered. So some questions do stay open. |
 
 ### Part 3B • Practice 4 • The Machine That Learned to Prefer Men
 
 | Q | Key | Evidence | Why the twin is wrong |
 |---|---|---|---|
-| 1 | B | P1 | 'mark down' = give a lower rank. Not removed entirely. |
-| 2 | C | P2 | 'trained on ten years of the company's own hiring decisions'. 'Nobody had programmed that rule.' |
-| 3 | C | P3 | 'does not get tired, does not have a bad morning, and does not know a candidate's uncle'. It is NOT free from history. |
+| 1 | B | P1 | 'mark down' = give a lower rating. |
+| 2 | C | P2 | 'trained on ten years of the company's own hiring decisions'. The firm's, not the industry's. |
+| 3 | C | P3 | 'does not get tired, does not have a bad morning, and does not know a candidate's uncle'. It is NOT immune to past decisions: it learns from them. |
 | 4 | B | P4 | A lab coat suggests science and objectivity. |
-| 5 | C | P5 | 'did at least notice the problem' = limited credit. |
-| 6 | C | P4 | The writer cautions calmly about hidden bias without panic or hostility. |
-| 7 | A | P2 | The app reproduces a pattern from past behaviour, just as the tool reproduced past hiring. |
-| 8 | A | whole | P5: 'not to abandon the tools but to audit them'. |
+| 5 | C | P5 | 'did at least notice the problem': 'at least' signals limited, not generous, credit. |
+| 6 | C | P4 | The writer warns about hidden bias in a reasoned way. There is no alarm or hostility. |
+| 7 | A | P2 | The app repeats a pattern in old behaviour, as the tool repeated old hiring. The designers' preference would be an invented bias. |
+| 8 | A | whole | 'not to abandon the tools but to audit them'. Check, do not replace. |
 
 ### Part 3B • Practice 5 • Who Gets the Money to Start?
 
 | Q | Key | Evidence | Why the twin is wrong |
 |---|---|---|---|
 | 1 | B | P1 | 'Teams founded entirely by men receive the great majority of the rest'. |
-| 2 | A | P2 | 'more revenue for every dirham invested'. They raised LESS money overall. |
-| 3 | B | P3 | 'how will you avoid losing our money' = preventing losses. |
-| 4 | B | P4 | 'Nobody in the chain needs to hold a prejudice' = systemic, not individual. |
-| 5 | C | P2 | Women's firms returned more per dirham, so pure return-chasing would favour them. |
-| 6 | C | P5 | 'a start, but they treat the symptom'. |
-| 7 | B | P3 | Same performance, different framing of questions, different impression. |
-| 8 | A | whole | P2: not performance. P5: programmes treat the symptom; who invests is the root. |
+| 2 | A | P2 | 'more revenue for every dirham invested'. They received far LESS funding. The twin swaps revenue and funding. |
+| 3 | B | P3 | 'how will you avoid losing our money' = guarding against losses. Growth questions went to men. |
+| 4 | B | P4 | 'Nobody in the chain needs to hold a prejudice': the cause is the system, not individuals. |
+| 5 | C | P2 | Women's firms returned more per dirham, so pure return-chasing would favour women. |
+| 6 | C | P5 | 'a start, but they treat the symptom': approval with a clear reservation. |
+| 7 | B | P3 | Same performance, different kind of question for each person. In the twin both get the same questions. |
+| 8 | A | whole | P2: 'not explained by results'. P5: programmes 'treat the symptom'; the root is who invests. |
