@@ -25,6 +25,7 @@
   --warn:#F0A35E; --warn-soft:#3A2614; --bad:#F2877D; --bad-soft:#3B1C1A; --good:#6CCB96; --good-soft:#15301F;
   --shade:rgba(0,0,0,.72); color-scheme:dark}
 
+*,*::before,*::after{box-sizing:border-box}
 [hidden]{display:none!important}
 html,body{height:100%}
 body{background:var(--bg);color:var(--ink);font-family:var(--f-ui);font-size:15px;line-height:1.5}
@@ -171,9 +172,7 @@ h1,h2,h3{text-wrap:balance;margin:0}
         <div class="sets" id="setList" role="radiogroup" aria-label="Reading set"></div>
       </div>
       <div class="panel">
-        <div class="field"><label for="sTime">Time allowed</label>
-          <select id="sTime"><option value="15" selected>15 minutes (exam pace)</option><option value="20">20 minutes</option><option value="25">25 minutes</option></select>
-        </div>
+        <div class="field"><span style="font-weight:600;font-size:13px">Time allowed</span><div class="chip timer" style="justify-self:start">15:00 per exam</div></div>
         <div>
           <div class="eyebrow" style="margin-bottom:8px">Exam rules</div>
           <ol class="rules">
@@ -181,7 +180,7 @@ h1,h2,h3{text-wrap:balance;margin:0}
             <li>Leaving the exam, switching tabs or exiting full screen <b>locks the screen</b> and is recorded.</li>
             <li>After <b>3 recorded exits</b> the exam submits itself.</li>
             <li>Copy, paste, right-click and text selection are switched off.</li>
-            <li>When the timer reaches zero, your answers are submitted automatically.</li>
+            <li>You have <b>15 minutes</b>. When the timer reaches zero, your answers are submitted automatically.</li>
             <li>Read the whole text first. All three options in a question come from the same paragraph.</li>
           </ol>
         </div>
@@ -259,7 +258,7 @@ $("startForm").addEventListener("submit",function(e){
   if(!cls){$("sErr").textContent="Type your class to start.";$("sClass").focus();return;}
   if(!$("sAgree").checked){$("sErr").textContent="Tick the agreement box to start.";return;}
   $("sErr").textContent="";
-  begin(name,cls,+pick.value,+$("sTime").value);
+  begin(name,cls,+pick.value,15);
 });
 
 /* ---------- fullscreen helpers ---------- */
