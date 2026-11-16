@@ -6,9 +6,9 @@
 <style>
 @page { size: 90cm 150cm; margin: 0; }
 :root{
-  --g900:#163a1c; --g800:#1d4a24; --g700:#265e2e; --g500:#3f8a45; --g200:#cfe3c6; --g100:#e9f1e3;
-  --cream:#f6f3ea; --card:#ffffff; --line:#d9ddd0; --ink:#1b221b; --muted:#56605a;
-  --gold:#e9c64a; --golddk:#b8941f; --grey:#7c848a; --greyl:#d8dcdf; --red:#b33a2f; --amber:#d98a2b;
+  --g900:#163a1c; --g800:#1d4a24; --g700:#265e2e; --g500:#3f8a45; --g200:#cfe3c6; --g100:#ecf3e0;
+  --cream:#f7f5e8; --card:#ffffff; --line:#d9ddd0; --ink:#1b221b; --muted:#56605a;
+  --gold:#e6c93c; --golddk:#b8a01c; --grey:#7c848a; --greyl:#d8dcdf; --red:#b33a2f; --amber:#d98a2b;
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html,body{width:3402px;height:5670px;overflow:hidden}
@@ -19,8 +19,8 @@ b,strong{font-weight:700}
 
 /* ---------- header ---------- */
 .hero{position:relative;height:650px;background:var(--g900);color:#fff;overflow:hidden;flex:none}
-.hero .photo{position:absolute;right:0;top:0;height:100%;width:1500px;background-size:cover;background-position:center}
-.hero .fade{position:absolute;right:0;top:0;height:100%;width:1500px;background:linear-gradient(90deg,var(--g900) 0%,rgba(22,58,28,.85) 22%,rgba(22,58,28,.15) 70%,rgba(22,58,28,0) 100%)}
+.hero .photo{position:absolute;right:0;top:0;height:100%;width:1500px;background-size:auto 112%;background-repeat:no-repeat;background-position:right 42%}
+.hero .fade{position:absolute;right:0;top:0;height:100%;width:1500px;background:linear-gradient(90deg,var(--g900) 0%,rgba(22,58,28,1) 27%,rgba(22,58,28,.55) 42%,rgba(22,58,28,.15) 54%,rgba(22,58,28,0) 66%)}
 .hero .inner{position:relative;padding:44px 110px 0 110px;width:2400px}
 .hero .kicker{display:inline-block;font-size:34px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:26px}
 .hero h1{font-size:164px;line-height:.98;font-weight:800;letter-spacing:-.015em}
@@ -28,7 +28,7 @@ b,strong{font-weight:700}
 .hero .q{margin-top:30px;font-size:60px;font-weight:500;line-height:1.2;color:#f3f6ee;max-width:2100px}
 .hero .auth{margin-top:30px;font-size:40px;color:#dbe6d2}
 .hero .auth b{color:#fff;font-weight:700}
-.hero .logo{position:absolute;right:110px;top:84px;background:#fff;border-radius:22px;padding:26px 36px;box-shadow:0 10px 40px rgba(0,0,0,.25)}
+.hero .logo{position:absolute;right:110px;top:60px;background:#fff;border-radius:22px;padding:26px 36px;box-shadow:0 10px 40px rgba(0,0,0,.25)}
 .hero .logo img{height:190px;display:block}
 .hero .credit{position:absolute;right:120px;bottom:22px;font-size:22px;color:rgba(255,255,255,.7)}
 .goldbar{height:22px;background:linear-gradient(90deg,var(--gold),var(--golddk));flex:none}
@@ -38,7 +38,7 @@ b,strong{font-weight:700}
 .card{background:var(--card);border:3px solid var(--line);border-radius:26px;padding:34px 44px 30px;position:relative}
 .card.dark{background:var(--g800);color:#fff;border-color:var(--g800)}
 .sec{display:flex;align-items:center;gap:26px;margin-bottom:24px;padding-bottom:18px;border-bottom:4px solid var(--g100)}
-.sec .ic{width:68px;height:68px;border-radius:18px;background:var(--g100);display:flex;align-items:center;justify-content:center;flex:none}
+.sec .ic{width:68px;height:68px;border-radius:18px;background:#e4ee9c;display:flex;align-items:center;justify-content:center;flex:none}
 .sec .ic svg{width:46px;height:46px;stroke:var(--g700);fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
 .sec h2{font-size:54px;font-weight:800;letter-spacing:-.01em;color:var(--g900)}
 .dark .sec{border-bottom-color:rgba(255,255,255,.18)}
@@ -119,7 +119,7 @@ td.k{font-weight:700;color:var(--g900);width:24%}
 
 <!-- ===== HEADER ===== -->
 <header class="hero">
-  <div class="photo" id="heroPhoto" style="background-image:url(assets/hero.jpg);background-position:62% 50%"></div><div class="fade"></div>
+  <div class="photo" id="heroPhoto" style="background-image:url(assets/hero.jpg)"></div><div class="fade"></div>
   <div class="inner">
     <div class="kicker">Hypothesis poster · Cardiometabolic pharmacology</div>
     <h1>Before the statin:<br><span>Citrus bergamot</span></h1>
@@ -127,7 +127,7 @@ td.k{font-weight:700;color:var(--g900);width:24%}
     <div class="auth"><b>Noor Al Ahmad</b> &nbsp;|&nbsp; Department of Pharmacy, Al Ain University, Al Ain, UAE</div>
   </div>
   <div class="logo"><img src="assets/logo.png" alt="Al Ain University"></div>
-  <div class="credit" id="heroCredit">Photo: Jacopo Werther, Wikimedia Commons (CC BY-SA 3.0)</div>
+  <div class="credit" id="heroCredit"></div>
 </header>
 <div class="goldbar"></div>
 
@@ -146,7 +146,7 @@ td.k{font-weight:700;color:var(--g900);width:24%}
   <div class="card span4">
     <div class="sec"><div class="ic"><svg viewBox="0 0 24 24"><path d="M4 20c0-8 4-14 14-16 0 10-4 14-12 16"/><path d="M6 18c3-5 6-8 10-11"/></svg></div><h2>Why citrus bergamot?</h2></div>
     <div class="flex">
-      <div class="ph" style="width:420px;height:420px;flex:none"><img src="assets/cross.jpg" alt="Bergamot fruit, cut"><div class="pc">Citrus bergamia</div></div>
+      <div class="ph" style="width:420px;height:420px;flex:none"><img src="assets/cross.jpg" alt="Bergamot fruit, cut"><div class="pc">Bergamot fruit on the tree</div></div>
       <p><i>Citrus bergamia</i> is a citrus grown mainly in Calabria, Italy, and rich in flavanones. Two of them, <b>brutieridin</b> and <b>melitidin</b>, carry a statin-like side chain and are proposed to inhibit <b>HMG-CoA reductase</b>, the statin target.</p>
     </div>
     <div class="note" style="margin-top:30px"><div class="t">Did you know?</div>Statins came from nature: compactin was isolated from <i>Penicillium citrinum</i> (Endo, 1976), and lovastatin from <i>Aspergillus terreus</i> became the first FDA-approved statin (1987).</div>
@@ -263,7 +263,7 @@ td.k{font-weight:700;color:var(--g900);width:24%}
 <!-- ===== FOOTER ===== -->
 <footer class="foot">
   <div><h4>Key sources</h4><p>Ference JACC 2012; EHJ 2017 · Jacobs NEJM 2022 · Chambari Food Sci Nutr 2026 · Sadeghi-Dehsahraei Phytother Res 2022 · Osadnik Pharmacol Res 2022 · Ferro 2020 · 7 bergamot RCTs (Gliozzi, Fogacci, Stonehouse, Capomolla, Rondanelli, Mollace, Ferro)</p>
-  <p id="photoCredit" style="margin-top:10px;font-size:24px;color:var(--muted)">Photographs: Jacopo Werther, Wikimedia Commons, CC BY-SA 3.0. Charts plotted from the published values cited; diagrams drawn for this poster.</p></div>
+  <p id="photoCredit" style="margin-top:10px;font-size:24px;color:var(--muted)">Charts plotted from the published values cited; diagrams drawn for this poster.</p></div>
   <div><h4>Safety note</h4><p>Citrus bergamot is a dietary supplement, not an approved therapy. Young patients who meet statin criteria, including monogenic FH, should follow guideline care.</p></div>
   <div class="qr"><img src="assets/qr.png" alt="QR code"><div><b>Full references</b>Scan for citations with DOI links</div></div>
 </footer>
