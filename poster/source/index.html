@@ -1,0 +1,467 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Before the Statin: Citrus Bergamot</title>
+<style>
+@page { size: 90cm 150cm; margin: 0; }
+:root{
+  --g900:#163a1c; --g800:#1d4a24; --g700:#265e2e; --g500:#3f8a45; --g200:#cfe3c6; --g100:#e9f1e3;
+  --cream:#f6f3ea; --card:#ffffff; --line:#d9ddd0; --ink:#1b221b; --muted:#56605a;
+  --gold:#e9c64a; --golddk:#b8941f; --grey:#7c848a; --greyl:#d8dcdf; --red:#b33a2f; --amber:#d98a2b;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:3402px;height:5670px;overflow:hidden}
+body{background:var(--cream);color:var(--ink);font-family:"Inter",system-ui,sans-serif;font-size:34px;line-height:1.32;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+h1,h2,h3,.disp{font-family:"Inter Display","Inter",sans-serif}
+b,strong{font-weight:700}
+.page{position:relative;width:3402px;height:5670px;display:flex;flex-direction:column}
+
+/* ---------- header ---------- */
+.hero{position:relative;height:650px;background:var(--g900);color:#fff;overflow:hidden;flex:none}
+.hero .photo{position:absolute;right:0;top:0;height:100%;width:1500px;background-size:cover;background-position:center}
+.hero .fade{position:absolute;right:0;top:0;height:100%;width:1500px;background:linear-gradient(90deg,var(--g900) 0%,rgba(22,58,28,.85) 22%,rgba(22,58,28,.15) 70%,rgba(22,58,28,0) 100%)}
+.hero .inner{position:relative;padding:44px 110px 0 110px;width:2400px}
+.hero .kicker{display:inline-block;font-size:34px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:26px}
+.hero h1{font-size:164px;line-height:.98;font-weight:800;letter-spacing:-.015em}
+.hero h1 span{color:var(--gold)}
+.hero .q{margin-top:30px;font-size:60px;font-weight:500;line-height:1.2;color:#f3f6ee;max-width:2100px}
+.hero .auth{margin-top:30px;font-size:40px;color:#dbe6d2}
+.hero .auth b{color:#fff;font-weight:700}
+.hero .logo{position:absolute;right:110px;top:84px;background:#fff;border-radius:22px;padding:26px 36px;box-shadow:0 10px 40px rgba(0,0,0,.25)}
+.hero .logo img{height:190px;display:block}
+.hero .credit{position:absolute;right:120px;bottom:22px;font-size:22px;color:rgba(255,255,255,.7)}
+.goldbar{height:22px;background:linear-gradient(90deg,var(--gold),var(--golddk));flex:none}
+
+/* ---------- grid ---------- */
+.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:42px;padding:36px 90px 0 90px}
+.card{background:var(--card);border:3px solid var(--line);border-radius:26px;padding:34px 44px 30px;position:relative}
+.card.dark{background:var(--g800);color:#fff;border-color:var(--g800)}
+.sec{display:flex;align-items:center;gap:26px;margin-bottom:24px;padding-bottom:18px;border-bottom:4px solid var(--g100)}
+.sec .ic{width:68px;height:68px;border-radius:18px;background:var(--g100);display:flex;align-items:center;justify-content:center;flex:none}
+.sec .ic svg{width:46px;height:46px;stroke:var(--g700);fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
+.sec h2{font-size:54px;font-weight:800;letter-spacing:-.01em;color:var(--g900)}
+.dark .sec{border-bottom-color:rgba(255,255,255,.18)}
+.dark .sec .ic{background:rgba(255,255,255,.12)}
+.dark .sec .ic svg{stroke:var(--gold)}
+.dark .sec h2{color:#fff}
+p{margin:0}
+.cap{font-size:28px;color:var(--muted);line-height:1.35}
+.bul{list-style:none;display:flex;flex-direction:column;gap:18px}
+.bul li{position:relative;padding-left:46px}
+.bul li:before{content:"";position:absolute;left:8px;top:18px;width:18px;height:18px;border-radius:50%;background:var(--gold)}
+.note{background:#fbf5df;border-left:12px solid var(--gold);border-radius:14px;padding:26px 32px;font-size:32px}
+.note .t{font-weight:800;color:#8a6d0c;letter-spacing:.08em;font-size:28px;text-transform:uppercase;margin-bottom:8px}
+.span3{grid-column:span 3}.span4{grid-column:span 4}.span5{grid-column:span 5}.span6{grid-column:span 6}.span7{grid-column:span 7}.span8{grid-column:span 8}.span12{grid-column:span 12}
+.hl{background:linear-gradient(transparent 55%,rgba(233,198,74,.55) 55%)}
+.dark .hl{color:var(--gold);background:none;font-weight:700}
+
+/* table */
+table{width:100%;border-collapse:collapse;font-size:33px}
+th{text-align:left;font-weight:700;padding:18px 22px;background:var(--g100);color:var(--g900);font-size:31px}
+td{padding:17px 22px;border-bottom:2px solid var(--line);vertical-align:middle}
+tr:last-child td{border-bottom:0}
+td.k{font-weight:700;color:var(--g900);width:24%}
+.tag{display:inline-block;font-size:24px;font-weight:800;letter-spacing:.06em;padding:4px 14px;border-radius:8px;margin-left:12px;vertical-align:middle}
+.tag.ok{background:#e4f1dc;color:var(--g700)}.tag.low{background:#fbe4df;color:var(--red)}.tag.prop{background:#fbf0cf;color:#8a6d0c}
+.num{font-variant-numeric:tabular-nums}
+
+/* steps */
+.steps{display:grid;grid-template-columns:repeat(7,1fr);gap:26px}
+.step{background:var(--g100);border-radius:20px;padding:22px 28px 24px;position:relative}
+.step .n{display:inline-flex;align-items:center;justify-content:center;width:62px;height:62px;border-radius:50%;background:var(--g700);color:#fff;font-weight:800;font-size:32px;margin-bottom:16px}
+.step h3{font-size:34px;font-weight:800;color:var(--g900);margin-bottom:8px}
+.step p{font-size:30px;color:#2c352c;line-height:1.3}
+.step.last{background:#fbf0cf}.step.last .n{background:var(--golddk)}
+.step:not(:last-child):after{content:"";position:absolute;right:-24px;top:50%;width:0;height:0;border-left:16px solid var(--g500);border-top:14px solid transparent;border-bottom:14px solid transparent;transform:translateY(-50%)}
+
+/* conclusion */
+.concl{margin:30px 90px 0;background:var(--g800);color:#fff;border-radius:26px;padding:32px 56px;display:flex;align-items:center;gap:50px;border-left:26px solid var(--gold)}
+.concl .lbl{font-family:"Inter Display";font-size:58px;font-weight:800;flex:none;letter-spacing:.02em}
+.concl p{font-size:40px;line-height:1.35}
+.concl b{color:var(--gold)}
+
+/* footer */
+.foot{margin:26px 90px 0;display:grid;grid-template-columns:5fr 4fr 1.4fr;gap:50px;align-items:center;padding-bottom:16px}
+.foot h4{font-size:28px;letter-spacing:.14em;text-transform:uppercase;color:var(--g700);margin-bottom:10px;font-weight:800}
+.foot p{font-size:28px;color:#3a423a;line-height:1.4}
+.foot .qr{display:flex;align-items:center;gap:24px;justify-self:end}
+.foot .qr img{width:230px;height:230px;border:3px solid var(--line);border-radius:12px}
+.foot .qr div{font-size:28px;line-height:1.3}
+.foot .qr b{display:block;font-size:34px;color:var(--g900)}
+
+/* figures */
+.fig{width:100%;display:block}
+.flex{display:flex;gap:40px}
+.ph{border-radius:20px;overflow:hidden;background:#ddd;position:relative}
+.ph img{width:100%;height:100%;object-fit:cover;display:block}
+.ph .pc{position:absolute;left:0;right:0;bottom:0;background:linear-gradient(transparent,rgba(0,0,0,.55));color:#fff;font-size:24px;padding:40px 18px 12px}
+.leg{display:flex;flex-direction:column;gap:14px;font-size:30px}
+.leg .r{display:flex;align-items:center;gap:16px}
+.leg .sw{width:30px;height:30px;border-radius:7px;flex:none}
+.leg .s{color:var(--muted);font-size:26px}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:40px}
+.risk{display:flex;flex-direction:column;gap:12px}
+.risk .it{display:flex;gap:22px;align-items:flex-start}
+.risk .n{width:52px;height:52px;border-radius:12px;background:var(--g700);color:#fff;font-weight:800;display:flex;align-items:center;justify-content:center;flex:none;font-size:30px;margin-top:4px}
+.risk h3{font-size:35px;font-weight:800;color:var(--g900)}
+.risk p{font-size:31px;color:#2c352c}
+.path{border-radius:18px;padding:26px 30px;font-size:30px;line-height:1.35}
+.path h3{font-size:32px;font-weight:800;margin-bottom:6px}
+.path.a{background:var(--g100)}.path.a h3{color:var(--g700)}
+.path.b{background:#f0f1f3}.path.b h3{color:#3b4a5a}
+.warn{border:3px solid #f0c9c4;background:#fdf3f1;border-radius:16px;padding:22px 28px;font-size:31px;margin-top:26px}
+.warn b{color:var(--red)}
+</style>
+</head>
+<body>
+<div class="page">
+
+<!-- ===== HEADER ===== -->
+<header class="hero">
+  <div class="photo" id="heroPhoto" style="background-image:url(assets/hero.jpg);background-position:62% 50%"></div><div class="fade"></div>
+  <div class="inner">
+    <div class="kicker">Hypothesis poster · Cardiometabolic pharmacology</div>
+    <h1>Before the statin:<br><span>Citrus bergamot</span></h1>
+    <div class="q">Can early bergamot delay statins in young patients with high cholesterol?</div>
+    <div class="auth"><b>Noor Al Ahmad</b> &nbsp;|&nbsp; Department of Pharmacy, Al Ain University, Al Ain, UAE</div>
+  </div>
+  <div class="logo"><img src="assets/logo.png" alt="Al Ain University"></div>
+  <div class="credit" id="heroCredit">Photo: Jacopo Werther, Wikimedia Commons (CC BY-SA 3.0)</div>
+</header>
+<div class="goldbar"></div>
+
+<!-- ===== ROW 1 ===== -->
+<section class="grid">
+  <div class="card span4">
+    <div class="sec"><div class="ic"><svg viewBox="0 0 24 24"><path d="M3 12h4l2-5 3 10 2-6 2 3h5"/></svg></div><h2>Background</h2></div>
+    <svg class="fig" viewBox="0 0 1000 400" id="arteries"></svg>
+    <ul class="bul" style="margin-top:22px">
+      <li><b>Starts in youth:</b> childhood risk factors predict adult cardiovascular events (38,589 people followed for 35 years).</li>
+      <li><b>Cumulative:</b> 1 mmol/L lower LDL-C from early life ≈ 55% less coronary disease.</li>
+    </ul>
+    <p class="cap" style="margin-top:22px">Schematic artery cross-sections. Jacobs, NEJM 2022 · Ference, JACC 2012</p>
+  </div>
+
+  <div class="card span4">
+    <div class="sec"><div class="ic"><svg viewBox="0 0 24 24"><path d="M4 20c0-8 4-14 14-16 0 10-4 14-12 16"/><path d="M6 18c3-5 6-8 10-11"/></svg></div><h2>Why citrus bergamot?</h2></div>
+    <div class="flex">
+      <div class="ph" style="width:420px;height:420px;flex:none"><img src="assets/cross.jpg" alt="Bergamot fruit, cut"><div class="pc">Citrus bergamia</div></div>
+      <p><i>Citrus bergamia</i> is a citrus grown mainly in Calabria, Italy, and rich in flavanones. Two of them, <b>brutieridin</b> and <b>melitidin</b>, carry a statin-like side chain and are proposed to inhibit <b>HMG-CoA reductase</b>, the statin target.</p>
+    </div>
+    <div class="note" style="margin-top:30px"><div class="t">Did you know?</div>Statins came from nature: compactin was isolated from <i>Penicillium citrinum</i> (Endo, 1976), and lovastatin from <i>Aspergillus terreus</i> became the first FDA-approved statin (1987).</div>
+  </div>
+
+  <div class="card dark span4">
+    <div class="sec"><div class="ic"><svg viewBox="0 0 24 24"><path d="M9 3h6M10 3v6l-5 9a2 2 0 0 0 2 3h10a2 2 0 0 0 2-3l-5-9V3"/><path d="M7 15h10"/></svg></div><h2>Study hypothesis</h2></div>
+    <p style="font-size:40px;line-height:1.38">Starting <span class="hl">Citrus bergamot</span> early in young patients with high cholesterol, who do not yet meet statin criteria, will lower LDL-C and linked cardiometabolic risk factors, and <span class="hl">delay the need for statin therapy</span> in the long run.</p>
+    <div style="margin-top:30px;display:flex;gap:26px">
+      <div style="flex:1;background:rgba(255,255,255,.1);border-radius:18px;padding:22px 26px"><div style="font-size:26px;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);font-weight:700">Population</div><div style="font-size:32px;margin-top:6px">Young patients, high LDL-C, below statin criteria</div></div>
+      <div style="flex:1;background:rgba(255,255,255,.1);border-radius:18px;padding:22px 26px"><div style="font-size:26px;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);font-weight:700">Outcome</div><div style="font-size:32px;margin-top:6px">LDL-C, apoB, metabolic markers, time to statin</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== ROW 2 ===== -->
+<section class="grid">
+  <div class="card span7">
+    <div class="sec"><div class="ic"><svg viewBox="0 0 24 24"><circle cx="5" cy="6" r="2.5"/><circle cx="19" cy="6" r="2.5"/><circle cx="12" cy="18" r="2.5"/><path d="M7 7.5l3.5 8M17 7.5l-3.5 8"/></svg></div><h2>How bergamot may work</h2></div>
+    <svg class="fig" viewBox="0 0 1800 540" id="pathway"></svg>
+    <div class="two" style="margin-top:14px;font-size:30px">
+      <div style="background:var(--g100);border-radius:16px;padding:18px 26px"><b style="color:var(--g700)">Antioxidant:</b> ↓ LOX-1 receptor (Gliozzi 2013)</div>
+      <div style="background:var(--g100);border-radius:16px;padding:18px 26px"><b style="color:var(--g700)">Liver fat:</b> ↑ lipophagy, rat model (Parafati 2015)</div>
+    </div>
+    <p class="cap" style="margin-top:20px">Mechanisms are proposed, mainly from laboratory and small human studies.</p>
+  </div>
+
+  <div class="card span5">
+    <div class="sec"><div class="ic"><svg viewBox="0 0 24 24"><path d="M12 3v18M4 7h16M6 7l-3 7a3 3 0 0 0 6 0zM18 7l-3 7a3 3 0 0 0 6 0z"/></svg></div><h2>Statin vs bergamot</h2></div>
+    <table>
+      <tr><th></th><th>Statin</th><th style="background:#fbf0cf;color:#6e5608">Citrus bergamot</th></tr>
+      <tr><td class="k">Target</td><td>HMG-CoA reductase <span class="tag ok">Proven</span></td><td>Same enzyme <span class="tag prop">Proposed</span></td></tr>
+      <tr><td class="k">LDL-C lowering</td><td>30–50% or more</td><td>≈ 40 mg/dL (adults)</td></tr>
+      <tr><td class="k">Other effects</td><td>Small rise in diabetes risk</td><td>↓ glucose, TG, BP, liver fat</td></tr>
+      <tr><td class="k">Evidence</td><td>Large outcome trials <span class="tag ok">Strong</span></td><td>Small RCTs <span class="tag low">Low</span></td></tr>
+      <tr><td class="k">Young patients</td><td>Guideline use in FH</td><td>Not yet tested</td></tr>
+      <tr><td class="k">Role</td><td>Treatment when indicated</td><td><b>Early step before statins?</b></td></tr>
+    </table>
+  </div>
+</section>
+
+<!-- ===== ROW 3 ===== -->
+<section class="grid">
+  <div class="card span7">
+    <div class="sec"><div class="ic"><svg viewBox="0 0 24 24"><path d="M3 20V4M3 20h18"/><path d="M6 16l5-6 4 3 5-8"/></svg></div><h2>The hypothesis in one graph</h2></div>
+    <svg class="fig" viewBox="0 0 1800 700" id="exposure"></svg>
+    <p class="cap" style="margin-top:14px">Conceptual model of the cumulative-exposure principle (Ference 2012, 2017). Lines assume constant LDL-C; the bergamot line assumes a 0.8 mmol/L (≈ 31 mg/dL) reduction from age 16.</p>
+  </div>
+
+  <div class="card span5">
+    <div class="sec"><div class="ic"><svg viewBox="0 0 24 24"><circle cx="9" cy="8" r="3.5"/><path d="M2 20c0-4 3-6 7-6s7 2 7 6"/><circle cx="17" cy="9" r="2.5"/><path d="M17 14c3 0 5 2 5 5"/></svg></div><h2>Who has been studied?</h2></div>
+    <div class="flex" style="align-items:center">
+      <svg viewBox="0 0 520 520" style="width:470px;height:470px;flex:none" id="donut"></svg>
+      <div class="leg">
+        <div class="r"><span class="sw" style="background:#2f7a36"></span><div><b>43%</b> High cholesterol<div class="s">Gliozzi · Fogacci · Stonehouse</div></div></div>
+        <div class="r"><span class="sw" style="background:#e3b72e"></span><div><b>29%</b> Overweight / metabolic<div class="s">Capomolla · Rondanelli</div></div></div>
+        <div class="r"><span class="sw" style="background:#8c9aa3"></span><div><b>14%</b> Type 2 diabetes<div class="s">Mollace</div></div></div>
+        <div class="r"><span class="sw" style="background:#c9d6c2"></span><div><b>14%</b> Fatty liver<div class="s">Ferro</div></div></div>
+      </div>
+    </div>
+    <div class="warn">All <b>7 key bergamot RCTs</b> were in adults, and one found no effect on LDL-C (Stonehouse 2025). <b>No trial in young patients yet.</b></div>
+  </div>
+</section>
+
+<!-- ===== ROW 4 ===== -->
+<section class="grid">
+  <div class="card span5">
+    <div class="sec"><div class="ic"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg></div><h2>Early risk detection</h2></div>
+    <div class="risk">
+      <div class="it"><div class="n">1</div><div><h3>Family history</h3><p>Premature heart disease in a close relative</p></div></div>
+      <div class="it"><div class="n">2</div><div><h3>Lipid profile</h3><p>LDL-C, triglycerides, HDL-C, apoB</p></div></div>
+      <div class="it"><div class="n">3</div><div><h3>Lipoprotein(a)</h3><p>Genetically determined; measure once</p></div></div>
+      <div class="it"><div class="n">4</div><div><h3>Genetic testing</h3><p>Polygenic risk score; FH variants (LDLR, APOB, PCSK9)</p></div></div>
+      <div class="it"><div class="n">5</div><div><h3>Metabolic profile</h3><p>Waist, blood pressure, glucose, liver fat</p></div></div>
+    </div>
+    <div class="two" style="margin-top:30px">
+      <div class="path a"><h3>Hypothesis pathway</h3>High cholesterol below statin criteria, no monogenic variant: lifestyle + bergamot, re-check every 6–12 months.</div>
+      <div class="path b"><h3>Guideline care</h3>Monogenic FH or very high LDL-C: statin as indicated. Bergamot is not a substitute.</div>
+    </div>
+    <p class="cap" style="margin-top:24px">Universal lipid screening at 9–11 and 17–21 years (NHLBI 2011); Lp(a) once (EAS 2022).</p>
+  </div>
+
+  <div class="card span7">
+    <div class="sec"><div class="ic"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 10h18M9 10v10M15 10v10"/></svg></div><h2>Bergamot effects in adult RCTs</h2></div>
+    <svg class="fig" viewBox="0 0 1800 515" id="forest"></svg>
+    <p class="cap" style="margin-top:6px">Pooled from 9 RCTs, 615 adults (Chambari, Food Sci Nutr 2026). Mean difference vs control with 95% CI; every interval excludes zero. GRADE certainty: low to very low.</p>
+    <div class="two" style="margin-top:18px">
+      <svg class="fig" viewBox="0 0 860 292" id="bars1"></svg>
+      <svg class="fig" viewBox="0 0 860 292" id="bars2"></svg>
+    </div>
+  </div>
+</section>
+
+<!-- ===== ROW 5 ===== -->
+<section class="grid">
+  <div class="card span12">
+    <div class="sec"><div class="ic"><svg viewBox="0 0 24 24"><path d="M4 19h4V9H4zM10 19h4V5h-4zM16 19h4v-8h-4z"/></svg></div><h2>How to test the hypothesis</h2></div>
+    <div class="steps">
+      <div class="step"><div class="n">1</div><h3>Recruit</h3><p>Young patients with high cholesterol</p></div>
+      <div class="step"><div class="n">2</div><h3>Screen</h3><p>Lipids, Lp(a), genetic score, metabolic signs</p></div>
+      <div class="step"><div class="n">3</div><h3>Sort</h3><p>Monogenic FH → statin care; others enrolled</p></div>
+      <div class="step"><div class="n">4</div><h3>Randomise</h3><p>Bergamot vs placebo, with lifestyle advice</p></div>
+      <div class="step"><div class="n">5</div><h3>Follow up</h3><p>12 months; adherence, safety, growth</p></div>
+      <div class="step"><div class="n">6</div><h3>Measure</h3><p>LDL-C, apoB, glucose, BP, liver fat</p></div>
+      <div class="step last"><div class="n">7</div><h3>Long term</h3><p>Time until a statin is needed</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== CONCLUSION ===== -->
+<div class="concl">
+  <div class="lbl">Conclusion</div>
+  <p>Atherosclerosis begins in youth and LDL-C damage accumulates over time. <b>Citrus bergamot</b> may improve several cardiometabolic risk factors in adults, making it a strong candidate to test as an <b>early step to delay statin therapy</b> in young patients.</p>
+</div>
+
+<!-- ===== FOOTER ===== -->
+<footer class="foot">
+  <div><h4>Key sources</h4><p>Ference JACC 2012; EHJ 2017 · Jacobs NEJM 2022 · Chambari Food Sci Nutr 2026 · Sadeghi-Dehsahraei Phytother Res 2022 · Osadnik Pharmacol Res 2022 · Ferro 2020 · 7 bergamot RCTs (Gliozzi, Fogacci, Stonehouse, Capomolla, Rondanelli, Mollace, Ferro)</p>
+  <p id="photoCredit" style="margin-top:10px;font-size:24px;color:var(--muted)">Photographs: Jacopo Werther, Wikimedia Commons, CC BY-SA 3.0. Diagrams and charts drawn for this poster.</p></div>
+  <div><h4>Safety note</h4><p>Citrus bergamot is a dietary supplement, not an approved therapy. Young patients who meet statin criteria, including monogenic FH, should follow guideline care.</p></div>
+  <div class="qr"><img src="assets/qr.png" alt="QR code"><div><b>Full references</b>Scan for citations with DOI links</div></div>
+</footer>
+
+</div>
+
+<script>
+const NS='http://www.w3.org/2000/svg';
+function el(tag,attrs,parent,text){const e=document.createElementNS(NS,tag);for(const k in attrs)e.setAttribute(k,attrs[k]);if(text!=null)e.textContent=text;parent.appendChild(e);return e;}
+const F='Inter, sans-serif';
+
+/* ---- artery cross-sections ---- */
+(function(){
+  const s=document.getElementById('arteries');
+  const defs=el('defs',{},s);
+  const stages=[
+    {x:170,title:'Childhood',sub:'fatty streaks',plaque:0.10},
+    {x:500,title:'Young adult',sub:'early plaque',plaque:0.32},
+    {x:830,title:'Middle age',sub:'advanced plaque',plaque:0.62}];
+  stages.forEach((st,i)=>{
+    const cy=150,R=118;
+    const g=el('g',{},s);
+    // outer wall (adventitia)
+    el('circle',{cx:st.x,cy:cy,r:R,fill:'#d99a92',stroke:'#b86f66','stroke-width':3},g);
+    // media
+    el('circle',{cx:st.x,cy:cy,r:R-26,fill:'#c9726a'},g);
+    // lumen (inner, before plaque)
+    const rl=R-44;
+    el('circle',{cx:st.x,cy:cy,r:rl,fill:'#7a1f1f'},g);
+    // plaque: eccentric crescent inside lumen, thickness proportional
+    if(st.plaque>0.0){
+      const t=st.plaque*rl*1.6; // thickness at the thickest point
+      // crescent path: lumen circle minus an offset circle
+      const off=rl - t; // offset of inner circle center
+      const d=`M ${st.x-rl} ${cy} A ${rl} ${rl} 0 0 0 ${st.x+rl} ${cy} A ${rl} ${rl} 0 0 0 ${st.x-rl} ${cy} Z`;
+      const mask=el('clipPath',{id:'cl'+i},defs);
+      el('circle',{cx:st.x,cy:cy,r:rl},mask);
+      const pg=el('g',{'clip-path':`url(#cl${i})`},g);
+      // lipid core (yellow) as a shifted ellipse, fibrous cap (pale) slightly larger
+      el('ellipse',{cx:st.x,cy:cy+rl-t*0.55+12,rx:rl*0.95,ry:t*0.95+8,fill:'#f2dfb3'},pg);
+      el('ellipse',{cx:st.x,cy:cy+rl-t*0.5+16,rx:rl*0.85,ry:t*0.8,fill:'#e7b94a'},pg);
+      // blood cells hint
+    }
+    // red blood cells
+    const cells=[[-30,-30],[20,-45],[-5,-10],[35,-5]];
+    cells.forEach(([dx,dy],k)=>{ if(st.plaque<0.6||k<2) el('ellipse',{cx:st.x+dx,cy:cy+dy,rx:11,ry:7,fill:'#b33a2f',stroke:'#e0948c','stroke-width':2,transform:`rotate(${k*35} ${st.x+dx} ${cy+dy})`},g);});
+    el('text',{x:st.x,y:312,'text-anchor':'middle','font-family':F,'font-size':34,'font-weight':700,fill:'#163a1c'},s,st.title);
+    el('text',{x:st.x,y:348,'text-anchor':'middle','font-family':F,'font-size':28,fill:'#56605a'},s,st.sub);
+    if(i<2){el('path',{d:`M ${st.x+150} 150 H ${st.x+300}`,stroke:'#b8941f','stroke-width':6,fill:'none','stroke-linecap':'round'},s);el('path',{d:`M ${st.x+300} 150 l -22 -14 M ${st.x+300} 150 l -22 14`,stroke:'#b8941f','stroke-width':6,fill:'none','stroke-linecap':'round'},s);}
+  });
+  // small legend
+  const lg=[['#7a1f1f','lumen (blood)'],['#e7b94a','lipid-rich plaque'],['#c9726a','vessel wall']];
+  lg.forEach((l,i)=>{const x=120+i*300; el('rect',{x:x,y:372,width:22,height:22,rx:5,fill:l[0]},s); el('text',{x:x+34,y:391,'font-family':F,'font-size':24,fill:'#56605a'},s,l[1]);});
+})();
+
+/* ---- pathway ---- */
+(function(){
+  const s=document.getElementById('pathway');
+  const defs=el('defs',{},s);
+  const m=el('marker',{id:'arr',viewBox:'0 0 10 10',refX:'9',refY:'5',markerWidth:'7',markerHeight:'7',orient:'auto-start-reverse'},defs);
+  el('path',{d:'M0 0L10 5L0 10z',fill:'#265e2e'},m);
+  const box=(x,y,w,h,t1,t2,fill,color,stroke)=>{el('rect',{x,y,width:w,height:h,rx:18,fill:fill,stroke:stroke||'none','stroke-width':3},s);
+    el('text',{x:x+w/2,y:y+(t2?h/2-6:h/2+12),'text-anchor':'middle','font-family':F,'font-size':34,'font-weight':700,fill:color},s,t1);
+    if(t2)el('text',{x:x+w/2,y:y+h/2+34,'text-anchor':'middle','font-family':F,'font-size':30,fill:color},s,t2);};
+  const arrow=(x1,y1,x2,y2,c)=>el('path',{d:`M${x1} ${y1} L${x2} ${y2}`,stroke:c||'#265e2e','stroke-width':6,fill:'none','marker-end':'url(#arr)'},s);
+  // main chain
+  const y=60,h=110;
+  box(20,y,300,h,'Acetyl-CoA','', '#e9f1e3','#163a1c');
+  arrow(330,y+h/2,420,y+h/2);
+  box(430,y,300,h,'HMG-CoA','', '#e9f1e3','#163a1c');
+  arrow(740,y+h/2,880,y+h/2);
+  box(890,y,300,h,'Mevalonate','', '#e9f1e3','#163a1c');
+  arrow(1200,y+h/2,1290,y+h/2);
+  box(1300,y,300,h,'Cholesterol','(liver)', '#e9f1e3','#163a1c');
+  // enzyme label on the HMG-CoA -> Mevalonate arrow
+  el('text',{x:810,y:y+h/2-26,'text-anchor':'middle','font-family':F,'font-size':28,'font-style':'italic',fill:'#56605a'},s,'HMG-CoA reductase');
+  // inhibition lines
+  const ix=810, iy=y+h/2+16;
+  el('path',{d:`M${ix} ${iy} V 300`,stroke:'#b33a2f','stroke-width':6,fill:'none'},s);
+  el('path',{d:`M${ix-40} ${iy+6} H ${ix+40}`,stroke:'#b33a2f','stroke-width':8,fill:'none','stroke-linecap':'round'},s); // inhibition bar
+  el('path',{d:`M${ix} 300 H 450 V 330 M${ix} 300 H 1170 V 330`,stroke:'#b33a2f','stroke-width':6,fill:'none'},s);
+  box(260,335,380,120,'Statins','inhibit (proven)','#ffffff','#163a1c','#265e2e');
+  box(860,335,520,120,'Bergamot flavanones','brutieridin, melitidin (proposed)','#fbf0cf','#6e5608','#e3b72e');
+  el('text',{x:ix+56,y:250,'font-family':F,'font-size':26,fill:'#b33a2f','font-weight':700},s,'⊣ inhibit');
+  // downstream consequence chain
+  const y2=490;
+  const cons=[['Liver cholesterol ↓',1420],['LDL receptors ↑',1420],['Blood LDL-C ↓',1420]];
+  // draw as vertical chain on the right
+  el('path',{d:`M1450 ${y+h} V 200`,stroke:'#265e2e','stroke-width':6,fill:'none','marker-end':'url(#arr)'},s);
+  box(1420,205,360,80,'Liver cholesterol ↓','','#ffffff','#163a1c','#cfe3c6');
+  el('path',{d:'M1600 285 V 315',stroke:'#265e2e','stroke-width':6,fill:'none','marker-end':'url(#arr)'},s);
+  box(1420,320,360,80,'LDL receptors ↑','','#ffffff','#163a1c','#cfe3c6');
+  el('path',{d:'M1600 400 V 430',stroke:'#265e2e','stroke-width':6,fill:'none','marker-end':'url(#arr)'},s);
+  box(1420,435,360,90,'Blood LDL-C ↓','','#265e2e','#ffffff');
+})();
+
+/* ---- cumulative exposure chart ---- */
+(function(){
+  const s=document.getElementById('exposure');
+  const W=1800,H=700,L=150,R=60,T=70,B=160;
+  const x=a=>L+(a/60)*(W-L-R), y=v=>T+(1-v/200)*(H-T-B);
+  // grid
+  for(let v=0;v<=200;v+=40){el('path',{d:`M${L} ${y(v)} H ${W-R}`,stroke:'#e4e7df','stroke-width':2},s);el('text',{x:L-20,y:y(v)+10,'text-anchor':'end','font-family':F,'font-size':28,fill:'#56605a'},s,v);}
+  for(let a=0;a<=60;a+=10){el('text',{x:x(a),y:H-B+44,'text-anchor':'middle','font-family':F,'font-size':28,fill:'#56605a'},s,a);}
+  el('path',{d:`M${L} ${y(0)} H ${W-R} M${L} ${y(0)} V ${T}`,stroke:'#9aa39c','stroke-width':3,fill:'none'},s);
+  el('text',{x:W/2,y:H-B+84,'text-anchor':'middle','font-family':F,'font-size':30,fill:'#1b221b'},s,'Age (years)');
+  el('text',{x:40,y:(T+H-B)/2,'text-anchor':'middle','font-family':F,'font-size':30,fill:'#1b221b',transform:`rotate(-90 40 ${(T+H-B)/2})`},s,'Cumulative LDL-C × years (mmol/L)');
+  el('text',{x:W/2,y:40,'text-anchor':'middle','font-family':F,'font-size':32,'font-weight':700,fill:'#163a1c'},s,'Cumulative LDL-C exposure by age (illustrative model)');
+  // young patients band 14–20
+  el('rect',{x:x(14),y:T,width:x(20)-x(14),height:H-T-B,fill:'#fbf0cf'},s);
+  el('text',{x:x(17),y:T+34,'text-anchor':'middle','font-family':F,'font-size':26,fill:'#8a6d0c','font-weight':700},s,'Young patients');
+  el('text',{x:x(17),y:T+64,'text-anchor':'middle','font-family':F,'font-size':24,fill:'#8a6d0c'},s,'(intervention starts)');
+  // threshold
+  el('path',{d:`M${L} ${y(160)} H ${W-R}`,stroke:'#b33a2f','stroke-width':5,'stroke-dasharray':'22 14',fill:'none'},s);
+  el('text',{x:L+16,y:y(160)-14,'font-family':F,'font-size':28,fill:'#b33a2f','font-weight':700},s,'Event threshold (≈160)');
+  const line=(pts,c,w,dash)=>el('path',{d:pts.map((p,i)=>(i?'L':'M')+x(p[0])+' '+y(p[1])).join(' '),stroke:c,'stroke-width':w,fill:'none','stroke-linecap':'round','stroke-dasharray':dash||'none'},s);
+  const clipTo=(f,max)=>{const pts=[];for(let a=0;a<=60;a+=0.5){const v=f(a); if(v>max){const prev=pts[pts.length-1];if(prev){const t=(max-prev[1])/(v-prev[1]);pts.push([prev[0]+t*(a-prev[0]),max]);}break;}pts.push([a,v]);}return pts;};
+  line(clipTo(a=>3.0*a,200),'#9aa39c',6);
+  line(clipTo(a=>4.0*a,200),'#d98a2b',8);
+  line(clipTo(a=>a<=16?4.0*a:64+3.2*(a-16),200),'#265e2e',9);
+  // crossing points
+  const c1=40, c2=46;
+  [[c1,'#d98a2b'],[c2,'#265e2e']].forEach(([a,c])=>el('circle',{cx:x(a),cy:y(160),r:12,fill:'#fff',stroke:c,'stroke-width':6},s));
+  el('path',{d:`M${x(c1)} ${y(160)+30} V ${y(160)+70} H ${x(c2)} V ${y(160)+30}`,stroke:'#163a1c','stroke-width':3,fill:'none'},s);
+  el('rect',{x:(x(c1)+x(c2))/2-120,y:y(160)+78,width:240,height:46,rx:10,fill:'#163a1c'},s);
+  el('text',{x:(x(c1)+x(c2))/2,y:y(160)+110,'text-anchor':'middle','font-family':F,'font-size':27,fill:'#fff','font-weight':700},s,'≈ 6 years later');
+  // legend
+  const lg=[['#d98a2b','High risk, untreated (LDL-C 4.0)','line'],['#265e2e','Bergamot from age 16 (−0.8)','line'],['#9aa39c','Average (LDL-C 3.0)','line'],['#b33a2f','Event threshold','dash']];
+  let lx=L-70;const ly=H-14;
+  lg.forEach(([c,t,k])=>{el('path',{d:`M${lx} ${ly-10} H ${lx+56}`,stroke:c,'stroke-width':8,'stroke-dasharray':k==='dash'?'16 10':'none','stroke-linecap':'round'},s);el('text',{x:lx+70,y:ly,'font-family':F,'font-size':27,fill:'#1b221b'},s,t);lx+=70+t.length*13.4+44;});
+})();
+
+/* ---- donut ---- */
+(function(){
+  const s=document.getElementById('donut');
+  const data=[[3,'#2f7a36'],[2,'#e3b72e'],[1,'#8c9aa3'],[1,'#c9d6c2']];
+  const tot=7,cx=260,cy=260,r=230,ri=150;let a0=-Math.PI/2;
+  data.forEach(([v,c])=>{const a1=a0+v/tot*2*Math.PI;const p=(a,rr)=>[cx+rr*Math.cos(a),cy+rr*Math.sin(a)];
+    const [x0,y0]=p(a0,r),[x1,y1]=p(a1,r),[x2,y2]=p(a1,ri),[x3,y3]=p(a0,ri);const big=(a1-a0)>Math.PI?1:0;
+    el('path',{d:`M${x0} ${y0} A${r} ${r} 0 ${big} 1 ${x1} ${y1} L${x2} ${y2} A${ri} ${ri} 0 ${big} 0 ${x3} ${y3} Z`,fill:c,stroke:'#fff','stroke-width':6},s);
+    const am=(a0+a1)/2,[tx,ty]=p(am,(r+ri)/2);
+    el('text',{x:tx,y:ty+12,'text-anchor':'middle','font-family':F,'font-size':34,'font-weight':800,fill:c==='#c9d6c2'?'#163a1c':'#fff'},s,Math.round(v/tot*100)+'%');
+    a0=a1;});
+  el('text',{x:cx,y:cy-10,'text-anchor':'middle','font-family':F,'font-size':120,'font-weight':800,fill:'#b33a2f'},s,'0');
+  el('text',{x:cx,y:cy+40,'text-anchor':'middle','font-family':F,'font-size':30,'font-weight':700,fill:'#163a1c'},s,'trials in');
+  el('text',{x:cx,y:cy+76,'text-anchor':'middle','font-family':F,'font-size':30,'font-weight':700,fill:'#163a1c'},s,'young patients');
+  el('text',{x:cx,y:508,'text-anchor':'middle','font-family':F,'font-size':26,fill:'#56605a'},s,'7 key RCTs by population');
+})();
+
+/* ---- forest-style table ---- */
+(function(){
+  const s=document.getElementById('forest');
+  const rows=[['LDL-C','−39.5 mg/dL',-39.5,-53.5,-25.6],['Total cholesterol','−44.7 mg/dL',-44.7,-62.0,-27.4],['Triglycerides','−52.5 mg/dL',-52.5,-66.1,-38.9],['HDL-C','+5.6 mg/dL',5.6,3.8,7.5],['Fasting glucose','−12.1 mg/dL',-12.1,-17.1,-7.2],['HOMA-IR','−0.38',-0.38,-0.65,-0.11],['Systolic BP','−2.1 mmHg',-2.1,-3.3,-0.9],['Waist','−0.96 cm',-0.96,-1.91,-0.01]];
+  const top=70,rh=55,c1=20,c2=520,c3=900,c4=1400;
+  el('rect',{x:0,y:0,width:1800,height:60,rx:10,fill:'#e9f1e3'},s);
+  [['Outcome',c1],['Mean difference vs control',c2],['Direction (own scale)',c3],['95% CI',c4]].forEach(([t,x])=>el('text',{x:x+16,y:40,'font-family':F,'font-size':28,'font-weight':700,fill:'#163a1c'},s,t));
+  rows.forEach((r,i)=>{const y=top+i*rh+rh/2;
+    if(i<rows.length-1)el('path',{d:`M0 ${top+(i+1)*rh} H 1800`,stroke:'#d9ddd0','stroke-width':2},s);
+    el('text',{x:c1+16,y:y+11,'font-family':F,'font-size':31,'font-weight':700,fill:'#163a1c'},s,r[0]);
+    el('text',{x:c2+16,y:y+11,'font-family':F,'font-size':32,fill:'#1b221b'},s,r[1]);
+    el('text',{x:c4+16,y:y+11,'font-family':F,'font-size':29,fill:'#56605a'},s,`${r[3]} to ${r[4]}`);
+    // mini CI on own scale: 0 at centre-ish, map by max abs
+    const mx=Math.max(Math.abs(r[3]),Math.abs(r[4]))*1.15, x0=c3+230, span=200, f=v=>x0+v/mx*span;
+    el('path',{d:`M${x0} ${y-22} V ${y+22}`,stroke:'#9aa39c','stroke-width':3},s);
+    el('text',{x:x0,y:y+38,'text-anchor':'middle','font-family':F,'font-size':20,fill:'#9aa39c'},s,'0');
+    const col=r[2]<0?'#265e2e':'#b8941f';
+    el('path',{d:`M${f(r[3])} ${y} H ${f(r[4])}`,stroke:col,'stroke-width':6,'stroke-linecap':'round'},s);
+    el('path',{d:`M${f(r[3])} ${y-12} V ${y+12} M${f(r[4])} ${y-12} V ${y+12}`,stroke:col,'stroke-width':4},s);
+    el('rect',{x:f(r[2])-11,y:y-11,width:22,height:22,fill:col,transform:`rotate(45 ${f(r[2])} ${y})`},s);
+  });
+})();
+
+/* ---- bar charts ---- */
+function bars(id,title,items,unit,maxv,horizontal,sub){
+  const s=document.getElementById(id);
+  el('text',{x:430,y:36,'text-anchor':'middle','font-family':F,'font-size':30,'font-weight':700,fill:'#163a1c'},s,title);
+  if(!horizontal){
+    const L=110,B=210,T=56,W=860;const n=items.length,bw=140,gap=(W-L-60-n*bw)/(n+1);
+    const y=v=>B-(v/maxv)*(B-T);
+    for(let v=0;v<=maxv;v+=20){el('path',{d:`M${L} ${y(v)} H ${W-40}`,stroke:'#e4e7df','stroke-width':2},s);el('text',{x:L-14,y:y(v)+9,'text-anchor':'end','font-family':F,'font-size':24,fill:'#56605a'},s,v);}
+    items.forEach((it,i)=>{const x=L+gap+i*(bw+gap);el('rect',{x,y:y(it[1]),width:bw,height:B-y(it[1]),rx:8,fill:it[2]||'#2f7a36'},s);
+      el('text',{x:x+bw/2,y:y(it[1])-14,'text-anchor':'middle','font-family':F,'font-size':30,'font-weight':800,fill:'#163a1c'},s,'−'+it[1]);
+      el('text',{x:x+bw/2,y:B+34,'text-anchor':'middle','font-family':F,'font-size':25,'font-weight':700,fill:'#1b221b'},s,it[0]);
+      el('text',{x:x+bw/2,y:B+64,'text-anchor':'middle','font-family':F,'font-size':22,fill:'#56605a'},s,it[3]);});
+    el('text',{x:30,y:(T+B)/2,'text-anchor':'middle','font-family':F,'font-size':24,fill:'#56605a',transform:`rotate(-90 30 ${(T+B)/2})`},s,unit);
+  } else {
+    const L=200,R=60,T=64,W=860,bh=52,gap=26;const x=v=>L+(v/maxv)*(W-L-R);
+    for(let v=0;v<=maxv;v+=20){el('path',{d:`M${x(v)} ${T-10} V ${T+items.length*(bh+gap)}`,stroke:'#e4e7df','stroke-width':2},s);el('text',{x:x(v),y:T+items.length*(bh+gap)+28,'text-anchor':'middle','font-family':F,'font-size':24,fill:'#56605a'},s,v);}
+    items.forEach((it,i)=>{const y=T+i*(bh+gap);el('rect',{x:L,y,width:x(it[1])-L,height:bh,rx:8,fill:it[2]},s);
+      el('text',{x:L-16,y:y+bh/2+10,'text-anchor':'end','font-family':F,'font-size':28,'font-weight':700,fill:'#1b221b'},s,it[0]);
+      el('text',{x:x(it[1])+14,y:y+bh/2+11,'font-family':F,'font-size':30,'font-weight':800,fill:'#163a1c'},s,'−'+it[1]);});
+    el('text',{x:(L+W-R)/2,y:T+items.length*(bh+gap)+58,'text-anchor':'middle','font-family':F,'font-size':24,fill:'#56605a'},s,unit);
+  }
+}
+bars('bars1','LDL-C reduction in meta-analyses (mg/dL)',[['Sadeghi 2022',55,'#2f7a36','14 trials'],['Chambari 2026',40,'#2f7a36','9 RCTs'],['Osadnik 2022',47,'#2f7a36','network MA']],'mg/dL',80,false);
+bars('bars2','Liver fat reduction, 12 weeks (Ferro 2020)',[['Bergamot',48,'#e3b72e'],['Placebo',27,'#b9c0c6']],'CAP score reduction (dB/m), n = 102',60,true);
+</script>
+</body>
+</html>
