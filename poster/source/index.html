@@ -12,21 +12,21 @@
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html,body{width:3402px;height:5670px;overflow:hidden}
-body{background:var(--cream);color:var(--ink);font-family:"Inter",system-ui,sans-serif;font-size:34px;line-height:1.32;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+body{background:var(--cream);color:var(--ink);font-family:"Inter",system-ui,sans-serif;font-size:40px;line-height:1.3;-webkit-print-color-adjust:exact;print-color-adjust:exact}
 h1,h2,h3,.disp{font-family:"Inter Display","Inter",sans-serif}
 b,strong{font-weight:700}
 .page{position:relative;width:3402px;height:5670px;display:flex;flex-direction:column}
 
 /* ---------- header ---------- */
-.hero{position:relative;height:650px;background:var(--g900);color:#fff;overflow:hidden;flex:none}
+.hero{position:relative;height:620px;background:var(--g900);color:#fff;overflow:hidden;flex:none}
 .hero .photo{position:absolute;right:0;top:0;height:100%;width:1500px;background-size:auto 112%;background-repeat:no-repeat;background-position:right 42%}
 .hero .fade{position:absolute;right:0;top:0;height:100%;width:1500px;background:linear-gradient(90deg,var(--g900) 0%,rgba(22,58,28,1) 27%,rgba(22,58,28,.55) 42%,rgba(22,58,28,.15) 54%,rgba(22,58,28,0) 66%)}
-.hero .inner{position:relative;padding:44px 110px 0 110px;width:2400px}
+.hero .inner{position:relative;padding:36px 110px 0 110px;width:2560px}
 .hero .kicker{display:inline-block;font-size:34px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:26px}
 .hero h1{font-size:164px;line-height:.98;font-weight:800;letter-spacing:-.015em}
 .hero h1 span{color:var(--gold)}
-.hero .q{margin-top:30px;font-size:60px;font-weight:500;line-height:1.2;color:#f3f6ee;max-width:2100px}
-.hero .auth{margin-top:30px;font-size:40px;color:#dbe6d2}
+.hero .q{margin-top:26px;font-size:60px;font-weight:500;line-height:1.2;color:#f3f6ee;max-width:2100px}
+.hero .auth{margin-top:24px;font-size:44px;color:#dbe6d2}
 .hero .auth b{color:#fff;font-weight:700}
 .hero .logo{position:absolute;right:110px;top:60px;background:#fff;border-radius:22px;padding:26px 36px;box-shadow:0 10px 40px rgba(0,0,0,.25)}
 .hero .logo img{height:190px;display:block}
@@ -34,8 +34,8 @@ b,strong{font-weight:700}
 .goldbar{height:22px;background:linear-gradient(90deg,var(--gold),var(--golddk));flex:none}
 
 /* ---------- grid ---------- */
-.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:42px;padding:36px 90px 0 90px}
-.card{background:var(--card);border:3px solid var(--line);border-radius:26px;padding:34px 44px 30px;position:relative}
+.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:38px;padding:32px 90px 0 90px}
+.card{background:var(--card);border:3px solid var(--line);border-radius:26px;padding:30px 42px 26px;position:relative}
 .card.dark{background:var(--g800);color:#fff;border-color:var(--g800)}
 .sec{display:flex;align-items:center;gap:26px;margin-bottom:24px;padding-bottom:18px;border-bottom:4px solid var(--g100)}
 .sec .ic{width:68px;height:68px;border-radius:18px;background:#e4ee9c;display:flex;align-items:center;justify-content:center;flex:none}
@@ -46,48 +46,48 @@ b,strong{font-weight:700}
 .dark .sec .ic svg{stroke:var(--gold)}
 .dark .sec h2{color:#fff}
 p{margin:0}
-.cap{font-size:28px;color:var(--muted);line-height:1.35}
+.cap{font-size:32px;color:var(--muted);line-height:1.35}
 .bul{list-style:none;display:flex;flex-direction:column;gap:18px}
 .bul li{position:relative;padding-left:46px}
 .bul li:before{content:"";position:absolute;left:8px;top:18px;width:18px;height:18px;border-radius:50%;background:var(--gold)}
-.note{background:#fbf5df;border-left:12px solid var(--gold);border-radius:14px;padding:26px 32px;font-size:32px}
-.note .t{font-weight:800;color:#8a6d0c;letter-spacing:.08em;font-size:28px;text-transform:uppercase;margin-bottom:8px}
+.note{background:#fbf5df;border-left:12px solid var(--gold);border-radius:14px;padding:18px 28px;font-size:34px}
+.note .t{font-weight:800;color:#8a6d0c;letter-spacing:.08em;font-size:30px;text-transform:uppercase;margin-bottom:8px}
 .span3{grid-column:span 3}.span4{grid-column:span 4}.span5{grid-column:span 5}.span6{grid-column:span 6}.span7{grid-column:span 7}.span8{grid-column:span 8}.span12{grid-column:span 12}
 .hl{background:linear-gradient(transparent 55%,rgba(233,198,74,.55) 55%)}
 .dark .hl{color:var(--gold);background:none;font-weight:700}
 
 /* table */
-table{width:100%;border-collapse:collapse;font-size:33px}
-th{text-align:left;font-weight:700;padding:18px 22px;background:var(--g100);color:var(--g900);font-size:31px}
-td{padding:17px 22px;border-bottom:2px solid var(--line);vertical-align:middle}
+table{width:100%;border-collapse:collapse;font-size:37px}
+th{text-align:left;font-weight:700;padding:12px 22px;background:var(--g100);color:var(--g900);font-size:34px}
+td{padding:10px 22px;border-bottom:2px solid var(--line);vertical-align:middle}
 tr:last-child td{border-bottom:0}
 td.k{font-weight:700;color:var(--g900);width:24%}
-.tag{display:inline-block;font-size:24px;font-weight:800;letter-spacing:.06em;padding:4px 14px;border-radius:8px;margin-left:12px;vertical-align:middle}
+.tag{display:inline-block;font-size:27px;font-weight:800;letter-spacing:.06em;padding:4px 14px;border-radius:8px;margin-left:12px;vertical-align:middle}
 .tag.ok{background:#e4f1dc;color:var(--g700)}.tag.low{background:#fbe4df;color:var(--red)}.tag.prop{background:#fbf0cf;color:#8a6d0c}
 .num{font-variant-numeric:tabular-nums}
 
 /* steps */
 .steps{display:grid;grid-template-columns:repeat(7,1fr);gap:26px}
-.step{background:var(--g100);border-radius:20px;padding:22px 28px 24px;position:relative}
-.step .n{display:inline-flex;align-items:center;justify-content:center;width:62px;height:62px;border-radius:50%;background:var(--g700);color:#fff;font-weight:800;font-size:32px;margin-bottom:16px}
-.step h3{font-size:34px;font-weight:800;color:var(--g900);margin-bottom:8px}
-.step p{font-size:30px;color:#2c352c;line-height:1.3}
+.step{background:var(--g100);border-radius:20px;padding:18px 26px 20px;position:relative}
+.step .n{display:inline-flex;align-items:center;justify-content:center;width:62px;height:62px;border-radius:50%;background:var(--g700);color:#fff;font-weight:800;font-size:32px;margin-bottom:10px}
+.step h3{font-size:38px;font-weight:800;color:var(--g900);margin-bottom:8px}
+.step p{font-size:35px;color:#2c352c;line-height:1.3}
 .step.last{background:#fbf0cf}.step.last .n{background:var(--golddk)}
 .step:not(:last-child):after{content:"";position:absolute;right:-24px;top:50%;width:0;height:0;border-left:16px solid var(--g500);border-top:14px solid transparent;border-bottom:14px solid transparent;transform:translateY(-50%)}
 
 /* conclusion */
-.concl{margin:30px 90px 0;background:var(--g800);color:#fff;border-radius:26px;padding:32px 56px;display:flex;align-items:center;gap:50px;border-left:26px solid var(--gold)}
+.concl{margin:26px 90px 0;background:var(--g800);color:#fff;border-radius:26px;padding:24px 56px;display:flex;align-items:center;gap:50px;border-left:26px solid var(--gold)}
 .concl .lbl{font-family:"Inter Display";font-size:58px;font-weight:800;flex:none;letter-spacing:.02em}
-.concl p{font-size:40px;line-height:1.35}
+.concl p{font-size:44px;line-height:1.35}
 .concl b{color:var(--gold)}
 
 /* footer */
-.foot{margin:26px 90px 0;display:grid;grid-template-columns:5fr 4fr 1.4fr;gap:50px;align-items:center;padding-bottom:16px}
-.foot h4{font-size:28px;letter-spacing:.14em;text-transform:uppercase;color:var(--g700);margin-bottom:10px;font-weight:800}
-.foot p{font-size:28px;color:#3a423a;line-height:1.4}
+.foot{margin:22px 90px 0;display:grid;grid-template-columns:5fr 4fr 1.4fr;gap:50px;align-items:center;padding-bottom:10px}
+.foot h4{font-size:30px;letter-spacing:.14em;text-transform:uppercase;color:var(--g700);margin-bottom:10px;font-weight:800}
+.foot p{font-size:32px;color:#3a423a;line-height:1.4}
 .foot .qr{display:flex;align-items:center;gap:24px;justify-self:end}
 .foot .qr img{width:230px;height:230px;border:3px solid var(--line);border-radius:12px}
-.foot .qr div{font-size:28px;line-height:1.3}
+.foot .qr div{font-size:30px;line-height:1.3}
 .foot .qr b{display:block;font-size:34px;color:var(--g900)}
 
 /* figures */
@@ -101,16 +101,16 @@ td.k{font-weight:700;color:var(--g900);width:24%}
 .leg .sw{width:30px;height:30px;border-radius:7px;flex:none}
 .leg .s{color:var(--muted);font-size:26px}
 .two{display:grid;grid-template-columns:1fr 1fr;gap:40px}
-.risk{display:flex;flex-direction:column;gap:12px}
+.risk{display:flex;flex-direction:column;gap:6px}
 .risk .it{display:flex;gap:22px;align-items:flex-start}
 .risk .n{width:52px;height:52px;border-radius:12px;background:var(--g700);color:#fff;font-weight:800;display:flex;align-items:center;justify-content:center;flex:none;font-size:30px;margin-top:4px}
-.risk h3{font-size:35px;font-weight:800;color:var(--g900)}
-.risk p{font-size:31px;color:#2c352c}
-.path{border-radius:18px;padding:26px 30px;font-size:30px;line-height:1.35}
-.path h3{font-size:32px;font-weight:800;margin-bottom:6px}
+.risk h3{font-size:39px;font-weight:800;color:var(--g900)}
+.risk p{font-size:35px;color:#2c352c}
+.path{border-radius:18px;padding:18px 26px;font-size:34px;line-height:1.32}
+.path h3{font-size:36px;font-weight:800;margin-bottom:6px}
 .path.a{background:var(--g100)}.path.a h3{color:var(--g700)}
 .path.b{background:#f0f1f3}.path.b h3{color:#3b4a5a}
-.warn{border:3px solid #f0c9c4;background:#fdf3f1;border-radius:16px;padding:22px 28px;font-size:31px;margin-top:26px}
+.warn{border:3px solid #f0c9c4;background:#fdf3f1;border-radius:16px;padding:20px 28px;font-size:36px;margin-top:20px}
 .warn b{color:var(--red)}
 </style>
 </head>
@@ -135,7 +135,7 @@ td.k{font-weight:700;color:var(--g900);width:24%}
 <section class="grid">
   <div class="card span4">
     <div class="sec"><div class="ic"><svg viewBox="0 0 24 24"><path d="M3 12h4l2-5 3 10 2-6 2 3h5"/></svg></div><h2>Background</h2></div>
-    <svg class="fig" viewBox="0 0 1000 400" id="arteries"></svg>
+    <svg class="fig" viewBox="0 0 1000 400" id="arteries" style="width:84%;margin:0 auto"></svg>
     <ul class="bul" style="margin-top:22px">
       <li><b>Starts in youth:</b> childhood risk factors predict adult cardiovascular events (38,589 people followed for 35 years).</li>
       <li><b>Cumulative:</b> 1 mmol/L lower LDL-C from early life ≈ 55% less coronary disease.</li>
@@ -146,18 +146,18 @@ td.k{font-weight:700;color:var(--g900);width:24%}
   <div class="card span4">
     <div class="sec"><div class="ic"><svg viewBox="0 0 24 24"><path d="M4 20c0-8 4-14 14-16 0 10-4 14-12 16"/><path d="M6 18c3-5 6-8 10-11"/></svg></div><h2>Why citrus bergamot?</h2></div>
     <div class="flex">
-      <div class="ph" style="width:420px;height:420px;flex:none"><img src="assets/cross.jpg" alt="Bergamot fruit, cut"><div class="pc">Bergamot fruit on the tree</div></div>
+      <div class="ph" style="width:380px;height:380px;flex:none"><img src="assets/cross.jpg" alt="Bergamot fruit, cut"><div class="pc">Bergamot fruit on the tree</div></div>
       <p><i>Citrus bergamia</i> is a citrus grown mainly in Calabria, Italy, and rich in flavanones. Two of them, <b>brutieridin</b> and <b>melitidin</b>, carry a statin-like side chain and are proposed to inhibit <b>HMG-CoA reductase</b>, the statin target.</p>
     </div>
-    <div class="note" style="margin-top:30px"><div class="t">Did you know?</div>Statins came from nature: compactin was isolated from <i>Penicillium citrinum</i> (Endo, 1976), and lovastatin from <i>Aspergillus terreus</i> became the first FDA-approved statin (1987).</div>
+    <div class="note" style="margin-top:22px"><div class="t">Did you know?</div>Statins came from nature: compactin was isolated from <i>Penicillium citrinum</i> (Endo, 1976), and lovastatin from <i>Aspergillus terreus</i> became the first FDA-approved statin (1987).</div>
   </div>
 
   <div class="card dark span4">
     <div class="sec"><div class="ic"><svg viewBox="0 0 24 24"><path d="M9 3h6M10 3v6l-5 9a2 2 0 0 0 2 3h10a2 2 0 0 0 2-3l-5-9V3"/><path d="M7 15h10"/></svg></div><h2>Study hypothesis</h2></div>
-    <p style="font-size:40px;line-height:1.38">Starting <span class="hl">Citrus bergamot</span> early in young patients with high cholesterol, who do not yet meet statin criteria, will lower LDL-C and linked cardiometabolic risk factors, and <span class="hl">delay the need for statin therapy</span> in the long run.</p>
+    <p style="font-size:46px;line-height:1.36">Starting <span class="hl">Citrus bergamot</span> early in young patients with high cholesterol, who do not yet meet statin criteria, will lower LDL-C and linked cardiometabolic risk factors, and <span class="hl">delay the need for statin therapy</span> in the long run.</p>
     <div style="margin-top:30px;display:flex;gap:26px">
-      <div style="flex:1;background:rgba(255,255,255,.1);border-radius:18px;padding:22px 26px"><div style="font-size:26px;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);font-weight:700">Population</div><div style="font-size:32px;margin-top:6px">Young patients, high LDL-C, below statin criteria</div></div>
-      <div style="flex:1;background:rgba(255,255,255,.1);border-radius:18px;padding:22px 26px"><div style="font-size:26px;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);font-weight:700">Outcome</div><div style="font-size:32px;margin-top:6px">LDL-C, apoB, metabolic markers, time to statin</div></div>
+      <div style="flex:1;background:rgba(255,255,255,.1);border-radius:18px;padding:22px 26px"><div style="font-size:28px;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);font-weight:700">Population</div><div style="font-size:36px;margin-top:6px">Young patients, high LDL-C, below statin criteria</div></div>
+      <div style="flex:1;background:rgba(255,255,255,.1);border-radius:18px;padding:22px 26px"><div style="font-size:28px;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);font-weight:700">Outcome</div><div style="font-size:36px;margin-top:6px">LDL-C, apoB, metabolic markers, time to statin</div></div>
     </div>
   </div>
 </section>
@@ -166,8 +166,8 @@ td.k{font-weight:700;color:var(--g900);width:24%}
 <section class="grid">
   <div class="card span7">
     <div class="sec"><div class="ic"><svg viewBox="0 0 24 24"><circle cx="5" cy="6" r="2.5"/><circle cx="19" cy="6" r="2.5"/><circle cx="12" cy="18" r="2.5"/><path d="M7 7.5l3.5 8M17 7.5l-3.5 8"/></svg></div><h2>How bergamot may work</h2></div>
-    <svg class="fig" viewBox="0 0 1800 540" id="pathway"></svg>
-    <div class="two" style="margin-top:14px;font-size:30px">
+    <svg class="fig" viewBox="0 0 1800 540" id="pathway" style="width:100%"></svg>
+    <div class="two" style="margin-top:14px;font-size:35px">
       <div style="background:var(--g100);border-radius:16px;padding:18px 26px"><b style="color:var(--g700)">Antioxidant:</b> ↓ LOX-1 receptor (Gliozzi 2013)</div>
       <div style="background:var(--g100);border-radius:16px;padding:18px 26px"><b style="color:var(--g700)">Liver fat:</b> ↑ lipophagy, rat model (Parafati 2015)</div>
     </div>
@@ -192,7 +192,7 @@ td.k{font-weight:700;color:var(--g900);width:24%}
 <section class="grid">
   <div class="card span7">
     <div class="sec"><div class="ic"><svg viewBox="0 0 24 24"><path d="M3 20V4M3 20h18"/><path d="M6 16l5-6 4 3 5-8"/></svg></div><h2>The principle behind the hypothesis</h2></div>
-    <img class="fig" src="assets/fig/exposure.png" alt="" style="width:1500px;margin:0 auto">
+    <img class="fig" src="assets/fig/exposure.png" alt="" style="width:1380px;margin:0 auto">
     <p class="cap" style="margin-top:14px">Why start early: lifelong exposure to lower LDL-C (people carrying LDL-lowering gene variants) roughly doubles the per-mmol/L benefit seen in 5-year statin trials. This is the cumulative-exposure principle behind the hypothesis.</p>
   </div>
 
@@ -214,11 +214,11 @@ td.k{font-weight:700;color:var(--g900);width:24%}
       <div class="it"><div class="n">4</div><div><h3>Genetic testing</h3><p>Polygenic risk score; FH variants (LDLR, APOB, PCSK9)</p></div></div>
       <div class="it"><div class="n">5</div><div><h3>Metabolic profile</h3><p>Waist, blood pressure, glucose, liver fat</p></div></div>
     </div>
-    <div class="two" style="margin-top:30px">
+    <div class="two" style="margin-top:20px">
       <div class="path a"><h3>Hypothesis pathway</h3>High cholesterol below statin criteria, no monogenic variant: lifestyle + bergamot, re-check every 6–12 months.</div>
       <div class="path b"><h3>Guideline care</h3>Monogenic FH or very high LDL-C: statin as indicated. Bergamot is not a substitute.</div>
     </div>
-    <p class="cap" style="margin-top:24px">Universal lipid screening at 9–11 and 17–21 years (NHLBI 2011); Lp(a) once (EAS 2022).</p>
+    <p class="cap" style="margin-top:16px">Universal lipid screening at 9–11 and 17–21 years (NHLBI 2011); Lp(a) once (EAS 2022).</p>
   </div>
 
   <div class="card span7">
@@ -229,7 +229,7 @@ td.k{font-weight:700;color:var(--g900);width:24%}
       <img class="fig" src="assets/fig/liver.png" alt="">
     </div>
     <div style="display:grid;grid-template-columns:2.2fr 1fr;gap:30px;align-items:center;margin-top:20px">
-      <table style="font-size:29px">
+      <table style="font-size:34px">
         <tr><th>Other pooled outcomes</th><th>HOMA-IR</th><th>Systolic BP</th><th>Waist</th></tr>
         <tr><td class="k">Mean difference (95% CI)</td><td class="num">−0.38 (−0.65 to −0.11)</td><td class="num">−2.1 mmHg (−3.3 to −0.9)</td><td class="num">−0.96 cm (−1.91 to −0.01)</td></tr>
       </table>
@@ -310,13 +310,13 @@ const F='Inter, sans-serif';
     // red blood cells
     const cells=[[-30,-30],[20,-45],[-5,-10],[35,-5]];
     cells.forEach(([dx,dy],k)=>{ if(st.plaque<0.6||k<2) el('ellipse',{cx:st.x+dx,cy:cy+dy,rx:11,ry:7,fill:'#b33a2f',stroke:'#e0948c','stroke-width':2,transform:`rotate(${k*35} ${st.x+dx} ${cy+dy})`},g);});
-    el('text',{x:st.x,y:312,'text-anchor':'middle','font-family':F,'font-size':34,'font-weight':700,fill:'#163a1c'},s,st.title);
-    el('text',{x:st.x,y:348,'text-anchor':'middle','font-family':F,'font-size':28,fill:'#56605a'},s,st.sub);
+    el('text',{x:st.x,y:312,'text-anchor':'middle','font-family':F,'font-size':38,'font-weight':700,fill:'#163a1c'},s,st.title);
+    el('text',{x:st.x,y:348,'text-anchor':'middle','font-family':F,'font-size':31,fill:'#56605a'},s,st.sub);
     if(i<2){el('path',{d:`M ${st.x+150} 150 H ${st.x+300}`,stroke:'#b8941f','stroke-width':6,fill:'none','stroke-linecap':'round'},s);el('path',{d:`M ${st.x+300} 150 l -22 -14 M ${st.x+300} 150 l -22 14`,stroke:'#b8941f','stroke-width':6,fill:'none','stroke-linecap':'round'},s);}
   });
   // small legend
   const lg=[['#7a1f1f','lumen (blood)'],['#e7b94a','lipid-rich plaque'],['#c9726a','vessel wall']];
-  lg.forEach((l,i)=>{const x=120+i*300; el('rect',{x:x,y:372,width:22,height:22,rx:5,fill:l[0]},s); el('text',{x:x+34,y:391,'font-family':F,'font-size':24,fill:'#56605a'},s,l[1]);});
+  lg.forEach((l,i)=>{const x=120+i*300; el('rect',{x:x,y:372,width:22,height:22,rx:5,fill:l[0]},s); el('text',{x:x+34,y:391,'font-family':F,'font-size':27,fill:'#56605a'},s,l[1]);});
 })();
 
 /* ---- pathway ---- */
